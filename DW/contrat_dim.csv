@@ -1,0 +1,458 @@
+C_ID;FORMULE;CATEG_FORMULE;TYPE_BENEFICIAIRE;LIBELLE_PROFESSION
+EN5TPrivilege;Privilege;Privilege;EN;Employes
+AS5TPrivilege;Privilege;Privilege;AS;Employes
+CO5SPrivilege;Privilege;Privilege;CO;Employes
+EN5SPrivilege;Privilege;Privilege;EN;Employes
+CO3NConfort;Confort;Confort;CO;Cadres et professions intellectuelles superieures
+EN2AConfort;Confort;Confort;EN;Artisans, commercants et chefs d'entreprises
+AS2IConfort specifique;Confort specifique;Confort;AS;Artisans, commercants et chefs d'entreprises
+CO1BPrivilege specifique;Privilege specifique;Privilege;CO;Agriculteurs
+CO4OTM+;TM+;TM+;CO;Professions intermediaires
+EN1OConfort specifique;Confort specifique;Confort;EN;Agriculteurs
+AS4OPrivilege;Privilege;Privilege;AS;Professions intermediaires
+CO5SConfort;Confort;Confort;CO;Employes
+AS5STM+;TM+;TM+;AS;Employes
+EN2JConfort;Confort;Confort;EN;Artisans, commercants et chefs d'entreprises
+EN4OPrivilege;Privilege;Privilege;EN;Professions intermediaires
+CO2JPrivilege;Privilege;Privilege;CO;Artisans, commercants et chefs d'entreprises
+CO1HConfort specifique;Confort specifique;Confort;CO;Agriculteurs
+AS2KTM+;TM+;TM+;AS;Artisans, commercants et chefs d'entreprises
+CO2KConfort;Confort;Confort;CO;Artisans, commercants et chefs d'entreprises
+EN3LPrivilege specifique;Privilege specifique;Privilege;EN;Cadres et professions intellectuelles superieures
+AS2ATM+   specifique;TM+   specifique;TM+;AS;Artisans, commercants et chefs d'entreprises
+CO2ITM+;TM+;TM+;CO;Artisans, commercants et chefs d'entreprises
+CO2KTM+;TM+;TM+;CO;Artisans, commercants et chefs d'entreprises
+AS5TTM+;TM+;TM+;AS;Employes
+AS4JPrivilege specifique;Privilege specifique;Privilege;AS;Professions intermediaires
+EN3LTM+   specifique;TM+   specifique;TM+;EN;Cadres et professions intellectuelles superieures
+AS5TConfort;Confort;Confort;AS;Employes
+EN4IPrivilege;Privilege;Privilege;EN;Professions intermediaires
+CO3OPrivilege;Privilege;Privilege;CO;Cadres et professions intellectuelles superieures
+EN1ETM+;TM+;TM+;EN;Agriculteurs
+AS3NConfort specifique;Confort specifique;Confort;AS;Cadres et professions intellectuelles superieures
+CO4LPrivilege;Privilege;Privilege;CO;Professions intermediaires
+AS4LPrivilege;Privilege;Privilege;AS;Professions intermediaires
+CO4WPrivilege;Privilege;Privilege;CO;Professions intermediaires
+AS4JTM+;TM+;TM+;AS;Professions intermediaires
+CO4LConfort;Confort;Confort;CO;Professions intermediaires
+EN1PPrivilege;Privilege;Privilege;EN;Agriculteurs
+CO2HConfort;Confort;Confort;CO;Artisans, commercants et chefs d'entreprises
+AS3MConfort specifique;Confort specifique;Confort;AS;Cadres et professions intellectuelles superieures
+AS1PTM+   specifique;TM+   specifique;TM+;AS;Agriculteurs
+AS3LTM+   specifique;TM+   specifique;TM+;AS;Cadres et professions intellectuelles superieures
+CO1OConfort;Confort;Confort;CO;Agriculteurs
+EN1EConfort;Confort;Confort;EN;Agriculteurs
+AS2GConfort specifique;Confort specifique;Confort;AS;Artisans, commercants et chefs d'entreprises
+CO4KConfort specifique;Confort specifique;Confort;CO;Professions intermediaires
+AS3LPrivilege specifique;Privilege specifique;Privilege;AS;Cadres et professions intellectuelles superieures
+EN4IConfort;Confort;Confort;EN;Professions intermediaires
+EN2KTM+;TM+;TM+;EN;Artisans, commercants et chefs d'entreprises
+AS4KConfort specifique;Confort specifique;Confort;AS;Professions intermediaires
+AS3NPrivilege specifique;Privilege specifique;Privilege;AS;Cadres et professions intellectuelles superieures
+AS1EConfort;Confort;Confort;AS;Agriculteurs
+EN3KConfort specifique;Confort specifique;Confort;EN;Cadres et professions intellectuelles superieures
+AS1LTM+   specifique;TM+   specifique;TM+;AS;Agriculteurs
+CO4WTM+;TM+;TM+;CO;Professions intermediaires
+CO1OPrivilege;Privilege;Privilege;CO;Agriculteurs
+CO5STM+;TM+;TM+;CO;Employes
+CO1DTM+;TM+;TM+;CO;Agriculteurs
+AS4IConfort;Confort;Confort;AS;Professions intermediaires
+CO1OTM+;TM+;TM+;CO;Agriculteurs
+AS1DConfort specifique;Confort specifique;Confort;AS;Agriculteurs
+AS2IPrivilege specifique;Privilege specifique;Privilege;AS;Artisans, commercants et chefs d'entreprises
+AS4WConfort specifique;Confort specifique;Confort;AS;Professions intermediaires
+EN4WConfort specifique;Confort specifique;Confort;EN;Professions intermediaires
+AS1FTM+;TM+;TM+;AS;Agriculteurs
+AS1ETM+;TM+;TM+;AS;Agriculteurs
+CO1ETM+;TM+;TM+;CO;Agriculteurs
+EN2GPrivilege specifique;Privilege specifique;Privilege;EN;Artisans, commercants et chefs d'entreprises
+AS3KPrivilege specifique;Privilege specifique;Privilege;AS;Cadres et professions intellectuelles superieures
+AS1PConfort specifique;Confort specifique;Confort;AS;Agriculteurs
+AS3KTM+   specifique;TM+   specifique;TM+;AS;Cadres et professions intellectuelles superieures
+AS4LTM+;TM+;TM+;AS;Professions intermediaires
+CO1PPrivilege;Privilege;Privilege;CO;Agriculteurs
+EN1OPrivilege specifique;Privilege specifique;Privilege;EN;Agriculteurs
+EN4LTM+;TM+;TM+;EN;Professions intermediaires
+AS4PConfort specifique;Confort specifique;Confort;AS;Professions intermediaires
+CO5TPrivilege;Privilege;Privilege;CO;Employes
+CO2JConfort;Confort;Confort;CO;Artisans, commercants et chefs d'entreprises
+AS1LConfort specifique;Confort specifique;Confort;AS;Agriculteurs
+AS1OConfort specifique;Confort specifique;Confort;AS;Agriculteurs
+EN4WTM+   specifique;TM+   specifique;TM+;EN;Professions intermediaires
+CO1BTM+   specifique;TM+   specifique;TM+;CO;Agriculteurs
+AS3MPrivilege specifique;Privilege specifique;Privilege;AS;Cadres et professions intellectuelles superieures
+EN3OConfort specifique;Confort specifique;Confort;EN;Cadres et professions intellectuelles superieures
+CO1EPrivilege;Privilege;Privilege;CO;Agriculteurs
+EN3NPrivilege specifique;Privilege specifique;Privilege;EN;Cadres et professions intellectuelles superieures
+EN2ATM+   specifique;TM+   specifique;TM+;EN;Artisans, commercants et chefs d'entreprises
+AS4NTM+   specifique;TM+   specifique;TM+;AS;Professions intermediaires
+CO2HPrivilege;Privilege;Privilege;CO;Artisans, commercants et chefs d'entreprises
+AS2HTM+   specifique;TM+   specifique;TM+;AS;Artisans, commercants et chefs d'entreprises
+CO3PTM+   specifique;TM+   specifique;TM+;CO;Cadres et professions intellectuelles superieures
+AS3PTM+   specifique;TM+   specifique;TM+;AS;Cadres et professions intellectuelles superieures
+EN3KPrivilege specifique;Privilege specifique;Privilege;EN;Cadres et professions intellectuelles superieures
+CO4JPrivilege specifique;Privilege specifique;Privilege;CO;Professions intermediaires
+CO4XTM+;TM+;TM+;CO;Professions intermediaires
+EN4ITM+;TM+;TM+;EN;Professions intermediaires
+AS2JTM+;TM+;TM+;AS;Artisans, commercants et chefs d'entreprises
+EN1LConfort specifique;Confort specifique;Confort;EN;Agriculteurs
+EN4XPrivilege;Privilege;Privilege;EN;Professions intermediaires
+AS2HPrivilege specifique;Privilege specifique;Privilege;AS;Artisans, commercants et chefs d'entreprises
+AS4NPrivilege specifique;Privilege specifique;Privilege;AS;Professions intermediaires
+AS4XPrivilege;Privilege;Privilege;AS;Professions intermediaires
+AS4KPrivilege specifique;Privilege specifique;Privilege;AS;Professions intermediaires
+AS1OPrivilege specifique;Privilege specifique;Privilege;AS;Agriculteurs
+AS4KTM+   specifique;TM+   specifique;TM+;AS;Professions intermediaires
+AS3NTM+   specifique;TM+   specifique;TM+;AS;Cadres et professions intellectuelles superieures
+CO1PConfort;Confort;Confort;CO;Agriculteurs
+AS4ITM+;TM+;TM+;AS;Professions intermediaires
+EN2GConfort specifique;Confort specifique;Confort;EN;Artisans, commercants et chefs d'entreprises
+AS1DPrivilege specifique;Privilege specifique;Privilege;AS;Agriculteurs
+CO3LTM+   specifique;TM+   specifique;TM+;CO;Cadres et professions intellectuelles superieures
+AS2HConfort specifique;Confort specifique;Confort;AS;Artisans, commercants et chefs d'entreprises
+CO1EConfort;Confort;Confort;CO;Agriculteurs
+CO5QPrivilege;Privilege;Privilege;CO;Employes
+EN3KTM+   specifique;TM+   specifique;TM+;EN;Cadres et professions intellectuelles superieures
+CO4XConfort;Confort;Confort;CO;Professions intermediaires
+EN4NConfort specifique;Confort specifique;Confort;EN;Professions intermediaires
+CO2HTM+   specifique;TM+   specifique;TM+;CO;Artisans, commercants et chefs d'entreprises
+AS3OConfort specifique;Confort specifique;Confort;AS;Cadres et professions intellectuelles superieures
+CO1PTM+;TM+;TM+;CO;Agriculteurs
+EN3NConfort specifique;Confort specifique;Confort;EN;Cadres et professions intellectuelles superieures
+CO4IConfort;Confort;Confort;CO;Professions intermediaires
+AS2KPrivilege specifique;Privilege specifique;Privilege;AS;Artisans, commercants et chefs d'entreprises
+EN2HTM+   specifique;TM+   specifique;TM+;EN;Artisans, commercants et chefs d'entreprises
+AS5QPrivilege;Privilege;Privilege;AS;Employes
+EN1OConfort;Confort;Confort;EN;Agriculteurs
+AS4PPrivilege;Privilege;Privilege;AS;Professions intermediaires
+AS2ATM+;TM+;TM+;AS;Artisans, commercants et chefs d'entreprises
+EN3MConfort;Confort;Confort;EN;Cadres et professions intellectuelles superieures
+AS2GPrivilege;Privilege;Privilege;AS;Artisans, commercants et chefs d'entreprises
+AS1FPrivilege;Privilege;Privilege;AS;Agriculteurs
+AS1AConfort specifique;Confort specifique;Confort;AS;Agriculteurs
+EN1AConfort specifique;Confort specifique;Confort;EN;Agriculteurs
+EN3PConfort;Confort;Confort;EN;Cadres et professions intellectuelles superieures
+AS4NConfort;Confort;Confort;AS;Professions intermediaires
+AS4XTM+;TM+;TM+;AS;Professions intermediaires
+AS5RPrivilege;Privilege;Privilege;AS;Employes
+AS2HPrivilege;Privilege;Privilege;AS;Artisans, commercants et chefs d'entreprises
+EN2GConfort;Confort;Confort;EN;Artisans, commercants et chefs d'entreprises
+EN2GTM+;TM+;TM+;EN;Artisans, commercants et chefs d'entreprises
+AS4WConfort;Confort;Confort;AS;Professions intermediaires
+AS1IConfort specifique;Confort specifique;Confort;AS;Agriculteurs
+EN4WConfort;Confort;Confort;EN;Professions intermediaires
+AS2AConfort;Confort;Confort;AS;Artisans, commercants et chefs d'entreprises
+AS2IPrivilege;Privilege;Privilege;AS;Artisans, commercants et chefs d'entreprises
+AS1APrivilege specifique;Privilege specifique;Privilege;AS;Agriculteurs
+EN1APrivilege specifique;Privilege specifique;Privilege;EN;Agriculteurs
+AS3OConfort;Confort;Confort;AS;Cadres et professions intellectuelles superieures
+AS4PConfort;Confort;Confort;AS;Professions intermediaires
+AS1OConfort;Confort;Confort;AS;Agriculteurs
+AS4NTM+;TM+;TM+;AS;Professions intermediaires
+EN1GPrivilege specifique;Privilege specifique;Privilege;EN;Agriculteurs
+CO1GConfort;Confort;Confort;CO;Agriculteurs
+AS1ITM+   specifique;TM+   specifique;TM+;AS;Agriculteurs
+AS3LConfort;Confort;Confort;AS;Cadres et professions intellectuelles superieures
+AS4KConfort;Confort;Confort;AS;Professions intermediaires
+AS5RConfort;Confort;Confort;AS;Employes
+AS1CConfort specifique;Confort specifique;Confort;AS;Agriculteurs
+AS3PConfort;Confort;Confort;AS;Cadres et professions intellectuelles superieures
+CO5RConfort;Confort;Confort;CO;Employes
+AS3PTM+;TM+;TM+;AS;Cadres et professions intellectuelles superieures
+EN1FPrivilege;Privilege;Privilege;EN;Agriculteurs
+EN1GConfort;Confort;Confort;EN;Agriculteurs
+EN1ATM+   specifique;TM+   specifique;TM+;EN;Agriculteurs
+AS3MConfort;Confort;Confort;AS;Cadres et professions intellectuelles superieures
+AS1IPrivilege specifique;Privilege specifique;Privilege;AS;Agriculteurs
+AS5QTM+;TM+;TM+;AS;Employes
+EN2GPrivilege;Privilege;Privilege;EN;Artisans, commercants et chefs d'entreprises
+AS2APrivilege;Privilege;Privilege;AS;Artisans, commercants et chefs d'entreprises
+AS2IConfort;Confort;Confort;AS;Artisans, commercants et chefs d'entreprises
+CO1DConfort;Confort;Confort;CO;Agriculteurs
+AS4KPrivilege;Privilege;Privilege;AS;Professions intermediaires
+AS5QConfort;Confort;Confort;AS;Employes
+EN5QConfort;Confort;Confort;EN;Employes
+AS1PConfort;Confort;Confort;AS;Agriculteurs
+CO1CConfort specifique;Confort specifique;Confort;CO;Agriculteurs
+EN4KPrivilege;Privilege;Privilege;EN;Professions intermediaires
+AS1HPrivilege specifique;Privilege specifique;Privilege;AS;Agriculteurs
+EN1HPrivilege specifique;Privilege specifique;Privilege;EN;Agriculteurs
+AS1AConfort;Confort;Confort;AS;Agriculteurs
+EN1AConfort;Confort;Confort;EN;Agriculteurs
+CO1HPrivilege specifique;Privilege specifique;Privilege;CO;Agriculteurs
+AS1APrivilege;Privilege;Privilege;AS;Agriculteurs
+CO5RPrivilege;Privilege;Privilege;CO;Employes
+AS4WPrivilege;Privilege;Privilege;AS;Professions intermediaires
+AS4JPrivilege;Privilege;Privilege;AS;Professions intermediaires
+CO5QTM+;TM+;TM+;CO;Employes
+CO4WConfort;Confort;Confort;CO;Professions intermediaires
+CO4PPrivilege;Privilege;Privilege;CO;Professions intermediaires
+AS4NPrivilege;Privilege;Privilege;AS;Professions intermediaires
+EN1IPrivilege specifique;Privilege specifique;Privilege;EN;Agriculteurs
+AS2HConfort;Confort;Confort;AS;Artisans, commercants et chefs d'entreprises
+EN3MPrivilege;Privilege;Privilege;EN;Cadres et professions intellectuelles superieures
+EN4NConfort;Confort;Confort;EN;Professions intermediaires
+AS1GConfort specifique;Confort specifique;Confort;AS;Agriculteurs
+EN4JTM+;TM+;TM+;EN;Professions intermediaires
+AS1GPrivilege;Privilege;Privilege;AS;Agriculteurs
+CO3LConfort;Confort;Confort;CO;Cadres et professions intellectuelles superieures
+EN3KConfort;Confort;Confort;EN;Cadres et professions intellectuelles superieures
+AS2GConfort;Confort;Confort;AS;Artisans, commercants et chefs d'entreprises
+EN4KTM+;TM+;TM+;EN;Professions intermediaires
+CO3PConfort;Confort;Confort;CO;Cadres et professions intellectuelles superieures
+AS4NConfort specifique;Confort specifique;Confort;AS;Professions intermediaires
+AS1IPrivilege;Privilege;Privilege;AS;Agriculteurs
+EN1IPrivilege;Privilege;Privilege;EN;Agriculteurs
+AS3PPrivilege;Privilege;Privilege;AS;Cadres et professions intellectuelles superieures
+EN1IConfort specifique;Confort specifique;Confort;EN;Agriculteurs
+AS4KTM+;TM+;TM+;AS;Professions intermediaires
+EN3LConfort;Confort;Confort;EN;Cadres et professions intellectuelles superieures
+AS1BConfort;Confort;Confort;AS;Agriculteurs
+EN1LPrivilege;Privilege;Privilege;EN;Agriculteurs
+EN1CPrivilege specifique;Privilege specifique;Privilege;EN;Agriculteurs
+AS2GTM+;TM+;TM+;AS;Artisans, commercants et chefs d'entreprises
+EN4PConfort;Confort;Confort;EN;Professions intermediaires
+CO4PConfort;Confort;Confort;CO;Professions intermediaires
+EN1CConfort specifique;Confort specifique;Confort;EN;Agriculteurs
+AS1ATM+;TM+;TM+;AS;Agriculteurs
+EN3LTM+;TM+;TM+;EN;Cadres et professions intellectuelles superieures
+AS5RTM+;TM+;TM+;AS;Employes
+EN5RTM+;TM+;TM+;EN;Employes
+AS3MPrivilege;Privilege;Privilege;AS;Cadres et professions intellectuelles superieures
+CO1ITM+   specifique;TM+   specifique;TM+;CO;Agriculteurs
+EN1BConfort;Confort;Confort;EN;Agriculteurs
+EN5QTM+;TM+;TM+;EN;Employes
+CO5RTM+;TM+;TM+;CO;Employes
+AS1CPrivilege;Privilege;Privilege;AS;Agriculteurs
+CO2GConfort;Confort;Confort;CO;Artisans, commercants et chefs d'entreprises
+AS3KTM+;TM+;TM+;AS;Cadres et professions intellectuelles superieures
+AS1DPrivilege;Privilege;Privilege;AS;Agriculteurs
+CO1AConfort specifique;Confort specifique;Confort;CO;Agriculteurs
+CO1GPrivilege specifique;Privilege specifique;Privilege;CO;Agriculteurs
+AS1BPrivilege;Privilege;Privilege;AS;Agriculteurs
+EN1BPrivilege;Privilege;Privilege;EN;Agriculteurs
+CO1AConfort;Confort;Confort;CO;Agriculteurs
+EN1IConfort;Confort;Confort;EN;Agriculteurs
+CO1IConfort specifique;Confort specifique;Confort;CO;Agriculteurs
+AS4JConfort;Confort;Confort;AS;Professions intermediaires
+EN5RPrivilege;Privilege;Privilege;EN;Employes
+EN4JPrivilege;Privilege;Privilege;EN;Professions intermediaires
+AS3KConfort;Confort;Confort;AS;Cadres et professions intellectuelles superieures
+AS3OTM+;TM+;TM+;AS;Cadres et professions intellectuelles superieures
+AS1GConfort;Confort;Confort;AS;Agriculteurs
+CO4NConfort;Confort;Confort;CO;Professions intermediaires
+AS3NConfort;Confort;Confort;AS;Cadres et professions intellectuelles superieures
+AS3KPrivilege;Privilege;Privilege;AS;Cadres et professions intellectuelles superieures
+CO3KConfort;Confort;Confort;CO;Cadres et professions intellectuelles superieures
+AS1IConfort;Confort;Confort;AS;Agriculteurs
+EN1CConfort;Confort;Confort;EN;Agriculteurs
+EN2IPrivilege;Privilege;Privilege;EN;Artisans, commercants et chefs d'entreprises
+AS1ATM+   specifique;TM+   specifique;TM+;AS;Agriculteurs
+AS1LConfort;Confort;Confort;AS;Agriculteurs
+EN4PPrivilege;Privilege;Privilege;EN;Professions intermediaires
+EN4WPrivilege;Privilege;Privilege;EN;Professions intermediaires
+EN4NTM+;TM+;TM+;EN;Professions intermediaires
+CO1LConfort;Confort;Confort;CO;Agriculteurs
+AS4WTM+;TM+;TM+;AS;Professions intermediaires
+EN5STM+;TM+;TM+;EN;Employes
+EN3LPrivilege;Privilege;Privilege;EN;Cadres et professions intellectuelles superieures
+CO4NPrivilege;Privilege;Privilege;CO;Professions intermediaires
+EN3NConfort;Confort;Confort;EN;Cadres et professions intellectuelles superieures
+EN3OPrivilege;Privilege;Privilege;EN;Cadres et professions intellectuelles superieures
+EN4KConfort;Confort;Confort;EN;Professions intermediaires
+AS1CPrivilege specifique;Privilege specifique;Privilege;AS;Agriculteurs
+CO3OConfort;Confort;Confort;CO;Cadres et professions intellectuelles superieures
+EN1LConfort;Confort;Confort;EN;Agriculteurs
+EN2IConfort;Confort;Confort;EN;Artisans, commercants et chefs d'entreprises
+AS4PTM+;TM+;TM+;AS;Professions intermediaires
+AS5SConfort;Confort;Confort;AS;Employes
+AS1CTM+;TM+;TM+;AS;Agriculteurs
+CO4KPrivilege;Privilege;Privilege;CO;Professions intermediaires
+AS3NTM+;TM+;TM+;AS;Cadres et professions intellectuelles superieures
+AS3NPrivilege;Privilege;Privilege;AS;Cadres et professions intellectuelles superieures
+AS1DConfort;Confort;Confort;AS;Agriculteurs
+CO3MPrivilege;Privilege;Privilege;CO;Cadres et professions intellectuelles superieures
+AS2HTM+;TM+;TM+;AS;Artisans, commercants et chefs d'entreprises
+AS1CConfort;Confort;Confort;AS;Agriculteurs
+CO3PPrivilege;Privilege;Privilege;CO;Cadres et professions intellectuelles superieures
+EN5RConfort;Confort;Confort;EN;Employes
+CO3MConfort specifique;Confort specifique;Confort;CO;Cadres et professions intellectuelles superieures
+EN3MConfort specifique;Confort specifique;Confort;EN;Cadres et professions intellectuelles superieures
+AS1OTM+;TM+;TM+;AS;Agriculteurs
+EN4NPrivilege;Privilege;Privilege;EN;Professions intermediaires
+CO2AConfort;Confort;Confort;CO;Artisans, commercants et chefs d'entreprises
+CO4KTM+;TM+;TM+;CO;Professions intermediaires
+EN4JConfort;Confort;Confort;EN;Professions intermediaires
+AS2ITM+;TM+;TM+;AS;Artisans, commercants et chefs d'entreprises
+AS1BTM+   specifique;TM+   specifique;TM+;AS;Agriculteurs
+CO1APrivilege specifique;Privilege specifique;Privilege;CO;Agriculteurs
+EN3KPrivilege;Privilege;Privilege;EN;Cadres et professions intellectuelles superieures
+EN1DConfort;Confort;Confort;EN;Agriculteurs
+EN1LTM+;TM+;TM+;EN;Agriculteurs
+AS1HConfort;Confort;Confort;AS;Agriculteurs
+EN3KTM+;TM+;TM+;EN;Cadres et professions intellectuelles superieures
+CO3KPrivilege;Privilege;Privilege;CO;Cadres et professions intellectuelles superieures
+AS1DTM+;TM+;TM+;AS;Agriculteurs
+AS1PPrivilege;Privilege;Privilege;AS;Agriculteurs
+EN1DTM+;TM+;TM+;EN;Agriculteurs
+AS3LTM+;TM+;TM+;AS;Cadres et professions intellectuelles superieures
+CO3OTM+;TM+;TM+;CO;Cadres et professions intellectuelles superieures
+AS1HTM+;TM+;TM+;AS;Agriculteurs
+EN1ITM+   specifique;TM+   specifique;TM+;EN;Agriculteurs
+AS4IPrivilege;Privilege;Privilege;AS;Professions intermediaires
+EN1CPrivilege;Privilege;Privilege;EN;Agriculteurs
+CO2GTM+;TM+;TM+;CO;Artisans, commercants et chefs d'entreprises
+EN4WTM+;TM+;TM+;EN;Professions intermediaires
+EN2APrivilege;Privilege;Privilege;EN;Artisans, commercants et chefs d'entreprises
+CO2APrivilege;Privilege;Privilege;CO;Artisans, commercants et chefs d'entreprises
+EN5TTM+;TM+;TM+;EN;Employes
+EN1GConfort specifique;Confort specifique;Confort;EN;Agriculteurs
+AS3OPrivilege;Privilege;Privilege;AS;Cadres et professions intellectuelles superieures
+AS3LPrivilege;Privilege;Privilege;AS;Cadres et professions intellectuelles superieures
+CO3KTM+;TM+;TM+;CO;Cadres et professions intellectuelles superieures
+EN4LPrivilege;Privilege;Privilege;EN;Professions intermediaires
+EN4KConfort specifique;Confort specifique;Confort;EN;Professions intermediaires
+CO1CConfort;Confort;Confort;CO;Agriculteurs
+EN3OConfort;Confort;Confort;EN;Cadres et professions intellectuelles superieures
+CO4JConfort;Confort;Confort;CO;Professions intermediaires
+AS4OTM+;TM+;TM+;AS;Professions intermediaires
+EN4LConfort;Confort;Confort;EN;Professions intermediaires
+AS1LPrivilege;Privilege;Privilege;AS;Agriculteurs
+CO5TConfort;Confort;Confort;CO;Employes
+CO1GPrivilege;Privilege;Privilege;CO;Agriculteurs
+AS1OPrivilege;Privilege;Privilege;AS;Agriculteurs
+EN1HTM+;TM+;TM+;EN;Agriculteurs
+CO1IConfort;Confort;Confort;CO;Agriculteurs
+AS1ITM+;TM+;TM+;AS;Agriculteurs
+CO4NTM+;TM+;TM+;CO;Professions intermediaires
+CO1GConfort specifique;Confort specifique;Confort;CO;Agriculteurs
+EN4XTM+;TM+;TM+;EN;Professions intermediaires
+CO3LPrivilege;Privilege;Privilege;CO;Cadres et professions intellectuelles superieures
+EN3PPrivilege;Privilege;Privilege;EN;Cadres et professions intellectuelles superieures
+EN1PConfort;Confort;Confort;EN;Agriculteurs
+EN4PTM+;TM+;TM+;EN;Professions intermediaires
+EN5SConfort;Confort;Confort;EN;Employes
+EN2HConfort;Confort;Confort;EN;Artisans, commercants et chefs d'entreprises
+AS1FConfort;Confort;Confort;AS;Agriculteurs
+CO1CTM+;TM+;TM+;CO;Agriculteurs
+CO3MConfort;Confort;Confort;CO;Cadres et professions intellectuelles superieures
+EN1HPrivilege;Privilege;Privilege;EN;Agriculteurs
+EN3NPrivilege;Privilege;Privilege;EN;Cadres et professions intellectuelles superieures
+AS1OTM+   specifique;TM+   specifique;TM+;AS;Agriculteurs
+EN3PTM+;TM+;TM+;EN;Cadres et professions intellectuelles superieures
+AS5SPrivilege;Privilege;Privilege;AS;Employes
+AS1HConfort specifique;Confort specifique;Confort;AS;Agriculteurs
+EN1HConfort specifique;Confort specifique;Confort;EN;Agriculteurs
+AS1CTM+   specifique;TM+   specifique;TM+;AS;Agriculteurs
+EN1CTM+;TM+;TM+;EN;Agriculteurs
+EN1ATM+;TM+;TM+;EN;Agriculteurs
+AS1HPrivilege;Privilege;Privilege;AS;Agriculteurs
+EN1APrivilege;Privilege;Privilege;EN;Agriculteurs
+AS3MTM+;TM+;TM+;AS;Cadres et professions intellectuelles superieures
+AS3PConfort specifique;Confort specifique;Confort;AS;Cadres et professions intellectuelles superieures
+EN3PConfort specifique;Confort specifique;Confort;EN;Cadres et professions intellectuelles superieures
+CO4KConfort;Confort;Confort;CO;Professions intermediaires
+AS1PTM+;TM+;TM+;AS;Agriculteurs
+CO1APrivilege;Privilege;Privilege;CO;Agriculteurs
+EN1BConfort specifique;Confort specifique;Confort;EN;Agriculteurs
+AS1BConfort specifique;Confort specifique;Confort;AS;Agriculteurs
+CO1CPrivilege specifique;Privilege specifique;Privilege;CO;Agriculteurs
+EN1DPrivilege;Privilege;Privilege;EN;Agriculteurs
+CO3LTM+;TM+;TM+;CO;Cadres et professions intellectuelles superieures
+AS1BPrivilege specifique;Privilege specifique;Privilege;AS;Agriculteurs
+CO1IPrivilege specifique;Privilege specifique;Privilege;CO;Agriculteurs
+CO2IPrivilege;Privilege;Privilege;CO;Artisans, commercants et chefs d'entreprises
+CO1DPrivilege;Privilege;Privilege;CO;Agriculteurs
+AS1HTM+   specifique;TM+   specifique;TM+;AS;Agriculteurs
+CO1HTM+   specifique;TM+   specifique;TM+;CO;Agriculteurs
+EN3NTM+;TM+;TM+;EN;Cadres et professions intellectuelles superieures
+EN1BTM+   specifique;TM+   specifique;TM+;EN;Agriculteurs
+EN1PTM+;TM+;TM+;EN;Agriculteurs
+AS4XConfort;Confort;Confort;AS;Professions intermediaires
+AS1GPrivilege specifique;Privilege specifique;Privilege;AS;Agriculteurs
+CO4JPrivilege;Privilege;Privilege;CO;Professions intermediaires
+EN1GPrivilege;Privilege;Privilege;EN;Agriculteurs
+EN3MTM+;TM+;TM+;EN;Cadres et professions intellectuelles superieures
+EN4JPrivilege specifique;Privilege specifique;Privilege;EN;Professions intermediaires
+EN4OTM+;TM+;TM+;EN;Professions intermediaires
+CO1IPrivilege;Privilege;Privilege;CO;Agriculteurs
+AS1LTM+;TM+;TM+;AS;Agriculteurs
+AS2GPrivilege specifique;Privilege specifique;Privilege;AS;Artisans, commercants et chefs d'entreprises
+CO3PTM+;TM+;TM+;CO;Cadres et professions intellectuelles superieures
+CO1ITM+;TM+;TM+;CO;Agriculteurs
+CO2GPrivilege;Privilege;Privilege;CO;Artisans, commercants et chefs d'entreprises
+CO5TTM+;TM+;TM+;CO;Employes
+AS4LConfort;Confort;Confort;AS;Professions intermediaires
+EN4XConfort;Confort;Confort;EN;Professions intermediaires
+AS3KConfort specifique;Confort specifique;Confort;AS;Cadres et professions intellectuelles superieures
+CO1CPrivilege;Privilege;Privilege;CO;Agriculteurs
+AS2GTM+   specifique;TM+   specifique;TM+;AS;Artisans, commercants et chefs d'entreprises
+AS4IPrivilege specifique;Privilege specifique;Privilege;AS;Professions intermediaires
+EN4IPrivilege specifique;Privilege specifique;Privilege;EN;Professions intermediaires
+CO1BConfort specifique;Confort specifique;Confort;CO;Agriculteurs
+EN1FConfort;Confort;Confort;EN;Agriculteurs
+EN1HConfort;Confort;Confort;EN;Agriculteurs
+CO3NTM+;TM+;TM+;CO;Cadres et professions intellectuelles superieures
+AS1BTM+;TM+;TM+;AS;Agriculteurs
+EN2ITM+;TM+;TM+;EN;Artisans, commercants et chefs d'entreprises
+EN1FTM+;TM+;TM+;EN;Agriculteurs
+CO1FTM+;TM+;TM+;CO;Agriculteurs
+CO4OConfort;Confort;Confort;CO;Professions intermediaires
+EN3OTM+;TM+;TM+;EN;Cadres et professions intellectuelles superieures
+CO4OPrivilege;Privilege;Privilege;CO;Professions intermediaires
+CO5QConfort;Confort;Confort;CO;Employes
+EN1BPrivilege specifique;Privilege specifique;Privilege;EN;Agriculteurs
+EN1OPrivilege;Privilege;Privilege;EN;Agriculteurs
+CO1FConfort;Confort;Confort;CO;Agriculteurs
+EN1HTM+   specifique;TM+   specifique;TM+;EN;Agriculteurs
+CO1HPrivilege;Privilege;Privilege;CO;Agriculteurs
+CO1HConfort;Confort;Confort;CO;Agriculteurs
+EN2HPrivilege;Privilege;Privilege;EN;Artisans, commercants et chefs d'entreprises
+CO1FPrivilege;Privilege;Privilege;CO;Agriculteurs
+AS2AConfort specifique;Confort specifique;Confort;AS;Artisans, commercants et chefs d'entreprises
+CO2ATM+;TM+;TM+;CO;Artisans, commercants et chefs d'entreprises
+EN5TConfort;Confort;Confort;EN;Employes
+CO1BPrivilege;Privilege;Privilege;CO;Agriculteurs
+CO4PTM+;TM+;TM+;CO;Professions intermediaires
+EN5QPrivilege;Privilege;Privilege;EN;Employes
+EN4OConfort;Confort;Confort;EN;Professions intermediaires
+CO4IPrivilege;Privilege;Privilege;CO;Professions intermediaires
+CO1LTM+;TM+;TM+;CO;Agriculteurs
+EN1ITM+;TM+;TM+;EN;Agriculteurs
+EN2KConfort;Confort;Confort;EN;Artisans, commercants et chefs d'entreprises
+CO2HTM+;TM+;TM+;CO;Artisans, commercants et chefs d'entreprises
+EN2HTM+;TM+;TM+;EN;Artisans, commercants et chefs d'entreprises
+AS4WTM+   specifique;TM+   specifique;TM+;AS;Professions intermediaires
+CO1ATM+   specifique;TM+   specifique;TM+;CO;Agriculteurs
+CO3MTM+;TM+;TM+;CO;Cadres et professions intellectuelles superieures
+CO1GTM+;TM+;TM+;CO;Agriculteurs
+AS1GTM+;TM+;TM+;AS;Agriculteurs
+EN1BTM+;TM+;TM+;EN;Agriculteurs
+EN1CTM+   specifique;TM+   specifique;TM+;EN;Agriculteurs
+CO1BTM+;TM+;TM+;CO;Agriculteurs
+EN1GTM+;TM+;TM+;EN;Agriculteurs
+CO1CTM+   specifique;TM+   specifique;TM+;CO;Agriculteurs
+AS4OConfort;Confort;Confort;AS;Professions intermediaires
+CO1BConfort;Confort;Confort;CO;Agriculteurs
+EN1GTM+   specifique;TM+   specifique;TM+;EN;Agriculteurs
+EN2KPrivilege;Privilege;Privilege;EN;Artisans, commercants et chefs d'entreprises
+CO1LPrivilege;Privilege;Privilege;CO;Agriculteurs
+CO1ATM+;TM+;TM+;CO;Agriculteurs
+EN1OTM+;TM+;TM+;EN;Agriculteurs
+EN3LConfort specifique;Confort specifique;Confort;EN;Cadres et professions intellectuelles superieures
+AS3LConfort specifique;Confort specifique;Confort;AS;Cadres et professions intellectuelles superieures
+EN2ATM+;TM+;TM+;EN;Artisans, commercants et chefs d'entreprises
+AS1GTM+   specifique;TM+   specifique;TM+;AS;Agriculteurs
+CO1GTM+   specifique;TM+   specifique;TM+;CO;Agriculteurs
+CO3NPrivilege;Privilege;Privilege;CO;Cadres et professions intellectuelles superieures
+CO2IConfort;Confort;Confort;CO;Artisans, commercants et chefs d'entreprises
+AS2KConfort;Confort;Confort;AS;Artisans, commercants et chefs d'entreprises
+EN2JPrivilege;Privilege;Privilege;EN;Artisans, commercants et chefs d'entreprises
+AS2JConfort;Confort;Confort;AS;Artisans, commercants et chefs d'entreprises
+AS1EPrivilege;Privilege;Privilege;AS;Agriculteurs
+EN1EPrivilege;Privilege;Privilege;EN;Agriculteurs
+AS2JPrivilege;Privilege;Privilege;AS;Artisans, commercants et chefs d'entreprises
+CO4JTM+;TM+;TM+;CO;Professions intermediaires
+CO1HTM+;TM+;TM+;CO;Agriculteurs
+CO2KPrivilege;Privilege;Privilege;CO;Artisans, commercants et chefs d'entreprises
+AS2KPrivilege;Privilege;Privilege;AS;Artisans, commercants et chefs d'entreprises

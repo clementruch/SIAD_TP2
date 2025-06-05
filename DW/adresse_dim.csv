@@ -1,0 +1,3331 @@
+CP;DEPARTEMENT;REGION
+43,130;Haute-Loire;Auvergne-Rhône-Alpes
+72,140;Sarthe;Pays de la Loire
+51,390;Marne;Alsace-Champagne-Ardenne-Lorraine
+40,600;Landes;Aquitaine-Limousin-Poitou-Charentes
+21,121;Côte-d'or;Bourgogne-Franche-Comté
+77,400;Seine-et-Marne;Ile-de-France
+78,530;Yvelines;Ile-de-France
+30,600;Gard;Languedoc-Roussillon-Midi-Pyrénées
+62,400;Pas-de-Calais;Nord-Pas-de-Calais-Picardie
+38,690;Isre;Auvergne-Rhône-Alpes
+69,650;Rhône;Auvergne-Rhône-Alpes
+2,120;Aisne;Nord-Pas-de-Calais-Picardie
+95,330;Val-d'oise;Ile-de-France
+28,600;Eure-et-Loir;Centre-Val de Loire
+44,100;Loire-Atlantique;Pays de la Loire
+78,300;Yvelines;Ile-de-France
+67,510;Bas-Rhin;Alsace-Champagne-Ardenne-Lorraine
+30,300;Gard;Languedoc-Roussillon-Midi-Pyrénées
+60,400;Oise;Nord-Pas-de-Calais-Picardie
+9,100;Arige;Languedoc-Roussillon-Midi-Pyrénées
+4,100;Alpes-de-Haute-Provence;Provence-Alpes-Côte d'Azur
+62,860;Pas-de-Calais;Nord-Pas-de-Calais-Picardie
+13,350;Bouches-du-Rhône;Provence-Alpes-Côte d'Azur
+49,290;Maine-et-Loire;Pays de la Loire
+83,550;Var;Provence-Alpes-Côte d'Azur
+77,380;Seine-et-Marne;Ile-de-France
+60,540;Oise;Nord-Pas-de-Calais-Picardie
+59,670;Nord;Nord-Pas-de-Calais-Picardie
+17,600;Charente-Maritime;Aquitaine-Limousin-Poitou-Charentes
+69,760;Rhône;Auvergne-Rhône-Alpes
+95,360;Val-d'oise;Ile-de-France
+2,100;Aisne;Nord-Pas-de-Calais-Picardie
+12,290;Aveyron;Languedoc-Roussillon-Midi-Pyrénées
+56,890;Morbihan;Bretagne
+76,310;Seine-Maritime;Normandie
+62,250;Pas-de-Calais;Nord-Pas-de-Calais-Picardie
+57,250;Moselle;Alsace-Champagne-Ardenne-Lorraine
+66,330;Pyrénées-Orientales;Languedoc-Roussillon-Midi-Pyrénées
+8,090;Ardennes;Alsace-Champagne-Ardenne-Lorraine
+88,170;Vosges;Alsace-Champagne-Ardenne-Lorraine
+85,000;Vendée;Pays de la Loire
+38,509;Isre;Auvergne-Rhône-Alpes
+93,260;Seine-Saint-Denis;Ile-de-France
+89,100;Yonne;Bourgogne-Franche-Comté
+63,350;Puy-de-Dôme;Auvergne-Rhône-Alpes
+31,240;Haute-Garonne;Languedoc-Roussillon-Midi-Pyrénées
+74,600;Haute-Savoie;Auvergne-Rhône-Alpes
+62,530;Pas-de-Calais;Nord-Pas-de-Calais-Picardie
+24,000;Dordogne;Aquitaine-Limousin-Poitou-Charentes
+54,500;Meurthe-et-Moselle;Alsace-Champagne-Ardenne-Lorraine
+95,590;Val-d'oise;Ile-de-France
+13,700;Bouches-du-Rhône;Provence-Alpes-Côte d'Azur
+3,000;Allier;Auvergne-Rhône-Alpes
+95,190;Val-d'oise;Ile-de-France
+74,000;Haute-Savoie;Auvergne-Rhône-Alpes
+86,110;Vienne;Aquitaine-Limousin-Poitou-Charentes
+26,120;Drôme;Auvergne-Rhône-Alpes
+57,520;Moselle;Alsace-Champagne-Ardenne-Lorraine
+59,680;Nord;Nord-Pas-de-Calais-Picardie
+78,420;Yvelines;Ile-de-France
+54,550;Meurthe-et-Moselle;Alsace-Champagne-Ardenne-Lorraine
+85,100;Vendée;Pays de la Loire
+88,000;Vosges;Alsace-Champagne-Ardenne-Lorraine
+59,300;Nord;Nord-Pas-de-Calais-Picardie
+69,330;Rhône;Auvergne-Rhône-Alpes
+80,470;Somme;Nord-Pas-de-Calais-Picardie
+56,850;Morbihan;Bretagne
+6,250;Alpes-Maritimes;Provence-Alpes-Côte d'Azur
+33,240;Gironde;Aquitaine-Limousin-Poitou-Charentes
+45,300;Loiret;Centre-Val de Loire
+83,150;Var;Provence-Alpes-Côte d'Azur
+72,100;Sarthe;Pays de la Loire
+38,480;Isre;Auvergne-Rhône-Alpes
+37,220;Indre-et-Loire;Centre-Val de Loire
+44,360;Loire-Atlantique;Pays de la Loire
+78,620;Yvelines;Ile-de-France
+84,460;Vaucluse;Provence-Alpes-Côte d'Azur
+95,520;Val-d'oise;Ile-de-France
+17,610;Charente-Maritime;Aquitaine-Limousin-Poitou-Charentes
+44,160;Loire-Atlantique;Pays de la Loire
+74,210;Haute-Savoie;Auvergne-Rhône-Alpes
+22,730;Côtes-d'armor;Bretagne
+60,280;Oise;Nord-Pas-de-Calais-Picardie
+33,110;Gironde;Aquitaine-Limousin-Poitou-Charentes
+40,660;Landes;Aquitaine-Limousin-Poitou-Charentes
+38,660;Isre;Auvergne-Rhône-Alpes
+13,500;Bouches-du-Rhône;Provence-Alpes-Côte d'Azur
+13,300;Bouches-du-Rhône;Provence-Alpes-Côte d'Azur
+81,800;Tarn;Languedoc-Roussillon-Midi-Pyrénées
+12,370;Aveyron;Languedoc-Roussillon-Midi-Pyrénées
+8,140;Ardennes;Alsace-Champagne-Ardenne-Lorraine
+77,350;Seine-et-Marne;Ile-de-France
+92,230;Hauts-de-Seine;Ile-de-France
+59,160;Nord;Nord-Pas-de-Calais-Picardie
+6,610;Alpes-Maritimes;Provence-Alpes-Côte d'Azur
+80,090;Somme;Nord-Pas-de-Calais-Picardie
+2,300;Aisne;Nord-Pas-de-Calais-Picardie
+35,510;Ille-et-Vilaine;Bretagne
+47,150;Lot-et-Garonne;Aquitaine-Limousin-Poitou-Charentes
+53,240;Mayenne;Pays de la Loire
+95,160;Val-d'oise;Ile-de-France
+28,800;Eure-et-Loir;Centre-Val de Loire
+13,127;Bouches-du-Rhône;Provence-Alpes-Côte d'Azur
+59,880;Nord;Nord-Pas-de-Calais-Picardie
+91,370;Essonne;Ile-de-France
+76,110;Seine-Maritime;Normandie
+60,950;Oise;Nord-Pas-de-Calais-Picardie
+85,300;Vendée;Pays de la Loire
+43,500;Haute-Loire;Auvergne-Rhône-Alpes
+68,300;Haut-Rhin;Alsace-Champagne-Ardenne-Lorraine
+77,330;Seine-et-Marne;Ile-de-France
+19,500;Corrze;Aquitaine-Limousin-Poitou-Charentes
+27,140;Eure;Normandie
+44,340;Loire-Atlantique;Pays de la Loire
+24,110;Dordogne;Aquitaine-Limousin-Poitou-Charentes
+69,660;Rhône;Auvergne-Rhône-Alpes
+52,200;Haute-Marne;Alsace-Champagne-Ardenne-Lorraine
+13,220;Bouches-du-Rhône;Provence-Alpes-Côte d'Azur
+77,144;Seine-et-Marne;Ile-de-France
+78,810;Yvelines;Ile-de-France
+78,800;Yvelines;Ile-de-France
+14,310;Calvados;Normandie
+74,150;Haute-Savoie;Auvergne-Rhône-Alpes
+78,130;Yvelines;Ile-de-France
+84,310;Vaucluse;Provence-Alpes-Côte d'Azur
+78,480;Yvelines;Ile-de-France
+61,000;Orne;Normandie
+51,230;Marne;Alsace-Champagne-Ardenne-Lorraine
+22,590;Côtes-d'armor;Bretagne
+78,200;Yvelines;Ile-de-France
+26,800;Drôme;Auvergne-Rhône-Alpes
+82,100;Tarn-et-Garonne;Languedoc-Roussillon-Midi-Pyrénées
+29,870;Finistre;Bretagne
+78,170;Yvelines;Ile-de-France
+3,630;Allier;Auvergne-Rhône-Alpes
+78,670;Yvelines;Ile-de-France
+9,220;Arige;Languedoc-Roussillon-Midi-Pyrénées
+30,350;Gard;Languedoc-Roussillon-Midi-Pyrénées
+92,370;Hauts-de-Seine;Ile-de-France
+47,420;Lot-et-Garonne;Aquitaine-Limousin-Poitou-Charentes
+54,520;Meurthe-et-Moselle;Alsace-Champagne-Ardenne-Lorraine
+6,150;Alpes-Maritimes;Provence-Alpes-Côte d'Azur
+83,480;Var;Provence-Alpes-Côte d'Azur
+57,600;Moselle;Alsace-Champagne-Ardenne-Lorraine
+21,800;Côte-d'or;Bourgogne-Franche-Comté
+24,290;Dordogne;Aquitaine-Limousin-Poitou-Charentes
+93,300;Seine-Saint-Denis;Ile-de-France
+30,390;Gard;Languedoc-Roussillon-Midi-Pyrénées
+26,390;Drôme;Auvergne-Rhône-Alpes
+82,290;Tarn-et-Garonne;Languedoc-Roussillon-Midi-Pyrénées
+88,200;Vosges;Alsace-Champagne-Ardenne-Lorraine
+95,450;Val-d'oise;Ile-de-France
+43,000;Haute-Loire;Auvergne-Rhône-Alpes
+16,440;Charente;Aquitaine-Limousin-Poitou-Charentes
+26,760;Drôme;Auvergne-Rhône-Alpes
+91,670;Essonne;Ile-de-France
+2,400;Aisne;Nord-Pas-de-Calais-Picardie
+39,800;Jura;Bourgogne-Franche-Comté
+53,600;Mayenne;Pays de la Loire
+93,240;Seine-Saint-Denis;Ile-de-France
+83,110;Var;Provence-Alpes-Côte d'Azur
+31,620;Haute-Garonne;Languedoc-Roussillon-Midi-Pyrénées
+60,000;Oise;Nord-Pas-de-Calais-Picardie
+22,240;Côtes-d'armor;Bretagne
+67,800;Bas-Rhin;Alsace-Champagne-Ardenne-Lorraine
+81,500;Tarn;Languedoc-Roussillon-Midi-Pyrénées
+71,960;Saône-et-Loire;Bourgogne-Franche-Comté
+59,222;Nord;Nord-Pas-de-Calais-Picardie
+95,731;Val-d'oise;Ile-de-France
+6,700;Alpes-Maritimes;Provence-Alpes-Côte d'Azur
+84,800;Vaucluse;Provence-Alpes-Côte d'Azur
+59,460;Nord;Nord-Pas-de-Calais-Picardie
+12,390;Aveyron;Languedoc-Roussillon-Midi-Pyrénées
+62,310;Pas-de-Calais;Nord-Pas-de-Calais-Picardie
+88,350;Vosges;Alsace-Champagne-Ardenne-Lorraine
+77,200;Seine-et-Marne;Ile-de-France
+22,800;Côtes-d'armor;Bretagne
+69,730;Rhône;Auvergne-Rhône-Alpes
+30,210;Gard;Languedoc-Roussillon-Midi-Pyrénées
+85,800;Vendée;Pays de la Loire
+21,600;Côte-d'or;Bourgogne-Franche-Comté
+66,650;Pyrénées-Orientales;Languedoc-Roussillon-Midi-Pyrénées
+24,480;Dordogne;Aquitaine-Limousin-Poitou-Charentes
+38,210;Isre;Auvergne-Rhône-Alpes
+34,680;Hérault;Languedoc-Roussillon-Midi-Pyrénées
+31,800;Haute-Garonne;Languedoc-Roussillon-Midi-Pyrénées
+59,166;Nord;Nord-Pas-de-Calais-Picardie
+27,180;Eure;Normandie
+22,440;Côtes-d'armor;Bretagne
+34,770;Hérault;Languedoc-Roussillon-Midi-Pyrénées
+78,490;Yvelines;Ile-de-France
+83,240;Var;Provence-Alpes-Côte d'Azur
+57,180;Moselle;Alsace-Champagne-Ardenne-Lorraine
+83,440;Var;Provence-Alpes-Côte d'Azur
+77,170;Seine-et-Marne;Ile-de-France
+29,730;Finistre;Bretagne
+38,850;Isre;Auvergne-Rhône-Alpes
+31,840;Haute-Garonne;Languedoc-Roussillon-Midi-Pyrénées
+45,510;Loiret;Centre-Val de Loire
+44,270;Loire-Atlantique;Pays de la Loire
+59,260;Nord;Nord-Pas-de-Calais-Picardie
+94,110;Val-de-Marne;Ile-de-France
+67,320;Bas-Rhin;Alsace-Champagne-Ardenne-Lorraine
+95,600;Val-d'oise;Ile-de-France
+54,110;Meurthe-et-Moselle;Alsace-Champagne-Ardenne-Lorraine
+60,490;Oise;Nord-Pas-de-Calais-Picardie
+33,520;Gironde;Aquitaine-Limousin-Poitou-Charentes
+54,600;Meurthe-et-Moselle;Alsace-Champagne-Ardenne-Lorraine
+95,200;Val-d'oise;Ile-de-France
+67,330;Bas-Rhin;Alsace-Champagne-Ardenne-Lorraine
+13,390;Bouches-du-Rhône;Provence-Alpes-Côte d'Azur
+90,000;Territoire de Belfort;Bourgogne-Franche-Comté
+6,140;Alpes-Maritimes;Provence-Alpes-Côte d'Azur
+48,700;Lozre;Languedoc-Roussillon-Midi-Pyrénées
+76,430;Seine-Maritime;Normandie
+68,420;Haut-Rhin;Alsace-Champagne-Ardenne-Lorraine
+56,270;Morbihan;Bretagne
+41,360;Loir-et-Cher;Centre-Val de Loire
+42,340;Loire;Auvergne-Rhône-Alpes
+77,220;Seine-et-Marne;Ile-de-France
+91,130;Essonne;Ile-de-France
+34,190;Hérault;Languedoc-Roussillon-Midi-Pyrénées
+44,880;Loire-Atlantique;Pays de la Loire
+69,380;Rhône;Auvergne-Rhône-Alpes
+60,590;Oise;Nord-Pas-de-Calais-Picardie
+72,300;Sarthe;Pays de la Loire
+40,230;Landes;Aquitaine-Limousin-Poitou-Charentes
+95,210;Val-d'oise;Ile-de-France
+14,330;Calvados;Normandie
+57,000;Moselle;Alsace-Champagne-Ardenne-Lorraine
+1,100;Ain;Auvergne-Rhône-Alpes
+62,300;Pas-de-Calais;Nord-Pas-de-Calais-Picardie
+15,250;Cantal;Auvergne-Rhône-Alpes
+71,590;Saône-et-Loire;Bourgogne-Franche-Comté
+49,080;Maine-et-Loire;Pays de la Loire
+56,200;Morbihan;Bretagne
+59,238;Nord;Nord-Pas-de-Calais-Picardie
+56,930;Morbihan;Bretagne
+39,570;Jura;Bourgogne-Franche-Comté
+29,270;Finistre;Bretagne
+2,870;Aisne;Nord-Pas-de-Calais-Picardie
+6,810;Alpes-Maritimes;Provence-Alpes-Côte d'Azur
+37,240;Indre-et-Loire;Centre-Val de Loire
+84,470;Vaucluse;Provence-Alpes-Côte d'Azur
+73,290;Savoie;Auvergne-Rhône-Alpes
+93,360;Seine-Saint-Denis;Ile-de-France
+67,660;Bas-Rhin;Alsace-Champagne-Ardenne-Lorraine
+44,400;Loire-Atlantique;Pays de la Loire
+19,130;Corrze;Aquitaine-Limousin-Poitou-Charentes
+77,130;Seine-et-Marne;Ile-de-France
+27,300;Eure;Normandie
+7,160;Ardche;Auvergne-Rhône-Alpes
+78,690;Yvelines;Ile-de-France
+29,710;Finistre;Bretagne
+82,000;Tarn-et-Garonne;Languedoc-Roussillon-Midi-Pyrénées
+13,580;Bouches-du-Rhône;Provence-Alpes-Côte d'Azur
+77,183;Seine-et-Marne;Ile-de-France
+17,300;Charente-Maritime;Aquitaine-Limousin-Poitou-Charentes
+86,200;Vienne;Aquitaine-Limousin-Poitou-Charentes
+1,990;Ain;Auvergne-Rhône-Alpes
+95,510;Val-d'oise;Ile-de-France
+35,400;Ille-et-Vilaine;Bretagne
+38,270;Isre;Auvergne-Rhône-Alpes
+93,600;Seine-Saint-Denis;Ile-de-France
+62,290;Pas-de-Calais;Nord-Pas-de-Calais-Picardie
+78,580;Yvelines;Ile-de-France
+60,680;Oise;Nord-Pas-de-Calais-Picardie
+30,260;Gard;Languedoc-Roussillon-Midi-Pyrénées
+78,710;Yvelines;Ile-de-France
+49,330;Maine-et-Loire;Pays de la Loire
+30,320;Gard;Languedoc-Roussillon-Midi-Pyrénées
+29,900;Finistre;Bretagne
+77,860;Seine-et-Marne;Ile-de-France
+76,420;Seine-Maritime;Normandie
+59,920;Nord;Nord-Pas-de-Calais-Picardie
+85,130;Vendée;Pays de la Loire
+91,100;Essonne;Ile-de-France
+94,550;Val-de-Marne;Ile-de-France
+33,170;Gironde;Aquitaine-Limousin-Poitou-Charentes
+38,260;Isre;Auvergne-Rhône-Alpes
+59,253;Nord;Nord-Pas-de-Calais-Picardie
+59,310;Nord;Nord-Pas-de-Calais-Picardie
+84,570;Vaucluse;Provence-Alpes-Côte d'Azur
+26,100;Drôme;Auvergne-Rhône-Alpes
+54,180;Meurthe-et-Moselle;Alsace-Champagne-Ardenne-Lorraine
+76,210;Seine-Maritime;Normandie
+7,300;Ardche;Auvergne-Rhône-Alpes
+50,380;Manche;Normandie
+3,120;Allier;Auvergne-Rhône-Alpes
+78,370;Yvelines;Ile-de-France
+80,100;Somme;Nord-Pas-de-Calais-Picardie
+92,390;Hauts-de-Seine;Ile-de-France
+21,440;Côte-d'or;Bourgogne-Franche-Comté
+14,117;Calvados;Normandie
+68,500;Haut-Rhin;Alsace-Champagne-Ardenne-Lorraine
+67,240;Bas-Rhin;Alsace-Champagne-Ardenne-Lorraine
+11,620;Aude;Languedoc-Roussillon-Midi-Pyrénées
+69,600;Rhône;Auvergne-Rhône-Alpes
+33,370;Gironde;Aquitaine-Limousin-Poitou-Charentes
+36,000;Indre;Centre-Val de Loire
+77,515;Seine-et-Marne;Ile-de-France
+28,170;Eure-et-Loir;Centre-Val de Loire
+59,740;Nord;Nord-Pas-de-Calais-Picardie
+78,310;Yvelines;Ile-de-France
+62,330;Pas-de-Calais;Nord-Pas-de-Calais-Picardie
+76,120;Seine-Maritime;Normandie
+30,170;Gard;Languedoc-Roussillon-Midi-Pyrénées
+36,700;Indre;Centre-Val de Loire
+71,500;Saône-et-Loire;Bourgogne-Franche-Comté
+14,910;Calvados;Normandie
+75,038;Paris;Ile-de-France
+34,140;Hérault;Languedoc-Roussillon-Midi-Pyrénées
+35,520;Ille-et-Vilaine;Bretagne
+21,500;Côte-d'or;Bourgogne-Franche-Comté
+67,206;Bas-Rhin;Alsace-Champagne-Ardenne-Lorraine
+62,117;Pas-de-Calais;Nord-Pas-de-Calais-Picardie
+33,780;Gironde;Aquitaine-Limousin-Poitou-Charentes
+57,525;Moselle;Alsace-Champagne-Ardenne-Lorraine
+95,390;Val-d'oise;Ile-de-France
+55,100;Meuse;Alsace-Champagne-Ardenne-Lorraine
+84,450;Vaucluse;Provence-Alpes-Côte d'Azur
+95,370;Val-d'oise;Ile-de-France
+93,230;Seine-Saint-Denis;Ile-de-France
+7,100;Ardche;Auvergne-Rhône-Alpes
+59,229;Nord;Nord-Pas-de-Calais-Picardie
+66,740;Pyrénées-Orientales;Languedoc-Roussillon-Midi-Pyrénées
+80,600;Somme;Nord-Pas-de-Calais-Picardie
+91,280;Essonne;Ile-de-France
+45,140;Loiret;Centre-Val de Loire
+33,450;Gironde;Aquitaine-Limousin-Poitou-Charentes
+51,500;Marne;Alsace-Champagne-Ardenne-Lorraine
+31,700;Haute-Garonne;Languedoc-Roussillon-Midi-Pyrénées
+55,210;Meuse;Alsace-Champagne-Ardenne-Lorraine
+35,830;Ille-et-Vilaine;Bretagne
+67,380;Bas-Rhin;Alsace-Champagne-Ardenne-Lorraine
+84,500;Vaucluse;Provence-Alpes-Côte d'Azur
+95,310;Val-d'oise;Ile-de-France
+7,150;Ardche;Auvergne-Rhône-Alpes
+78,230;Yvelines;Ile-de-France
+45,750;Loiret;Centre-Val de Loire
+38,460;Isre;Auvergne-Rhône-Alpes
+33,850;Gironde;Aquitaine-Limousin-Poitou-Charentes
+29,460;Finistre;Bretagne
+66,250;Pyrénées-Orientales;Languedoc-Roussillon-Midi-Pyrénées
+95,260;Val-d'oise;Ile-de-France
+28,250;Eure-et-Loir;Centre-Val de Loire
+85,500;Vendée;Pays de la Loire
+37,300;Indre-et-Loire;Centre-Val de Loire
+3,310;Allier;Auvergne-Rhône-Alpes
+32,160;Gers;Languedoc-Roussillon-Midi-Pyrénées
+13,780;Bouches-du-Rhône;Provence-Alpes-Côte d'Azur
+51,220;Marne;Alsace-Champagne-Ardenne-Lorraine
+12,200;Aveyron;Languedoc-Roussillon-Midi-Pyrénées
+63,270;Puy-de-Dôme;Auvergne-Rhône-Alpes
+77,440;Seine-et-Marne;Ile-de-France
+10,150;Aube;Alsace-Champagne-Ardenne-Lorraine
+18,230;Cher;Centre-Val de Loire
+74,700;Haute-Savoie;Auvergne-Rhône-Alpes
+38,380;Isre;Auvergne-Rhône-Alpes
+78,610;Yvelines;Ile-de-France
+44,770;Loire-Atlantique;Pays de la Loire
+74,230;Haute-Savoie;Auvergne-Rhône-Alpes
+45,360;Loiret;Centre-Val de Loire
+30,133;Gard;Languedoc-Roussillon-Midi-Pyrénées
+14,680;Calvados;Normandie
+95,460;Val-d'oise;Ile-de-France
+38,930;Isre;Auvergne-Rhône-Alpes
+10,140;Aube;Alsace-Champagne-Ardenne-Lorraine
+26,190;Drôme;Auvergne-Rhône-Alpes
+34,980;Hérault;Languedoc-Roussillon-Midi-Pyrénées
+85,750;Vendée;Pays de la Loire
+71,570;Saône-et-Loire;Bourgogne-Franche-Comté
+71,270;Saône-et-Loire;Bourgogne-Franche-Comté
+31,120;Haute-Garonne;Languedoc-Roussillon-Midi-Pyrénées
+67,530;Bas-Rhin;Alsace-Champagne-Ardenne-Lorraine
+81,160;Tarn;Languedoc-Roussillon-Midi-Pyrénées
+71,290;Saône-et-Loire;Bourgogne-Franche-Comté
+84,300;Vaucluse;Provence-Alpes-Côte d'Azur
+58,270;Nivre;Bourgogne-Franche-Comté
+44,620;Loire-Atlantique;Pays de la Loire
+44,650;Loire-Atlantique;Pays de la Loire
+62,600;Pas-de-Calais;Nord-Pas-de-Calais-Picardie
+57,990;Moselle;Alsace-Champagne-Ardenne-Lorraine
+94,470;Val-de-Marne;Ile-de-France
+92,240;Hauts-de-Seine;Ile-de-France
+40,990;Landes;Aquitaine-Limousin-Poitou-Charentes
+59,230;Nord;Nord-Pas-de-Calais-Picardie
+69,740;Rhône;Auvergne-Rhône-Alpes
+67,460;Bas-Rhin;Alsace-Champagne-Ardenne-Lorraine
+28,130;Eure-et-Loir;Centre-Val de Loire
+37,360;Indre-et-Loire;Centre-Val de Loire
+57,685;Moselle;Alsace-Champagne-Ardenne-Lorraine
+47,210;Lot-et-Garonne;Aquitaine-Limousin-Poitou-Charentes
+3,410;Allier;Auvergne-Rhône-Alpes
+86,170;Vienne;Aquitaine-Limousin-Poitou-Charentes
+85,680;Vendée;Pays de la Loire
+33,127;Gironde;Aquitaine-Limousin-Poitou-Charentes
+54,200;Meurthe-et-Moselle;Alsace-Champagne-Ardenne-Lorraine
+59,490;Nord;Nord-Pas-de-Calais-Picardie
+94,370;Val-de-Marne;Ile-de-France
+4,200;Alpes-de-Haute-Provence;Provence-Alpes-Côte d'Azur
+89,000;Yonne;Bourgogne-Franche-Comté
+45,100;Loiret;Centre-Val de Loire
+53,000;Mayenne;Pays de la Loire
+86,550;Vienne;Aquitaine-Limousin-Poitou-Charentes
+33,340;Gironde;Aquitaine-Limousin-Poitou-Charentes
+34,360;Hérault;Languedoc-Roussillon-Midi-Pyrénées
+54,710;Meurthe-et-Moselle;Alsace-Champagne-Ardenne-Lorraine
+38,550;Isre;Auvergne-Rhône-Alpes
+59,510;Nord;Nord-Pas-de-Calais-Picardie
+94,360;Val-de-Marne;Ile-de-France
+33,730;Gironde;Aquitaine-Limousin-Poitou-Charentes
+33,185;Gironde;Aquitaine-Limousin-Poitou-Charentes
+17,140;Charente-Maritime;Aquitaine-Limousin-Poitou-Charentes
+14,790;Calvados;Normandie
+72,200;Sarthe;Pays de la Loire
+67,310;Bas-Rhin;Alsace-Champagne-Ardenne-Lorraine
+77,184;Seine-et-Marne;Ile-de-France
+62,730;Pas-de-Calais;Nord-Pas-de-Calais-Picardie
+14,100;Calvados;Normandie
+69,510;Rhône;Auvergne-Rhône-Alpes
+76,690;Seine-Maritime;Normandie
+84,400;Vaucluse;Provence-Alpes-Côte d'Azur
+6,005;Alpes-Maritimes;Provence-Alpes-Côte d'Azur
+76,190;Seine-Maritime;Normandie
+7,140;Ardche;Auvergne-Rhône-Alpes
+44,800;Loire-Atlantique;Pays de la Loire
+72,460;Sarthe;Pays de la Loire
+58,230;Nivre;Bourgogne-Franche-Comté
+82,410;Tarn-et-Garonne;Languedoc-Roussillon-Midi-Pyrénées
+69,490;Rhône;Auvergne-Rhône-Alpes
+45,370;Loiret;Centre-Val de Loire
+34,540;Hérault;Languedoc-Roussillon-Midi-Pyrénées
+13,741;Bouches-du-Rhône;Provence-Alpes-Côte d'Azur
+67,570;Bas-Rhin;Alsace-Champagne-Ardenne-Lorraine
+88,490;Vosges;Alsace-Champagne-Ardenne-Lorraine
+59,610;Nord;Nord-Pas-de-Calais-Picardie
+27,800;Eure;Normandie
+25,620;Doubs;Bourgogne-Franche-Comté
+34,270;Hérault;Languedoc-Roussillon-Midi-Pyrénées
+76,500;Seine-Maritime;Normandie
+91,730;Essonne;Ile-de-France
+54,340;Meurthe-et-Moselle;Alsace-Champagne-Ardenne-Lorraine
+78,331;Yvelines;Ile-de-France
+31,560;Haute-Garonne;Languedoc-Roussillon-Midi-Pyrénées
+61,360;Orne;Normandie
+83,780;Var;Provence-Alpes-Côte d'Azur
+91,460;Essonne;Ile-de-France
+63,570;Puy-de-Dôme;Auvergne-Rhône-Alpes
+59,554;Nord;Nord-Pas-de-Calais-Picardie
+41,200;Loir-et-Cher;Centre-Val de Loire
+76,230;Seine-Maritime;Normandie
+89,560;Yonne;Bourgogne-Franche-Comté
+40,410;Landes;Aquitaine-Limousin-Poitou-Charentes
+83,840;Var;Provence-Alpes-Côte d'Azur
+35,500;Ille-et-Vilaine;Bretagne
+25,200;Doubs;Bourgogne-Franche-Comté
+2,590;Aisne;Nord-Pas-de-Calais-Picardie
+86,180;Vienne;Aquitaine-Limousin-Poitou-Charentes
+57,120;Moselle;Alsace-Champagne-Ardenne-Lorraine
+79,000;Deux-Svres;Aquitaine-Limousin-Poitou-Charentes
+50,700;Manche;Normandie
+44,980;Loire-Atlantique;Pays de la Loire
+29,470;Finistre;Bretagne
+71,330;Saône-et-Loire;Bourgogne-Franche-Comté
+59,650;Nord;Nord-Pas-de-Calais-Picardie
+34,390;Hérault;Languedoc-Roussillon-Midi-Pyrénées
+59,136;Nord;Nord-Pas-de-Calais-Picardie
+31,150;Haute-Garonne;Languedoc-Roussillon-Midi-Pyrénées
+13,210;Bouches-du-Rhône;Provence-Alpes-Côte d'Azur
+91,250;Essonne;Ile-de-France
+59,116;Nord;Nord-Pas-de-Calais-Picardie
+54,490;Meurthe-et-Moselle;Alsace-Champagne-Ardenne-Lorraine
+8,274;Ardennes;Alsace-Champagne-Ardenne-Lorraine
+3,110;Allier;Auvergne-Rhône-Alpes
+33,270;Gironde;Aquitaine-Limousin-Poitou-Charentes
+57,645;Moselle;Alsace-Champagne-Ardenne-Lorraine
+38,750;Isre;Auvergne-Rhône-Alpes
+78,650;Yvelines;Ile-de-France
+31,290;Haute-Garonne;Languedoc-Roussillon-Midi-Pyrénées
+57,280;Moselle;Alsace-Champagne-Ardenne-Lorraine
+17,350;Charente-Maritime;Aquitaine-Limousin-Poitou-Charentes
+26,600;Drôme;Auvergne-Rhône-Alpes
+33,380;Gironde;Aquitaine-Limousin-Poitou-Charentes
+68,570;Haut-Rhin;Alsace-Champagne-Ardenne-Lorraine
+17,100;Charente-Maritime;Aquitaine-Limousin-Poitou-Charentes
+30,360;Gard;Languedoc-Roussillon-Midi-Pyrénées
+13,820;Bouches-du-Rhône;Provence-Alpes-Côte d'Azur
+68,210;Haut-Rhin;Alsace-Champagne-Ardenne-Lorraine
+68,130;Haut-Rhin;Alsace-Champagne-Ardenne-Lorraine
+2,260;Aisne;Nord-Pas-de-Calais-Picardie
+56,260;Morbihan;Bretagne
+69,450;Rhône;Auvergne-Rhône-Alpes
+67,116;Bas-Rhin;Alsace-Champagne-Ardenne-Lorraine
+38,340;Isre;Auvergne-Rhône-Alpes
+45,160;Loiret;Centre-Val de Loire
+75,761;Paris;Ile-de-France
+44,390;Loire-Atlantique;Pays de la Loire
+73,800;Savoie;Auvergne-Rhône-Alpes
+22,660;Côtes-d'armor;Bretagne
+79,100;Deux-Svres;Aquitaine-Limousin-Poitou-Charentes
+19,270;Corrze;Aquitaine-Limousin-Poitou-Charentes
+75,039;Paris;Ile-de-France
+27,120;Eure;Normandie
+12,330;Aveyron;Languedoc-Roussillon-Midi-Pyrénées
+26,380;Drôme;Auvergne-Rhône-Alpes
+13,286;Bouches-du-Rhône;Provence-Alpes-Côte d'Azur
+11,717;Aude;Languedoc-Roussillon-Midi-Pyrénées
+29,630;Finistre;Bretagne
+57,950;Moselle;Alsace-Champagne-Ardenne-Lorraine
+62,970;Pas-de-Calais;Nord-Pas-de-Calais-Picardie
+62,110;Pas-de-Calais;Nord-Pas-de-Calais-Picardie
+63,680;Puy-de-Dôme;Auvergne-Rhône-Alpes
+48,000;Lozre;Languedoc-Roussillon-Midi-Pyrénées
+34,730;Hérault;Languedoc-Roussillon-Midi-Pyrénées
+13,480;Bouches-du-Rhône;Provence-Alpes-Côte d'Azur
+71,140;Saône-et-Loire;Bourgogne-Franche-Comté
+56,800;Morbihan;Bretagne
+44,640;Loire-Atlantique;Pays de la Loire
+59,380;Nord;Nord-Pas-de-Calais-Picardie
+44,170;Loire-Atlantique;Pays de la Loire
+41,500;Loir-et-Cher;Centre-Val de Loire
+56,320;Morbihan;Bretagne
+73,410;Savoie;Auvergne-Rhône-Alpes
+38,540;Isre;Auvergne-Rhône-Alpes
+22,220;Côtes-d'armor;Bretagne
+66,200;Pyrénées-Orientales;Languedoc-Roussillon-Midi-Pyrénées
+27,610;Eure;Normandie
+95,650;Val-d'oise;Ile-de-France
+83,310;Var;Provence-Alpes-Côte d'Azur
+34,990;Hérault;Languedoc-Roussillon-Midi-Pyrénées
+35,530;Ille-et-Vilaine;Bretagne
+61,150;Orne;Normandie
+19,600;Corrze;Aquitaine-Limousin-Poitou-Charentes
+59,495;Nord;Nord-Pas-de-Calais-Picardie
+1,330;Ain;Auvergne-Rhône-Alpes
+35,111;Ille-et-Vilaine;Bretagne
+34,560;Hérault;Languedoc-Roussillon-Midi-Pyrénées
+78,380;Yvelines;Ile-de-France
+1,258;Ain;Auvergne-Rhône-Alpes
+56,470;Morbihan;Bretagne
+60,810;Oise;Nord-Pas-de-Calais-Picardie
+66,120;Pyrénées-Orientales;Languedoc-Roussillon-Midi-Pyrénées
+57,550;Moselle;Alsace-Champagne-Ardenne-Lorraine
+72,400;Sarthe;Pays de la Loire
+91,210;Essonne;Ile-de-France
+42,140;Loire;Auvergne-Rhône-Alpes
+59,193;Nord;Nord-Pas-de-Calais-Picardie
+49,170;Maine-et-Loire;Pays de la Loire
+85,430;Vendée;Pays de la Loire
+57,680;Moselle;Alsace-Champagne-Ardenne-Lorraine
+29,700;Finistre;Bretagne
+91,450;Essonne;Ile-de-France
+69,320;Rhône;Auvergne-Rhône-Alpes
+74,650;Haute-Savoie;Auvergne-Rhône-Alpes
+59,440;Nord;Nord-Pas-de-Calais-Picardie
+78,440;Yvelines;Ile-de-France
+42,600;Loire;Auvergne-Rhône-Alpes
+29,500;Finistre;Bretagne
+59,264;Nord;Nord-Pas-de-Calais-Picardie
+83,560;Var;Provence-Alpes-Côte d'Azur
+38,090;Isre;Auvergne-Rhône-Alpes
+18,100;Cher;Centre-Val de Loire
+45,220;Loiret;Centre-Val de Loire
+50,240;Manche;Normandie
+83,580;Var;Provence-Alpes-Côte d'Azur
+34,420;Hérault;Languedoc-Roussillon-Midi-Pyrénées
+33,410;Gironde;Aquitaine-Limousin-Poitou-Charentes
+59,250;Nord;Nord-Pas-de-Calais-Picardie
+65,100;Hautes-Pyrénées;Languedoc-Roussillon-Midi-Pyrénées
+16,190;Charente;Aquitaine-Limousin-Poitou-Charentes
+94,450;Val-de-Marne;Ile-de-France
+83,340;Var;Provence-Alpes-Côte d'Azur
+29,510;Finistre;Bretagne
+30,128;Gard;Languedoc-Roussillon-Midi-Pyrénées
+27,330;Eure;Normandie
+13,540;Bouches-du-Rhône;Provence-Alpes-Côte d'Azur
+22,630;Côtes-d'armor;Bretagne
+45,230;Loiret;Centre-Val de Loire
+59,940;Nord;Nord-Pas-de-Calais-Picardie
+76,100;Seine-Maritime;Normandie
+69,680;Rhône;Auvergne-Rhône-Alpes
+80,000;Somme;Nord-Pas-de-Calais-Picardie
+48,200;Lozre;Languedoc-Roussillon-Midi-Pyrénées
+73,250;Savoie;Auvergne-Rhône-Alpes
+68,700;Haut-Rhin;Alsace-Champagne-Ardenne-Lorraine
+67,750;Bas-Rhin;Alsace-Champagne-Ardenne-Lorraine
+27,830;Eure;Normandie
+69,200;Rhône;Auvergne-Rhône-Alpes
+22,700;Côtes-d'armor;Bretagne
+91,310;Essonne;Ile-de-France
+83,400;Var;Provence-Alpes-Côte d'Azur
+83,430;Var;Provence-Alpes-Côte d'Azur
+13,860;Bouches-du-Rhône;Provence-Alpes-Côte d'Azur
+71,150;Saône-et-Loire;Bourgogne-Franche-Comté
+33,560;Gironde;Aquitaine-Limousin-Poitou-Charentes
+57,800;Moselle;Alsace-Champagne-Ardenne-Lorraine
+70,400;Haute-Saône;Bourgogne-Franche-Comté
+22,490;Côtes-d'armor;Bretagne
+49,260;Maine-et-Loire;Pays de la Loire
+83,140;Var;Provence-Alpes-Côte d'Azur
+59,132;Nord;Nord-Pas-de-Calais-Picardie
+42,840;Loire;Auvergne-Rhône-Alpes
+91,170;Essonne;Ile-de-France
+81,100;Tarn;Languedoc-Roussillon-Midi-Pyrénées
+12,430;Aveyron;Languedoc-Roussillon-Midi-Pyrénées
+67,850;Bas-Rhin;Alsace-Champagne-Ardenne-Lorraine
+32,000;Gers;Languedoc-Roussillon-Midi-Pyrénées
+25,310;Doubs;Bourgogne-Franche-Comté
+19,300;Corrze;Aquitaine-Limousin-Poitou-Charentes
+86,300;Vienne;Aquitaine-Limousin-Poitou-Charentes
+60,128;Oise;Nord-Pas-de-Calais-Picardie
+95,410;Val-d'oise;Ile-de-France
+34,380;Hérault;Languedoc-Roussillon-Midi-Pyrénées
+73,570;Savoie;Auvergne-Rhône-Alpes
+24,360;Dordogne;Aquitaine-Limousin-Poitou-Charentes
+70,000;Haute-Saône;Bourgogne-Franche-Comté
+19,150;Corrze;Aquitaine-Limousin-Poitou-Charentes
+27,150;Eure;Normandie
+34,240;Hérault;Languedoc-Roussillon-Midi-Pyrénées
+10,400;Aube;Alsace-Champagne-Ardenne-Lorraine
+54,425;Meurthe-et-Moselle;Alsace-Champagne-Ardenne-Lorraine
+33,470;Gironde;Aquitaine-Limousin-Poitou-Charentes
+13,003;Bouches-du-Rhône;Provence-Alpes-Côte d'Azur
+41,110;Loir-et-Cher;Centre-Val de Loire
+1,500;Ain;Auvergne-Rhône-Alpes
+17,310;Charente-Maritime;Aquitaine-Limousin-Poitou-Charentes
+37,510;Indre-et-Loire;Centre-Val de Loire
+43,410;Haute-Loire;Auvergne-Rhône-Alpes
+59,241;Nord;Nord-Pas-de-Calais-Picardie
+26,790;Drôme;Auvergne-Rhône-Alpes
+67,190;Bas-Rhin;Alsace-Champagne-Ardenne-Lorraine
+57,445;Moselle;Alsace-Champagne-Ardenne-Lorraine
+34,290;Hérault;Languedoc-Roussillon-Midi-Pyrénées
+59,850;Nord;Nord-Pas-de-Calais-Picardie
+50,720;Manche;Normandie
+71,390;Saône-et-Loire;Bourgogne-Franche-Comté
+72,600;Sarthe;Pays de la Loire
+29,140;Finistre;Bretagne
+86,580;Vienne;Aquitaine-Limousin-Poitou-Charentes
+11,170;Aude;Languedoc-Roussillon-Midi-Pyrénées
+2,250;Aisne;Nord-Pas-de-Calais-Picardie
+66,140;Pyrénées-Orientales;Languedoc-Roussillon-Midi-Pyrénées
+69,540;Rhône;Auvergne-Rhône-Alpes
+24,270;Dordogne;Aquitaine-Limousin-Poitou-Charentes
+57,140;Moselle;Alsace-Champagne-Ardenne-Lorraine
+15,120;Cantal;Auvergne-Rhône-Alpes
+56,100;Morbihan;Bretagne
+38,170;Isre;Auvergne-Rhône-Alpes
+33,260;Gironde;Aquitaine-Limousin-Poitou-Charentes
+94,430;Val-de-Marne;Ile-de-France
+30,111;Gard;Languedoc-Roussillon-Midi-Pyrénées
+13,450;Bouches-du-Rhône;Provence-Alpes-Côte d'Azur
+91,270;Essonne;Ile-de-France
+92,221;Hauts-de-Seine;Ile-de-France
+80,800;Somme;Nord-Pas-de-Calais-Picardie
+22,110;Côtes-d'armor;Bretagne
+95,380;Val-d'oise;Ile-de-France
+90,500;Territoire de Belfort;Bourgogne-Franche-Comté
+31,570;Haute-Garonne;Languedoc-Roussillon-Midi-Pyrénées
+84,110;Vaucluse;Provence-Alpes-Côte d'Azur
+30,129;Gard;Languedoc-Roussillon-Midi-Pyrénées
+29,280;Finistre;Bretagne
+81,200;Tarn;Languedoc-Roussillon-Midi-Pyrénées
+41,350;Loir-et-Cher;Centre-Val de Loire
+25,600;Doubs;Bourgogne-Franche-Comté
+13,111;Bouches-du-Rhône;Provence-Alpes-Côte d'Azur
+57,155;Moselle;Alsace-Champagne-Ardenne-Lorraine
+66,750;Pyrénées-Orientales;Languedoc-Roussillon-Midi-Pyrénées
+58,800;Nivre;Bourgogne-Franche-Comté
+84,410;Vaucluse;Provence-Alpes-Côte d'Azur
+57,150;Moselle;Alsace-Champagne-Ardenne-Lorraine
+23,200;Creuse;Aquitaine-Limousin-Poitou-Charentes
+26,130;Drôme;Auvergne-Rhône-Alpes
+40,420;Landes;Aquitaine-Limousin-Poitou-Charentes
+91,480;Essonne;Ile-de-France
+62,780;Pas-de-Calais;Nord-Pas-de-Calais-Picardie
+28,110;Eure-et-Loir;Centre-Val de Loire
+60,340;Oise;Nord-Pas-de-Calais-Picardie
+51,600;Marne;Alsace-Champagne-Ardenne-Lorraine
+11,290;Aude;Languedoc-Roussillon-Midi-Pyrénées
+88,300;Vosges;Alsace-Champagne-Ardenne-Lorraine
+78,720;Yvelines;Ile-de-France
+59,730;Nord;Nord-Pas-de-Calais-Picardie
+14,600;Calvados;Normandie
+67,115;Bas-Rhin;Alsace-Champagne-Ardenne-Lorraine
+77,920;Seine-et-Marne;Ile-de-France
+67,211;Bas-Rhin;Alsace-Champagne-Ardenne-Lorraine
+19,410;Corrze;Aquitaine-Limousin-Poitou-Charentes
+56,870;Morbihan;Bretagne
+89,500;Yonne;Bourgogne-Franche-Comté
+78,570;Yvelines;Ile-de-France
+27,650;Eure;Normandie
+91,560;Essonne;Ile-de-France
+84,210;Vaucluse;Provence-Alpes-Côte d'Azur
+30,640;Gard;Languedoc-Roussillon-Midi-Pyrénées
+57,380;Moselle;Alsace-Champagne-Ardenne-Lorraine
+55,170;Meuse;Alsace-Champagne-Ardenne-Lorraine
+62,940;Pas-de-Calais;Nord-Pas-de-Calais-Picardie
+34,790;Hérault;Languedoc-Roussillon-Midi-Pyrénées
+94,510;Val-de-Marne;Ile-de-France
+95,540;Val-d'oise;Ile-de-France
+59,245;Nord;Nord-Pas-de-Calais-Picardie
+54,390;Meurthe-et-Moselle;Alsace-Champagne-Ardenne-Lorraine
+60,350;Oise;Nord-Pas-de-Calais-Picardie
+79,120;Deux-Svres;Aquitaine-Limousin-Poitou-Charentes
+45,430;Loiret;Centre-Val de Loire
+67,980;Bas-Rhin;Alsace-Champagne-Ardenne-Lorraine
+67,580;Bas-Rhin;Alsace-Champagne-Ardenne-Lorraine
+13,830;Bouches-du-Rhône;Provence-Alpes-Côte d'Azur
+40,300;Landes;Aquitaine-Limousin-Poitou-Charentes
+67,110;Bas-Rhin;Alsace-Champagne-Ardenne-Lorraine
+73,190;Savoie;Auvergne-Rhône-Alpes
+86,280;Vienne;Aquitaine-Limousin-Poitou-Charentes
+31,180;Haute-Garonne;Languedoc-Roussillon-Midi-Pyrénées
+13,720;Bouches-du-Rhône;Provence-Alpes-Côte d'Azur
+59,780;Nord;Nord-Pas-de-Calais-Picardie
+93,350;Seine-Saint-Denis;Ile-de-France
+11,700;Aude;Languedoc-Roussillon-Midi-Pyrénées
+17,430;Charente-Maritime;Aquitaine-Limousin-Poitou-Charentes
+68,820;Haut-Rhin;Alsace-Champagne-Ardenne-Lorraine
+87,120;Haute-Vienne;Aquitaine-Limousin-Poitou-Charentes
+83,510;Var;Provence-Alpes-Côte d'Azur
+66,500;Pyrénées-Orientales;Languedoc-Roussillon-Midi-Pyrénées
+21,350;Côte-d'or;Bourgogne-Franche-Comté
+13,857;Bouches-du-Rhône;Provence-Alpes-Côte d'Azur
+36,230;Indre;Centre-Val de Loire
+17,920;Charente-Maritime;Aquitaine-Limousin-Poitou-Charentes
+73,630;Savoie;Auvergne-Rhône-Alpes
+63,100;Puy-de-Dôme;Auvergne-Rhône-Alpes
+15,000;Cantal;Auvergne-Rhône-Alpes
+29,217;Finistre;Bretagne
+35,310;Ille-et-Vilaine;Bretagne
+91,180;Essonne;Ile-de-France
+68,230;Haut-Rhin;Alsace-Champagne-Ardenne-Lorraine
+93,470;Seine-Saint-Denis;Ile-de-France
+68,870;Haut-Rhin;Alsace-Champagne-Ardenne-Lorraine
+34,750;Hérault;Languedoc-Roussillon-Midi-Pyrénées
+63,800;Puy-de-Dôme;Auvergne-Rhône-Alpes
+49,140;Maine-et-Loire;Pays de la Loire
+43,400;Haute-Loire;Auvergne-Rhône-Alpes
+50,330;Manche;Normandie
+71,190;Saône-et-Loire;Bourgogne-Franche-Comté
+93,270;Seine-Saint-Denis;Ile-de-France
+27,170;Eure;Normandie
+35,440;Ille-et-Vilaine;Bretagne
+49,400;Maine-et-Loire;Pays de la Loire
+8,600;Ardennes;Alsace-Champagne-Ardenne-Lorraine
+27,320;Eure;Normandie
+29,890;Finistre;Bretagne
+6,190;Alpes-Maritimes;Provence-Alpes-Côte d'Azur
+91,380;Essonne;Ile-de-France
+22,170;Côtes-d'armor;Bretagne
+47,480;Lot-et-Garonne;Aquitaine-Limousin-Poitou-Charentes
+63,200;Puy-de-Dôme;Auvergne-Rhône-Alpes
+51,120;Marne;Alsace-Champagne-Ardenne-Lorraine
+16,000;Charente;Aquitaine-Limousin-Poitou-Charentes
+33,100;Gironde;Aquitaine-Limousin-Poitou-Charentes
+68,120;Haut-Rhin;Alsace-Champagne-Ardenne-Lorraine
+7,690;Ardche;Auvergne-Rhône-Alpes
+6,210;Alpes-Maritimes;Provence-Alpes-Côte d'Azur
+6,750;Alpes-Maritimes;Provence-Alpes-Côte d'Azur
+44,510;Loire-Atlantique;Pays de la Loire
+51,430;Marne;Alsace-Champagne-Ardenne-Lorraine
+79,270;Deux-Svres;Aquitaine-Limousin-Poitou-Charentes
+93,460;Seine-Saint-Denis;Ile-de-France
+37,550;Indre-et-Loire;Centre-Val de Loire
+24,520;Dordogne;Aquitaine-Limousin-Poitou-Charentes
+25,410;Doubs;Bourgogne-Franche-Comté
+83,200;Var;Provence-Alpes-Côte d'Azur
+55,400;Meuse;Alsace-Champagne-Ardenne-Lorraine
+38,790;Isre;Auvergne-Rhône-Alpes
+83,260;Var;Provence-Alpes-Côte d'Azur
+84,270;Vaucluse;Provence-Alpes-Côte d'Azur
+83,136;Var;Provence-Alpes-Côte d'Azur
+13,840;Bouches-du-Rhône;Provence-Alpes-Côte d'Azur
+59,320;Nord;Nord-Pas-de-Calais-Picardie
+62,126;Pas-de-Calais;Nord-Pas-de-Calais-Picardie
+95,480;Val-d'oise;Ile-de-France
+77,290;Seine-et-Marne;Ile-de-France
+44,380;Loire-Atlantique;Pays de la Loire
+91,220;Essonne;Ile-de-France
+71,110;Saône-et-Loire;Bourgogne-Franche-Comté
+51,450;Marne;Alsace-Champagne-Ardenne-Lorraine
+30,110;Gard;Languedoc-Roussillon-Midi-Pyrénées
+76,540;Seine-Maritime;Normandie
+35,140;Ille-et-Vilaine;Bretagne
+68,800;Haut-Rhin;Alsace-Champagne-Ardenne-Lorraine
+62,840;Pas-de-Calais;Nord-Pas-de-Calais-Picardie
+69,210;Rhône;Auvergne-Rhône-Alpes
+47,220;Lot-et-Garonne;Aquitaine-Limousin-Poitou-Charentes
+63,028;Puy-de-Dôme;Auvergne-Rhône-Alpes
+45,240;Loiret;Centre-Val de Loire
+91,610;Essonne;Ile-de-France
+54,840;Meurthe-et-Moselle;Alsace-Champagne-Ardenne-Lorraine
+64,780;Pyrénées-Atlantiques;Aquitaine-Limousin-Poitou-Charentes
+59,410;Nord;Nord-Pas-de-Calais-Picardie
+38,138;Isre;Auvergne-Rhône-Alpes
+1,570;Ain;Auvergne-Rhône-Alpes
+83,330;Var;Provence-Alpes-Côte d'Azur
+35,490;Ille-et-Vilaine;Bretagne
+30,130;Gard;Languedoc-Roussillon-Midi-Pyrénées
+78,410;Yvelines;Ile-de-France
+67,840;Bas-Rhin;Alsace-Champagne-Ardenne-Lorraine
+42,560;Loire;Auvergne-Rhône-Alpes
+85,470;Vendée;Pays de la Loire
+24,420;Dordogne;Aquitaine-Limousin-Poitou-Charentes
+57,450;Moselle;Alsace-Champagne-Ardenne-Lorraine
+78,114;Yvelines;Ile-de-France
+30,340;Gard;Languedoc-Roussillon-Midi-Pyrénées
+42,300;Loire;Auvergne-Rhône-Alpes
+34,690;Hérault;Languedoc-Roussillon-Midi-Pyrénées
+26,250;Drôme;Auvergne-Rhône-Alpes
+94,500;Val-de-Marne;Ile-de-France
+54,470;Meurthe-et-Moselle;Alsace-Champagne-Ardenne-Lorraine
+59,831;Nord;Nord-Pas-de-Calais-Picardie
+21,850;Côte-d'or;Bourgogne-Franche-Comté
+77,660;Seine-et-Marne;Ile-de-France
+91,720;Essonne;Ile-de-France
+77,630;Seine-et-Marne;Ile-de-France
+49,160;Maine-et-Loire;Pays de la Loire
+36,250;Indre;Centre-Val de Loire
+69,780;Rhône;Auvergne-Rhône-Alpes
+42,000;Loire;Auvergne-Rhône-Alpes
+94,200;Val-de-Marne;Ile-de-France
+91,070;Essonne;Ile-de-France
+86,440;Vienne;Aquitaine-Limousin-Poitou-Charentes
+73,340;Savoie;Auvergne-Rhône-Alpes
+19,200;Corrze;Aquitaine-Limousin-Poitou-Charentes
+44,210;Loire-Atlantique;Pays de la Loire
+37,320;Indre-et-Loire;Centre-Val de Loire
+28,270;Eure-et-Loir;Centre-Val de Loire
+64,122;Pyrénées-Atlantiques;Aquitaine-Limousin-Poitou-Charentes
+83,220;Var;Provence-Alpes-Côte d'Azur
+54,280;Meurthe-et-Moselle;Alsace-Champagne-Ardenne-Lorraine
+10,019;Aube;Alsace-Champagne-Ardenne-Lorraine
+7,190;Ardche;Auvergne-Rhône-Alpes
+56,600;Morbihan;Bretagne
+44,260;Loire-Atlantique;Pays de la Loire
+29,490;Finistre;Bretagne
+2,850;Aisne;Nord-Pas-de-Calais-Picardie
+54,910;Meurthe-et-Moselle;Alsace-Champagne-Ardenne-Lorraine
+60,130;Oise;Nord-Pas-de-Calais-Picardie
+76,770;Seine-Maritime;Normandie
+67,450;Bas-Rhin;Alsace-Champagne-Ardenne-Lorraine
+88,210;Vosges;Alsace-Champagne-Ardenne-Lorraine
+69,720;Rhône;Auvergne-Rhône-Alpes
+93,110;Seine-Saint-Denis;Ile-de-France
+44,420;Loire-Atlantique;Pays de la Loire
+56,370;Morbihan;Bretagne
+7,210;Ardche;Auvergne-Rhône-Alpes
+44,500;Loire-Atlantique;Pays de la Loire
+64,000;Pyrénées-Atlantiques;Aquitaine-Limousin-Poitou-Charentes
+67,870;Bas-Rhin;Alsace-Champagne-Ardenne-Lorraine
+44,460;Loire-Atlantique;Pays de la Loire
+69,440;Rhône;Auvergne-Rhône-Alpes
+35,800;Ille-et-Vilaine;Bretagne
+61,380;Orne;Normandie
+69,970;Rhône;Auvergne-Rhône-Alpes
+87,000;Haute-Vienne;Aquitaine-Limousin-Poitou-Charentes
+16,360;Charente;Aquitaine-Limousin-Poitou-Charentes
+57,880;Moselle;Alsace-Champagne-Ardenne-Lorraine
+86,120;Vienne;Aquitaine-Limousin-Poitou-Charentes
+34,340;Hérault;Languedoc-Roussillon-Midi-Pyrénées
+44,430;Loire-Atlantique;Pays de la Loire
+59,236;Nord;Nord-Pas-de-Calais-Picardie
+76,720;Seine-Maritime;Normandie
+34,740;Hérault;Languedoc-Roussillon-Midi-Pyrénées
+95,500;Val-d'oise;Ile-de-France
+93,130;Seine-Saint-Denis;Ile-de-France
+59,910;Nord;Nord-Pas-de-Calais-Picardie
+77,910;Seine-et-Marne;Ile-de-France
+28,100;Eure-et-Loir;Centre-Val de Loire
+85,170;Vendée;Pays de la Loire
+76,450;Seine-Maritime;Normandie
+4,150;Alpes-de-Haute-Provence;Provence-Alpes-Côte d'Azur
+27,540;Eure;Normandie
+58,310;Nivre;Bourgogne-Franche-Comté
+6,410;Alpes-Maritimes;Provence-Alpes-Côte d'Azur
+81,990;Tarn;Languedoc-Roussillon-Midi-Pyrénées
+34,400;Hérault;Languedoc-Roussillon-Midi-Pyrénées
+68,520;Haut-Rhin;Alsace-Champagne-Ardenne-Lorraine
+30,820;Gard;Languedoc-Roussillon-Midi-Pyrénées
+21,240;Côte-d'or;Bourgogne-Franche-Comté
+12,160;Aveyron;Languedoc-Roussillon-Midi-Pyrénées
+54,730;Meurthe-et-Moselle;Alsace-Champagne-Ardenne-Lorraine
+26,560;Drôme;Auvergne-Rhône-Alpes
+47,120;Lot-et-Garonne;Aquitaine-Limousin-Poitou-Charentes
+30,620;Gard;Languedoc-Roussillon-Midi-Pyrénées
+73,480;Savoie;Auvergne-Rhône-Alpes
+25,720;Doubs;Bourgogne-Franche-Comté
+1,480;Ain;Auvergne-Rhône-Alpes
+65,000;Hautes-Pyrénées;Languedoc-Roussillon-Midi-Pyrénées
+59,150;Nord;Nord-Pas-de-Calais-Picardie
+33,680;Gironde;Aquitaine-Limousin-Poitou-Charentes
+75,003;Paris;Ile-de-France
+42,450;Loire;Auvergne-Rhône-Alpes
+75,015;Paris;Ile-de-France
+75,020;Paris;Ile-de-France
+92,600;Hauts-de-Seine;Ile-de-France
+13,004;Bouches-du-Rhône;Provence-Alpes-Côte d'Azur
+13,016;Bouches-du-Rhône;Provence-Alpes-Côte d'Azur
+57,220;Moselle;Alsace-Champagne-Ardenne-Lorraine
+31,370;Haute-Garonne;Languedoc-Roussillon-Midi-Pyrénées
+94,210;Val-de-Marne;Ile-de-France
+83,992;Var;Provence-Alpes-Côte d'Azur
+31,270;Haute-Garonne;Languedoc-Roussillon-Midi-Pyrénées
+45,000;Loiret;Centre-Val de Loire
+75,017;Paris;Ile-de-France
+66,100;Pyrénées-Orientales;Languedoc-Roussillon-Midi-Pyrénées
+42,100;Loire;Auvergne-Rhône-Alpes
+94,300;Val-de-Marne;Ile-de-France
+95,250;Val-d'oise;Ile-de-France
+59,840;Nord;Nord-Pas-de-Calais-Picardie
+75,008;Paris;Ile-de-France
+75,018;Paris;Ile-de-France
+8,500;Ardennes;Alsace-Champagne-Ardenne-Lorraine
+84,360;Vaucluse;Provence-Alpes-Côte d'Azur
+59,200;Nord;Nord-Pas-de-Calais-Picardie
+77,500;Seine-et-Marne;Ile-de-France
+42,330;Loire;Auvergne-Rhône-Alpes
+11,300;Aude;Languedoc-Roussillon-Midi-Pyrénées
+75,010;Paris;Ile-de-France
+95,230;Val-d'oise;Ile-de-France
+75,012;Paris;Ile-de-France
+69,630;Rhône;Auvergne-Rhône-Alpes
+83,990;Var;Provence-Alpes-Côte d'Azur
+67,140;Bas-Rhin;Alsace-Champagne-Ardenne-Lorraine
+45,560;Loiret;Centre-Val de Loire
+54,000;Meurthe-et-Moselle;Alsace-Champagne-Ardenne-Lorraine
+95,130;Val-d'oise;Ile-de-France
+75,009;Paris;Ile-de-France
+83,500;Var;Provence-Alpes-Côte d'Azur
+17,190;Charente-Maritime;Aquitaine-Limousin-Poitou-Charentes
+18,000;Cher;Centre-Val de Loire
+54,130;Meurthe-et-Moselle;Alsace-Champagne-Ardenne-Lorraine
+75,116;Paris;Ile-de-France
+13,011;Bouches-du-Rhône;Provence-Alpes-Côte d'Azur
+64,260;Pyrénées-Atlantiques;Aquitaine-Limousin-Poitou-Charentes
+27,950;Eure;Normandie
+94,220;Val-de-Marne;Ile-de-France
+59,420;Nord;Nord-Pas-de-Calais-Picardie
+6,800;Alpes-Maritimes;Provence-Alpes-Côte d'Azur
+77,340;Seine-et-Marne;Ile-de-France
+95,620;Val-d'oise;Ile-de-France
+74,410;Haute-Savoie;Auvergne-Rhône-Alpes
+86,800;Vienne;Aquitaine-Limousin-Poitou-Charentes
+33,460;Gironde;Aquitaine-Limousin-Poitou-Charentes
+31,000;Haute-Garonne;Languedoc-Roussillon-Midi-Pyrénées
+92,320;Hauts-de-Seine;Ile-de-France
+92,190;Hauts-de-Seine;Ile-de-France
+77,680;Seine-et-Marne;Ile-de-France
+94,400;Val-de-Marne;Ile-de-France
+92,000;Hauts-de-Seine;Ile-de-France
+77,420;Seine-et-Marne;Ile-de-France
+67,300;Bas-Rhin;Alsace-Champagne-Ardenne-Lorraine
+69,002;Rhône;Auvergne-Rhône-Alpes
+57,580;Moselle;Alsace-Champagne-Ardenne-Lorraine
+92,300;Hauts-de-Seine;Ile-de-France
+13,380;Bouches-du-Rhône;Provence-Alpes-Côte d'Azur
+57,260;Moselle;Alsace-Champagne-Ardenne-Lorraine
+57,070;Moselle;Alsace-Champagne-Ardenne-Lorraine
+51,370;Marne;Alsace-Champagne-Ardenne-Lorraine
+83,600;Var;Provence-Alpes-Côte d'Azur
+38,000;Isre;Auvergne-Rhône-Alpes
+59,159;Nord;Nord-Pas-de-Calais-Picardie
+6,130;Alpes-Maritimes;Provence-Alpes-Côte d'Azur
+31,450;Haute-Garonne;Languedoc-Roussillon-Midi-Pyrénées
+35,760;Ille-et-Vilaine;Bretagne
+69,360;Rhône;Auvergne-Rhône-Alpes
+68,200;Haut-Rhin;Alsace-Champagne-Ardenne-Lorraine
+59,130;Nord;Nord-Pas-de-Calais-Picardie
+69,009;Rhône;Auvergne-Rhône-Alpes
+35,000;Ille-et-Vilaine;Bretagne
+92,500;Hauts-de-Seine;Ile-de-France
+78,150;Yvelines;Ile-de-France
+94,000;Val-de-Marne;Ile-de-France
+95,110;Val-d'oise;Ile-de-France
+13,008;Bouches-du-Rhône;Provence-Alpes-Côte d'Azur
+75,005;Paris;Ile-de-France
+35,350;Ille-et-Vilaine;Bretagne
+94,260;Val-de-Marne;Ile-de-France
+6,000;Alpes-Maritimes;Provence-Alpes-Côte d'Azur
+67,118;Bas-Rhin;Alsace-Champagne-Ardenne-Lorraine
+59,110;Nord;Nord-Pas-de-Calais-Picardie
+59,390;Nord;Nord-Pas-de-Calais-Picardie
+93,170;Seine-Saint-Denis;Ile-de-France
+71,100;Saône-et-Loire;Bourgogne-Franche-Comté
+82,130;Tarn-et-Garonne;Languedoc-Roussillon-Midi-Pyrénées
+33,320;Gironde;Aquitaine-Limousin-Poitou-Charentes
+59,930;Nord;Nord-Pas-de-Calais-Picardie
+86,240;Vienne;Aquitaine-Limousin-Poitou-Charentes
+86,490;Vienne;Aquitaine-Limousin-Poitou-Charentes
+35,170;Ille-et-Vilaine;Bretagne
+91,160;Essonne;Ile-de-France
+62,223;Pas-de-Calais;Nord-Pas-de-Calais-Picardie
+71,220;Saône-et-Loire;Bourgogne-Franche-Comté
+59,118;Nord;Nord-Pas-de-Calais-Picardie
+73,000;Savoie;Auvergne-Rhône-Alpes
+86,230;Vienne;Aquitaine-Limousin-Poitou-Charentes
+69,550;Rhône;Auvergne-Rhône-Alpes
+91,490;Essonne;Ile-de-France
+77,150;Seine-et-Marne;Ile-de-France
+69,570;Rhône;Auvergne-Rhône-Alpes
+35,040;Ille-et-Vilaine;Bretagne
+83,000;Var;Provence-Alpes-Côte d'Azur
+44,290;Loire-Atlantique;Pays de la Loire
+39,320;Jura;Bourgogne-Franche-Comté
+13,360;Bouches-du-Rhône;Provence-Alpes-Côte d'Azur
+59,155;Nord;Nord-Pas-de-Calais-Picardie
+13,013;Bouches-du-Rhône;Provence-Alpes-Côte d'Azur
+62,140;Pas-de-Calais;Nord-Pas-de-Calais-Picardie
+10,000;Aube;Alsace-Champagne-Ardenne-Lorraine
+91,190;Essonne;Ile-de-France
+13,006;Bouches-du-Rhône;Provence-Alpes-Côte d'Azur
+88,600;Vosges;Alsace-Champagne-Ardenne-Lorraine
+81,700;Tarn;Languedoc-Roussillon-Midi-Pyrénées
+89,140;Yonne;Bourgogne-Franche-Comté
+78,600;Yvelines;Ile-de-France
+34,660;Hérault;Languedoc-Roussillon-Midi-Pyrénées
+92,330;Hauts-de-Seine;Ile-de-France
+59,540;Nord;Nord-Pas-de-Calais-Picardie
+24,310;Dordogne;Aquitaine-Limousin-Poitou-Charentes
+8,390;Ardennes;Alsace-Champagne-Ardenne-Lorraine
+68,000;Haut-Rhin;Alsace-Champagne-Ardenne-Lorraine
+7,130;Ardche;Auvergne-Rhône-Alpes
+75,007;Paris;Ile-de-France
+41,000;Loir-et-Cher;Centre-Val de Loire
+92,200;Hauts-de-Seine;Ile-de-France
+84,320;Vaucluse;Provence-Alpes-Côte d'Azur
+27,000;Eure;Normandie
+80,480;Somme;Nord-Pas-de-Calais-Picardie
+94,800;Val-de-Marne;Ile-de-France
+69,530;Rhône;Auvergne-Rhône-Alpes
+42,530;Loire;Auvergne-Rhône-Alpes
+75,006;Paris;Ile-de-France
+62,136;Pas-de-Calais;Nord-Pas-de-Calais-Picardie
+95,270;Val-d'oise;Ile-de-France
+11,100;Aude;Languedoc-Roussillon-Midi-Pyrénées
+31,600;Haute-Garonne;Languedoc-Roussillon-Midi-Pyrénées
+86,100;Vienne;Aquitaine-Limousin-Poitou-Charentes
+5,350;Hautes-Alpes;Provence-Alpes-Côte d'Azur
+13,200;Bouches-du-Rhône;Provence-Alpes-Côte d'Azur
+34,670;Hérault;Languedoc-Roussillon-Midi-Pyrénées
+51,530;Marne;Alsace-Champagne-Ardenne-Lorraine
+75,019;Paris;Ile-de-France
+69,004;Rhône;Auvergne-Rhône-Alpes
+95,100;Val-d'oise;Ile-de-France
+37,270;Indre-et-Loire;Centre-Val de Loire
+60,520;Oise;Nord-Pas-de-Calais-Picardie
+76,240;Seine-Maritime;Normandie
+92,380;Hauts-de-Seine;Ile-de-France
+57,410;Moselle;Alsace-Champagne-Ardenne-Lorraine
+6,400;Alpes-Maritimes;Provence-Alpes-Côte d'Azur
+56,380;Morbihan;Bretagne
+69,300;Rhône;Auvergne-Rhône-Alpes
+75,011;Paris;Ile-de-France
+27,560;Eure;Normandie
+67,160;Bas-Rhin;Alsace-Champagne-Ardenne-Lorraine
+13,124;Bouches-du-Rhône;Provence-Alpes-Côte d'Azur
+59,990;Nord;Nord-Pas-de-Calais-Picardie
+34,130;Hérault;Languedoc-Roussillon-Midi-Pyrénées
+51,400;Marne;Alsace-Champagne-Ardenne-Lorraine
+59,790;Nord;Nord-Pas-de-Calais-Picardie
+57,350;Moselle;Alsace-Champagne-Ardenne-Lorraine
+52,800;Haute-Marne;Alsace-Champagne-Ardenne-Lorraine
+57,175;Moselle;Alsace-Champagne-Ardenne-Lorraine
+33,200;Gironde;Aquitaine-Limousin-Poitou-Charentes
+15,140;Cantal;Auvergne-Rhône-Alpes
+75,001;Paris;Ile-de-France
+44,450;Loire-Atlantique;Pays de la Loire
+30,510;Gard;Languedoc-Roussillon-Midi-Pyrénées
+92,420;Hauts-de-Seine;Ile-de-France
+35,380;Ille-et-Vilaine;Bretagne
+93,160;Seine-Saint-Denis;Ile-de-France
+78,750;Yvelines;Ile-de-France
+74,960;Haute-Savoie;Auvergne-Rhône-Alpes
+84,200;Vaucluse;Provence-Alpes-Côte d'Azur
+38,500;Isre;Auvergne-Rhône-Alpes
+60,140;Oise;Nord-Pas-de-Calais-Picardie
+86,160;Vienne;Aquitaine-Limousin-Poitou-Charentes
+94,440;Val-de-Marne;Ile-de-France
+6,500;Alpes-Maritimes;Provence-Alpes-Côte d'Azur
+62,370;Pas-de-Calais;Nord-Pas-de-Calais-Picardie
+47,520;Lot-et-Garonne;Aquitaine-Limousin-Poitou-Charentes
+13,160;Bouches-du-Rhône;Provence-Alpes-Côte d'Azur
+13,012;Bouches-du-Rhône;Provence-Alpes-Côte d'Azur
+14,000;Calvados;Normandie
+78,000;Yvelines;Ile-de-France
+30,000;Gard;Languedoc-Roussillon-Midi-Pyrénées
+59,290;Nord;Nord-Pas-de-Calais-Picardie
+69,290;Rhône;Auvergne-Rhône-Alpes
+57,160;Moselle;Alsace-Champagne-Ardenne-Lorraine
+95,880;Val-d'oise;Ile-de-France
+54,650;Meurthe-et-Moselle;Alsace-Champagne-Ardenne-Lorraine
+92,150;Hauts-de-Seine;Ile-de-France
+76,300;Seine-Maritime;Normandie
+76,600;Seine-Maritime;Normandie
+19,100;Corrze;Aquitaine-Limousin-Poitou-Charentes
+59,134;Nord;Nord-Pas-de-Calais-Picardie
+14,400;Calvados;Normandie
+26,300;Drôme;Auvergne-Rhône-Alpes
+57,200;Moselle;Alsace-Champagne-Ardenne-Lorraine
+91,940;Essonne;Ile-de-France
+78,500;Yvelines;Ile-de-France
+93,400;Seine-Saint-Denis;Ile-de-France
+40,000;Landes;Aquitaine-Limousin-Poitou-Charentes
+86,340;Vienne;Aquitaine-Limousin-Poitou-Charentes
+83,130;Var;Provence-Alpes-Côte d'Azur
+69,008;Rhône;Auvergne-Rhône-Alpes
+13,600;Bouches-du-Rhône;Provence-Alpes-Côte d'Azur
+93,100;Seine-Saint-Denis;Ile-de-France
+3,270;Allier;Auvergne-Rhône-Alpes
+31,280;Haute-Garonne;Languedoc-Roussillon-Midi-Pyrénées
+34,200;Hérault;Languedoc-Roussillon-Midi-Pyrénées
+94,420;Val-de-Marne;Ile-de-France
+59,491;Nord;Nord-Pas-de-Calais-Picardie
+62,161;Pas-de-Calais;Nord-Pas-de-Calais-Picardie
+67,100;Bas-Rhin;Alsace-Champagne-Ardenne-Lorraine
+77,450;Seine-et-Marne;Ile-de-France
+92,100;Hauts-de-Seine;Ile-de-France
+79,210;Deux-Svres;Aquitaine-Limousin-Poitou-Charentes
+6,670;Alpes-Maritimes;Provence-Alpes-Côte d'Azur
+62,100;Pas-de-Calais;Nord-Pas-de-Calais-Picardie
+30,100;Gard;Languedoc-Roussillon-Midi-Pyrénées
+59,560;Nord;Nord-Pas-de-Calais-Picardie
+94,700;Val-de-Marne;Ile-de-France
+78,140;Yvelines;Ile-de-France
+13,100;Bouches-du-Rhône;Provence-Alpes-Côte d'Azur
+57,130;Moselle;Alsace-Champagne-Ardenne-Lorraine
+53,200;Mayenne;Pays de la Loire
+59,223;Nord;Nord-Pas-de-Calais-Picardie
+34,110;Hérault;Languedoc-Roussillon-Midi-Pyrénées
+59,550;Nord;Nord-Pas-de-Calais-Picardie
+94,170;Val-de-Marne;Ile-de-France
+59,700;Nord;Nord-Pas-de-Calais-Picardie
+28,380;Eure-et-Loir;Centre-Val de Loire
+62,153;Pas-de-Calais;Nord-Pas-de-Calais-Picardie
+68,600;Haut-Rhin;Alsace-Champagne-Ardenne-Lorraine
+38,121;Isre;Auvergne-Rhône-Alpes
+59,235;Nord;Nord-Pas-de-Calais-Picardie
+54,690;Meurthe-et-Moselle;Alsace-Champagne-Ardenne-Lorraine
+57,420;Moselle;Alsace-Champagne-Ardenne-Lorraine
+78,290;Yvelines;Ile-de-France
+59,710;Nord;Nord-Pas-de-Calais-Picardie
+28,300;Eure-et-Loir;Centre-Val de Loire
+34,430;Hérault;Languedoc-Roussillon-Midi-Pyrénées
+27,380;Eure;Normandie
+92,400;Hauts-de-Seine;Ile-de-France
+78,113;Yvelines;Ile-de-France
+6,220;Alpes-Maritimes;Provence-Alpes-Côte d'Azur
+95,150;Val-d'oise;Ile-de-France
+6,270;Alpes-Maritimes;Provence-Alpes-Côte d'Azur
+68,260;Haut-Rhin;Alsace-Champagne-Ardenne-Lorraine
+94,130;Val-de-Marne;Ile-de-France
+69,120;Rhône;Auvergne-Rhône-Alpes
+92,170;Hauts-de-Seine;Ile-de-France
+78,340;Yvelines;Ile-de-France
+67,500;Bas-Rhin;Alsace-Champagne-Ardenne-Lorraine
+71,380;Saône-et-Loire;Bourgogne-Franche-Comté
+84,100;Vaucluse;Provence-Alpes-Côte d'Azur
+34,080;Hérault;Languedoc-Roussillon-Midi-Pyrénées
+59,360;Nord;Nord-Pas-de-Calais-Picardie
+78,110;Yvelines;Ile-de-France
+85,180;Vendée;Pays de la Loire
+13,180;Bouches-du-Rhône;Provence-Alpes-Côte d'Azur
+75,002;Paris;Ile-de-France
+42,580;Loire;Auvergne-Rhône-Alpes
+59,242;Nord;Nord-Pas-de-Calais-Picardie
+83,170;Var;Provence-Alpes-Côte d'Azur
+75,016;Paris;Ile-de-France
+51,470;Marne;Alsace-Champagne-Ardenne-Lorraine
+27,930;Eure;Normandie
+35,150;Ille-et-Vilaine;Bretagne
+75,014;Paris;Ile-de-France
+6,530;Alpes-Maritimes;Provence-Alpes-Côte d'Azur
+34,070;Hérault;Languedoc-Roussillon-Midi-Pyrénées
+34,500;Hérault;Languedoc-Roussillon-Midi-Pyrénées
+94,120;Val-de-Marne;Ile-de-France
+13,140;Bouches-du-Rhône;Provence-Alpes-Côte d'Azur
+60,240;Oise;Nord-Pas-de-Calais-Picardie
+91,150;Essonne;Ile-de-France
+13,112;Bouches-du-Rhône;Provence-Alpes-Côte d'Azur
+13,510;Bouches-du-Rhône;Provence-Alpes-Côte d'Azur
+60,270;Oise;Nord-Pas-de-Calais-Picardie
+13,990;Bouches-du-Rhône;Provence-Alpes-Côte d'Azur
+95,240;Val-d'oise;Ile-de-France
+78,910;Yvelines;Ile-de-France
+1,360;Ain;Auvergne-Rhône-Alpes
+77,590;Seine-et-Marne;Ile-de-France
+13,001;Bouches-du-Rhône;Provence-Alpes-Côte d'Azur
+69,005;Rhône;Auvergne-Rhône-Alpes
+51,100;Marne;Alsace-Champagne-Ardenne-Lorraine
+59,570;Nord;Nord-Pas-de-Calais-Picardie
+39,210;Jura;Bourgogne-Franche-Comté
+69,006;Rhône;Auvergne-Rhône-Alpes
+74,940;Haute-Savoie;Auvergne-Rhône-Alpes
+45,500;Loiret;Centre-Val de Loire
+74,300;Haute-Savoie;Auvergne-Rhône-Alpes
+91,800;Essonne;Ile-de-France
+44,120;Loire-Atlantique;Pays de la Loire
+93,290;Seine-Saint-Denis;Ile-de-France
+95,220;Val-d'oise;Ile-de-France
+34,090;Hérault;Languedoc-Roussillon-Midi-Pyrénées
+56,400;Morbihan;Bretagne
+92,270;Hauts-de-Seine;Ile-de-France
+28,160;Eure-et-Loir;Centre-Val de Loire
+6,560;Alpes-Maritimes;Provence-Alpes-Côte d'Azur
+91,420;Essonne;Ile-de-France
+13,400;Bouches-du-Rhône;Provence-Alpes-Côte d'Azur
+69,890;Rhône;Auvergne-Rhône-Alpes
+95,000;Val-d'oise;Ile-de-France
+66,400;Pyrénées-Orientales;Languedoc-Roussillon-Midi-Pyrénées
+44,410;Loire-Atlantique;Pays de la Loire
+69,150;Rhône;Auvergne-Rhône-Alpes
+57,400;Moselle;Alsace-Champagne-Ardenne-Lorraine
+75,013;Paris;Ile-de-France
+62,620;Pas-de-Calais;Nord-Pas-de-Calais-Picardie
+34,440;Hérault;Languedoc-Roussillon-Midi-Pyrénées
+59,520;Nord;Nord-Pas-de-Calais-Picardie
+84,000;Vaucluse;Provence-Alpes-Côte d'Azur
+63,170;Puy-de-Dôme;Auvergne-Rhône-Alpes
+24,200;Dordogne;Aquitaine-Limousin-Poitou-Charentes
+68,680;Haut-Rhin;Alsace-Champagne-Ardenne-Lorraine
+50,800;Manche;Normandie
+91,120;Essonne;Ile-de-France
+78,950;Yvelines;Ile-de-France
+59,800;Nord;Nord-Pas-de-Calais-Picardie
+38,490;Isre;Auvergne-Rhône-Alpes
+27,350;Eure;Normandie
+78,540;Yvelines;Ile-de-France
+69,001;Rhône;Auvergne-Rhône-Alpes
+1,000;Ain;Auvergne-Rhône-Alpes
+31,400;Haute-Garonne;Languedoc-Roussillon-Midi-Pyrénées
+34,470;Hérault;Languedoc-Roussillon-Midi-Pyrénées
+1,250;Ain;Auvergne-Rhône-Alpes
+31,650;Haute-Garonne;Languedoc-Roussillon-Midi-Pyrénées
+42,152;Loire;Auvergne-Rhône-Alpes
+66,430;Pyrénées-Orientales;Languedoc-Roussillon-Midi-Pyrénées
+59,600;Nord;Nord-Pas-de-Calais-Picardie
+83,230;Var;Provence-Alpes-Côte d'Azur
+16,260;Charente;Aquitaine-Limousin-Poitou-Charentes
+62,880;Pas-de-Calais;Nord-Pas-de-Calais-Picardie
+67,590;Bas-Rhin;Alsace-Champagne-Ardenne-Lorraine
+26,700;Drôme;Auvergne-Rhône-Alpes
+91,510;Essonne;Ile-de-France
+71,700;Saône-et-Loire;Bourgogne-Franche-Comté
+93,310;Seine-Saint-Denis;Ile-de-France
+47,000;Lot-et-Garonne;Aquitaine-Limousin-Poitou-Charentes
+89,130;Yonne;Bourgogne-Franche-Comté
+4,000;Alpes-de-Haute-Provence;Provence-Alpes-Côte d'Azur
+13,310;Bouches-du-Rhône;Provence-Alpes-Côte d'Azur
+91,090;Essonne;Ile-de-France
+13,010;Bouches-du-Rhône;Provence-Alpes-Côte d'Azur
+44,760;Loire-Atlantique;Pays de la Loire
+77,260;Seine-et-Marne;Ile-de-France
+92,700;Hauts-de-Seine;Ile-de-France
+67,000;Bas-Rhin;Alsace-Champagne-Ardenne-Lorraine
+38,100;Isre;Auvergne-Rhône-Alpes
+95,580;Val-d'oise;Ile-de-France
+92,120;Hauts-de-Seine;Ile-de-France
+76,200;Seine-Maritime;Normandie
+71,400;Saône-et-Loire;Bourgogne-Franche-Comté
+25,480;Doubs;Bourgogne-Franche-Comté
+91,200;Essonne;Ile-de-France
+92,410;Hauts-de-Seine;Ile-de-France
+38,450;Isre;Auvergne-Rhône-Alpes
+77,930;Seine-et-Marne;Ile-de-France
+67,170;Bas-Rhin;Alsace-Champagne-Ardenne-Lorraine
+77,600;Seine-et-Marne;Ile-de-France
+92,250;Hauts-de-Seine;Ile-de-France
+78,630;Yvelines;Ile-de-France
+95,170;Val-d'oise;Ile-de-France
+42,400;Loire;Auvergne-Rhône-Alpes
+73,200;Savoie;Auvergne-Rhône-Alpes
+33,000;Gironde;Aquitaine-Limousin-Poitou-Charentes
+76,400;Seine-Maritime;Normandie
+53,100;Mayenne;Pays de la Loire
+92,527;Hauts-de-Seine;Ile-de-France
+68,720;Haut-Rhin;Alsace-Champagne-Ardenne-Lorraine
+69,160;Rhône;Auvergne-Rhône-Alpes
+77,000;Seine-et-Marne;Ile-de-France
+88,150;Vosges;Alsace-Champagne-Ardenne-Lorraine
+40,100;Landes;Aquitaine-Limousin-Poitou-Charentes
+26,200;Drôme;Auvergne-Rhône-Alpes
+13,470;Bouches-du-Rhône;Provence-Alpes-Côte d'Azur
+51,000;Marne;Alsace-Champagne-Ardenne-Lorraine
+86,500;Vienne;Aquitaine-Limousin-Poitou-Charentes
+26,140;Drôme;Auvergne-Rhône-Alpes
+77,950;Seine-et-Marne;Ile-de-France
+56,172;Morbihan;Bretagne
+13,007;Bouches-du-Rhône;Provence-Alpes-Côte d'Azur
+91,400;Essonne;Ile-de-France
+42,490;Loire;Auvergne-Rhône-Alpes
+67,201;Bas-Rhin;Alsace-Champagne-Ardenne-Lorraine
+69,430;Rhône;Auvergne-Rhône-Alpes
+56,140;Morbihan;Bretagne
+44,300;Loire-Atlantique;Pays de la Loire
+1,200;Ain;Auvergne-Rhône-Alpes
+6,370;Alpes-Maritimes;Provence-Alpes-Côte d'Azur
+92,360;Hauts-de-Seine;Ile-de-France
+12,000;Aveyron;Languedoc-Roussillon-Midi-Pyrénées
+28,000;Eure-et-Loir;Centre-Val de Loire
+13,120;Bouches-du-Rhône;Provence-Alpes-Côte d'Azur
+34,000;Hérault;Languedoc-Roussillon-Midi-Pyrénées
+92,350;Hauts-de-Seine;Ile-de-France
+13,005;Bouches-du-Rhône;Provence-Alpes-Côte d'Azur
+9,600;Arige;Languedoc-Roussillon-Midi-Pyrénées
+33,600;Gironde;Aquitaine-Limousin-Poitou-Charentes
+68,128;Haut-Rhin;Alsace-Champagne-Ardenne-Lorraine
+71,240;Saône-et-Loire;Bourgogne-Franche-Comté
+30,700;Gard;Languedoc-Roussillon-Midi-Pyrénées
+6,300;Alpes-Maritimes;Provence-Alpes-Côte d'Azur
+78,390;Yvelines;Ile-de-France
+9,800;Arige;Languedoc-Roussillon-Midi-Pyrénées
+69,580;Rhône;Auvergne-Rhône-Alpes
+57,330;Moselle;Alsace-Champagne-Ardenne-Lorraine
+68,350;Haut-Rhin;Alsace-Champagne-Ardenne-Lorraine
+36,200;Indre;Centre-Val de Loire
+49,300;Maine-et-Loire;Pays de la Loire
+62,232;Pas-de-Calais;Nord-Pas-de-Calais-Picardie
+62,217;Pas-de-Calais;Nord-Pas-de-Calais-Picardie
+2,200;Aisne;Nord-Pas-de-Calais-Picardie
+62,260;Pas-de-Calais;Nord-Pas-de-Calais-Picardie
+67,204;Bas-Rhin;Alsace-Champagne-Ardenne-Lorraine
+58,600;Nivre;Bourgogne-Franche-Comté
+95,560;Val-d'oise;Ile-de-France
+60,100;Oise;Nord-Pas-de-Calais-Picardie
+67,360;Bas-Rhin;Alsace-Champagne-Ardenne-Lorraine
+94,350;Val-de-Marne;Ile-de-France
+31,300;Haute-Garonne;Languedoc-Roussillon-Midi-Pyrénées
+81,330;Tarn;Languedoc-Roussillon-Midi-Pyrénées
+30,240;Gard;Languedoc-Roussillon-Midi-Pyrénées
+14,260;Calvados;Normandie
+67,610;Bas-Rhin;Alsace-Champagne-Ardenne-Lorraine
+38,142;Isre;Auvergne-Rhône-Alpes
+17,800;Charente-Maritime;Aquitaine-Limousin-Poitou-Charentes
+6,200;Alpes-Maritimes;Provence-Alpes-Côte d'Azur
+85,550;Vendée;Pays de la Loire
+44,850;Loire-Atlantique;Pays de la Loire
+24,100;Dordogne;Aquitaine-Limousin-Poitou-Charentes
+83,860;Var;Provence-Alpes-Côte d'Azur
+13,420;Bouches-du-Rhône;Provence-Alpes-Côte d'Azur
+92,310;Hauts-de-Seine;Ile-de-France
+62,610;Pas-de-Calais;Nord-Pas-de-Calais-Picardie
+1,460;Ain;Auvergne-Rhône-Alpes
+95,350;Val-d'oise;Ile-de-France
+93,190;Seine-Saint-Denis;Ile-de-France
+92,110;Hauts-de-Seine;Ile-de-France
+67,200;Bas-Rhin;Alsace-Champagne-Ardenne-Lorraine
+87,800;Haute-Vienne;Aquitaine-Limousin-Poitou-Charentes
+67,400;Bas-Rhin;Alsace-Champagne-Ardenne-Lorraine
+93,700;Seine-Saint-Denis;Ile-de-France
+35,470;Ille-et-Vilaine;Bretagne
+64,600;Pyrénées-Atlantiques;Aquitaine-Limousin-Poitou-Charentes
+51,150;Marne;Alsace-Champagne-Ardenne-Lorraine
+94,250;Val-de-Marne;Ile-de-France
+63,110;Puy-de-Dôme;Auvergne-Rhône-Alpes
+44,522;Loire-Atlantique;Pays de la Loire
+60,170;Oise;Nord-Pas-de-Calais-Picardie
+69,220;Rhône;Auvergne-Rhône-Alpes
+35,700;Ille-et-Vilaine;Bretagne
+49,610;Maine-et-Loire;Pays de la Loire
+73,370;Savoie;Auvergne-Rhône-Alpes
+69,260;Rhône;Auvergne-Rhône-Alpes
+44,000;Loire-Atlantique;Pays de la Loire
+91,330;Essonne;Ile-de-France
+60,300;Oise;Nord-Pas-de-Calais-Picardie
+34,410;Hérault;Languedoc-Roussillon-Midi-Pyrénées
+57,700;Moselle;Alsace-Champagne-Ardenne-Lorraine
+78,400;Yvelines;Ile-de-France
+30,220;Gard;Languedoc-Roussillon-Midi-Pyrénées
+63,910;Puy-de-Dôme;Auvergne-Rhône-Alpes
+6,100;Alpes-Maritimes;Provence-Alpes-Côte d'Azur
+78,125;Yvelines;Ile-de-France
+33,700;Gironde;Aquitaine-Limousin-Poitou-Charentes
+83,700;Var;Provence-Alpes-Côte d'Azur
+76,520;Seine-Maritime;Normandie
+57,050;Moselle;Alsace-Champagne-Ardenne-Lorraine
+84,150;Vaucluse;Provence-Alpes-Côte d'Azur
+78,640;Yvelines;Ile-de-France
+31,200;Haute-Garonne;Languedoc-Roussillon-Midi-Pyrénées
+66,240;Pyrénées-Orientales;Languedoc-Roussillon-Midi-Pyrénées
+94,160;Val-de-Marne;Ile-de-France
+13,015;Bouches-du-Rhône;Provence-Alpes-Côte d'Azur
+22,400;Côtes-d'armor;Bretagne
+78,112;Yvelines;Ile-de-France
+62,173;Pas-de-Calais;Nord-Pas-de-Calais-Picardie
+59,000;Nord;Nord-Pas-de-Calais-Picardie
+93,340;Seine-Saint-Denis;Ile-de-France
+31,880;Haute-Garonne;Languedoc-Roussillon-Midi-Pyrénées
+57,660;Moselle;Alsace-Champagne-Ardenne-Lorraine
+93,370;Seine-Saint-Denis;Ile-de-France
+78,240;Yvelines;Ile-de-France
+67,230;Bas-Rhin;Alsace-Champagne-Ardenne-Lorraine
+62,144;Pas-de-Calais;Nord-Pas-de-Calais-Picardie
+22,100;Côtes-d'armor;Bretagne
+76,330;Seine-Maritime;Normandie
+44,200;Loire-Atlantique;Pays de la Loire
+59,152;Nord;Nord-Pas-de-Calais-Picardie
+25,115;Doubs;Bourgogne-Franche-Comté
+27,340;Eure;Normandie
+60,160;Oise;Nord-Pas-de-Calais-Picardie
+8,000;Ardennes;Alsace-Champagne-Ardenne-Lorraine
+69,003;Rhône;Auvergne-Rhône-Alpes
+6,260;Alpes-Maritimes;Provence-Alpes-Côte d'Azur
+59,161;Nord;Nord-Pas-de-Calais-Picardie
+29,260;Finistre;Bretagne
+67,340;Bas-Rhin;Alsace-Champagne-Ardenne-Lorraine
+73,100;Savoie;Auvergne-Rhône-Alpes
+59,500;Nord;Nord-Pas-de-Calais-Picardie
+12,700;Aveyron;Languedoc-Roussillon-Midi-Pyrénées
+41,100;Loir-et-Cher;Centre-Val de Loire
+35,200;Ille-et-Vilaine;Bretagne
+94,520;Val-de-Marne;Ile-de-France
+78,220;Yvelines;Ile-de-France
+57,300;Moselle;Alsace-Champagne-Ardenne-Lorraine
+55,250;Meuse;Alsace-Champagne-Ardenne-Lorraine
+63,540;Puy-de-Dôme;Auvergne-Rhône-Alpes
+93,200;Seine-Saint-Denis;Ile-de-France
+38,160;Isre;Auvergne-Rhône-Alpes
+38,150;Isre;Auvergne-Rhône-Alpes
+13,800;Bouches-du-Rhône;Provence-Alpes-Côte d'Azur
+74,290;Haute-Savoie;Auvergne-Rhône-Alpes
+78,970;Yvelines;Ile-de-France
+33,670;Gironde;Aquitaine-Limousin-Poitou-Charentes
+25,000;Doubs;Bourgogne-Franche-Comté
+3,200;Allier;Auvergne-Rhône-Alpes
+94,100;Val-de-Marne;Ile-de-France
+76,620;Seine-Maritime;Normandie
+76,890;Seine-Maritime;Normandie
+87,310;Haute-Vienne;Aquitaine-Limousin-Poitou-Charentes
+93,220;Seine-Saint-Denis;Ile-de-France
+38,330;Isre;Auvergne-Rhône-Alpes
+25,400;Doubs;Bourgogne-Franche-Comté
+45,770;Loiret;Centre-Val de Loire
+57,270;Moselle;Alsace-Champagne-Ardenne-Lorraine
+69,800;Rhône;Auvergne-Rhône-Alpes
+30,150;Gard;Languedoc-Roussillon-Midi-Pyrénées
+32,600;Gers;Languedoc-Roussillon-Midi-Pyrénées
+8,200;Ardennes;Alsace-Champagne-Ardenne-Lorraine
+69,670;Rhône;Auvergne-Rhône-Alpes
+82,190;Tarn-et-Garonne;Languedoc-Roussillon-Midi-Pyrénées
+13,014;Bouches-du-Rhône;Provence-Alpes-Côte d'Azur
+38,780;Isre;Auvergne-Rhône-Alpes
+67,700;Bas-Rhin;Alsace-Champagne-Ardenne-Lorraine
+83,830;Var;Provence-Alpes-Côte d'Azur
+77,100;Seine-et-Marne;Ile-de-France
+67,520;Bas-Rhin;Alsace-Champagne-Ardenne-Lorraine
+84,140;Vaucluse;Provence-Alpes-Côte d'Azur
+76,290;Seine-Maritime;Normandie
+84,120;Vaucluse;Provence-Alpes-Côte d'Azur
+38,700;Isre;Auvergne-Rhône-Alpes
+27,400;Eure;Normandie
+17,400;Charente-Maritime;Aquitaine-Limousin-Poitou-Charentes
+41,220;Loir-et-Cher;Centre-Val de Loire
+28,260;Eure-et-Loir;Centre-Val de Loire
+50,230;Manche;Normandie
+60,710;Oise;Nord-Pas-de-Calais-Picardie
+78,360;Yvelines;Ile-de-France
+75,004;Paris;Ile-de-France
+38,870;Isre;Auvergne-Rhône-Alpes
+95,800;Val-d'oise;Ile-de-France
+33,130;Gironde;Aquitaine-Limousin-Poitou-Charentes
+67,540;Bas-Rhin;Alsace-Champagne-Ardenne-Lorraine
+22,000;Côtes-d'armor;Bretagne
+49,130;Maine-et-Loire;Pays de la Loire
+92,290;Hauts-de-Seine;Ile-de-France
+94,340;Val-de-Marne;Ile-de-France
+80,500;Somme;Nord-Pas-de-Calais-Picardie
+13,009;Bouches-du-Rhône;Provence-Alpes-Côte d'Azur
+54,220;Meurthe-et-Moselle;Alsace-Champagne-Ardenne-Lorraine
+33,710;Gironde;Aquitaine-Limousin-Poitou-Charentes
+6,600;Alpes-Maritimes;Provence-Alpes-Côte d'Azur
+11,130;Aude;Languedoc-Roussillon-Midi-Pyrénées
+34,150;Hérault;Languedoc-Roussillon-Midi-Pyrénées
+62,150;Pas-de-Calais;Nord-Pas-de-Calais-Picardie
+78,470;Yvelines;Ile-de-France
+93,500;Seine-Saint-Denis;Ile-de-France
+13,790;Bouches-du-Rhône;Provence-Alpes-Côte d'Azur
+69,270;Rhône;Auvergne-Rhône-Alpes
+14,830;Calvados;Normandie
+13,090;Bouches-du-Rhône;Provence-Alpes-Côte d'Azur
+57,500;Moselle;Alsace-Champagne-Ardenne-Lorraine
+13,290;Bouches-du-Rhône;Provence-Alpes-Côte d'Azur
+34,570;Hérault;Languedoc-Roussillon-Midi-Pyrénées
+62,120;Pas-de-Calais;Nord-Pas-de-Calais-Picardie
+78,100;Yvelines;Ile-de-France
+29,000;Finistre;Bretagne
+50,140;Manche;Normandie
+69,250;Rhône;Auvergne-Rhône-Alpes
+62,143;Pas-de-Calais;Nord-Pas-de-Calais-Picardie
+52,250;Haute-Marne;Alsace-Champagne-Ardenne-Lorraine
+52,100;Haute-Marne;Alsace-Champagne-Ardenne-Lorraine
+21,340;Côte-d'or;Bourgogne-Franche-Comté
+67,120;Bas-Rhin;Alsace-Champagne-Ardenne-Lorraine
+60,800;Oise;Nord-Pas-de-Calais-Picardie
+78,510;Yvelines;Ile-de-France
+42,520;Loire;Auvergne-Rhône-Alpes
+77,370;Seine-et-Marne;Ile-de-France
+59,100;Nord;Nord-Pas-de-Calais-Picardie
+95,320;Val-d'oise;Ile-de-France
+92,130;Hauts-de-Seine;Ile-de-France
+67,370;Bas-Rhin;Alsace-Champagne-Ardenne-Lorraine
+17,700;Charente-Maritime;Aquitaine-Limousin-Poitou-Charentes
+56,230;Morbihan;Bretagne
+78,160;Yvelines;Ile-de-France
+59,178;Nord;Nord-Pas-de-Calais-Picardie
+14,610;Calvados;Normandie
+35,850;Ille-et-Vilaine;Bretagne
+6,160;Alpes-Maritimes;Provence-Alpes-Côte d'Azur
+59,194;Nord;Nord-Pas-de-Calais-Picardie
+69,007;Rhône;Auvergne-Rhône-Alpes
+71,510;Saône-et-Loire;Bourgogne-Franche-Comté
+83,300;Var;Provence-Alpes-Côte d'Azur
+31,100;Haute-Garonne;Languedoc-Roussillon-Midi-Pyrénées
+17,000;Charente-Maritime;Aquitaine-Limousin-Poitou-Charentes
+29,620;Finistre;Bretagne
+51,200;Marne;Alsace-Champagne-Ardenne-Lorraine
+13,320;Bouches-du-Rhône;Provence-Alpes-Côte d'Azur
+47,160;Lot-et-Garonne;Aquitaine-Limousin-Poitou-Charentes
+76,130;Seine-Maritime;Normandie
+78,870;Yvelines;Ile-de-France
+67,550;Bas-Rhin;Alsace-Champagne-Ardenne-Lorraine
+91,140;Essonne;Ile-de-France
+95,870;Val-d'oise;Ile-de-France
+49,000;Maine-et-Loire;Pays de la Loire
+62,810;Pas-de-Calais;Nord-Pas-de-Calais-Picardie
+68,127;Haut-Rhin;Alsace-Champagne-Ardenne-Lorraine
+86,360;Vienne;Aquitaine-Limousin-Poitou-Charentes
+59,890;Nord;Nord-Pas-de-Calais-Picardie
+23,500;Creuse;Aquitaine-Limousin-Poitou-Charentes
+92,160;Hauts-de-Seine;Ile-de-France
+83,470;Var;Provence-Alpes-Côte d'Azur
+1,700;Ain;Auvergne-Rhône-Alpes
+78,190;Yvelines;Ile-de-France
+68,310;Haut-Rhin;Alsace-Champagne-Ardenne-Lorraine
+34,300;Hérault;Languedoc-Roussillon-Midi-Pyrénées
+62,147;Pas-de-Calais;Nord-Pas-de-Calais-Picardie
+95,400;Val-d'oise;Ile-de-France
+27,200;Eure;Normandie
+91,540;Essonne;Ile-de-France
+6,510;Alpes-Maritimes;Provence-Alpes-Côte d'Azur
+37,230;Indre-et-Loire;Centre-Val de Loire
+18,300;Cher;Centre-Val de Loire
+68,660;Haut-Rhin;Alsace-Champagne-Ardenne-Lorraine
+76,640;Seine-Maritime;Normandie
+5,000;Hautes-Alpes;Provence-Alpes-Côte d'Azur
+22,520;Côtes-d'armor;Bretagne
+13,821;Bouches-du-Rhône;Provence-Alpes-Côte d'Azur
+13,770;Bouches-du-Rhône;Provence-Alpes-Côte d'Azur
+95,420;Val-d'oise;Ile-de-France
+68,320;Haut-Rhin;Alsace-Champagne-Ardenne-Lorraine
+7,784;Ardche;Auvergne-Rhône-Alpes
+34,370;Hérault;Languedoc-Roussillon-Midi-Pyrénées
+59,830;Nord;Nord-Pas-de-Calais-Picardie
+69,400;Rhône;Auvergne-Rhône-Alpes
+17,120;Charente-Maritime;Aquitaine-Limousin-Poitou-Charentes
+6,640;Alpes-Maritimes;Provence-Alpes-Côte d'Azur
+2,510;Aisne;Nord-Pas-de-Calais-Picardie
+76,000;Seine-Maritime;Normandie
+83,120;Var;Provence-Alpes-Côte d'Azur
+38,230;Isre;Auvergne-Rhône-Alpes
+59,400;Nord;Nord-Pas-de-Calais-Picardie
+78,860;Yvelines;Ile-de-France
+94,190;Val-de-Marne;Ile-de-France
+34,310;Hérault;Languedoc-Roussillon-Midi-Pyrénées
+59,281;Nord;Nord-Pas-de-Calais-Picardie
+7,310;Ardche;Auvergne-Rhône-Alpes
+69,500;Rhône;Auvergne-Rhône-Alpes
+69,340;Rhône;Auvergne-Rhône-Alpes
+22,200;Côtes-d'armor;Bretagne
+74,200;Haute-Savoie;Auvergne-Rhône-Alpes
+80,132;Somme;Nord-Pas-de-Calais-Picardie
+33,800;Gironde;Aquitaine-Limousin-Poitou-Charentes
+28,190;Eure-et-Loir;Centre-Val de Loire
+6,480;Alpes-Maritimes;Provence-Alpes-Côte d'Azur
+84,860;Vaucluse;Provence-Alpes-Côte d'Azur
+69,140;Rhône;Auvergne-Rhône-Alpes
+77,140;Seine-et-Marne;Ile-de-France
+88,640;Vosges;Alsace-Champagne-Ardenne-Lorraine
+64,200;Pyrénées-Atlantiques;Aquitaine-Limousin-Poitou-Charentes
+38,280;Isre;Auvergne-Rhône-Alpes
+2,000;Aisne;Nord-Pas-de-Calais-Picardie
+44,240;Loire-Atlantique;Pays de la Loire
+1,540;Ain;Auvergne-Rhône-Alpes
+77,300;Seine-et-Marne;Ile-de-France
+42,153;Loire;Auvergne-Rhône-Alpes
+45,530;Loiret;Centre-Val de Loire
+93,410;Seine-Saint-Denis;Ile-de-France
+51,350;Marne;Alsace-Champagne-Ardenne-Lorraine
+91,600;Essonne;Ile-de-France
+1,640;Ain;Auvergne-Rhône-Alpes
+94,519;Val-de-Marne;Ile-de-France
+68,440;Haut-Rhin;Alsace-Champagne-Ardenne-Lorraine
+59,282;Nord;Nord-Pas-de-Calais-Picardie
+95,300;Val-d'oise;Ile-de-France
+63,430;Puy-de-Dôme;Auvergne-Rhône-Alpes
+59,139;Nord;Nord-Pas-de-Calais-Picardie
+92,210;Hauts-de-Seine;Ile-de-France
+78,320;Yvelines;Ile-de-France
+6,950;Alpes-Maritimes;Provence-Alpes-Côte d'Azur
+91,440;Essonne;Ile-de-France
+74,500;Haute-Savoie;Auvergne-Rhône-Alpes
+94,490;Val-de-Marne;Ile-de-France
+32,550;Gers;Languedoc-Roussillon-Midi-Pyrénées
+91,240;Essonne;Ile-de-France
+7,700;Ardche;Auvergne-Rhône-Alpes
+76,006;Seine-Maritime;Normandie
+2,600;Aisne;Nord-Pas-de-Calais-Picardie
+82,600;Tarn-et-Garonne;Languedoc-Roussillon-Midi-Pyrénées
+38,300;Isre;Auvergne-Rhône-Alpes
+59,660;Nord;Nord-Pas-de-Calais-Picardie
+9,500;Arige;Languedoc-Roussillon-Midi-Pyrénées
+11,400;Aude;Languedoc-Roussillon-Midi-Pyrénées
+94,320;Val-de-Marne;Ile-de-France
+29,950;Finistre;Bretagne
+46,140;Lot;Languedoc-Roussillon-Midi-Pyrénées
+88,240;Vosges;Alsace-Champagne-Ardenne-Lorraine
+1,800;Ain;Auvergne-Rhône-Alpes
+1,600;Ain;Auvergne-Rhône-Alpes
+67,350;Bas-Rhin;Alsace-Champagne-Ardenne-Lorraine
+78,430;Yvelines;Ile-de-France
+62,580;Pas-de-Calais;Nord-Pas-de-Calais-Picardie
+66,130;Pyrénées-Orientales;Languedoc-Roussillon-Midi-Pyrénées
+5,100;Hautes-Alpes;Provence-Alpes-Côte d'Azur
+69,110;Rhône;Auvergne-Rhône-Alpes
+68,400;Haut-Rhin;Alsace-Champagne-Ardenne-Lorraine
+78,740;Yvelines;Ile-de-France
+92,260;Hauts-de-Seine;Ile-de-France
+24,170;Dordogne;Aquitaine-Limousin-Poitou-Charentes
+38,530;Isre;Auvergne-Rhône-Alpes
+38,122;Isre;Auvergne-Rhône-Alpes
+1,630;Ain;Auvergne-Rhône-Alpes
+21,230;Côte-d'or;Bourgogne-Franche-Comté
+94,240;Val-de-Marne;Ile-de-France
+57,480;Moselle;Alsace-Champagne-Ardenne-Lorraine
+21,250;Côte-d'or;Bourgogne-Franche-Comté
+21,200;Côte-d'or;Bourgogne-Franche-Comté
+51,300;Marne;Alsace-Champagne-Ardenne-Lorraine
+34,920;Hérault;Languedoc-Roussillon-Midi-Pyrénées
+78,700;Yvelines;Ile-de-France
+30,200;Gard;Languedoc-Roussillon-Midi-Pyrénées
+30,131;Gard;Languedoc-Roussillon-Midi-Pyrénées
+51,140;Marne;Alsace-Champagne-Ardenne-Lorraine
+10,410;Aube;Alsace-Champagne-Ardenne-Lorraine
+30,310;Gard;Languedoc-Roussillon-Midi-Pyrénées
+68,220;Haut-Rhin;Alsace-Champagne-Ardenne-Lorraine
+59,270;Nord;Nord-Pas-de-Calais-Picardie
+67,720;Bas-Rhin;Alsace-Champagne-Ardenne-Lorraine
+76,360;Seine-Maritime;Normandie
+35,300;Ille-et-Vilaine;Bretagne
+83,640;Var;Provence-Alpes-Côte d'Azur
+91,700;Essonne;Ile-de-France
+71,850;Saône-et-Loire;Bourgogne-Franche-Comté
+27,750;Eure;Normandie
+85,600;Vendée;Pays de la Loire
+62,630;Pas-de-Calais;Nord-Pas-de-Calais-Picardie
+38,440;Isre;Auvergne-Rhône-Alpes
+78,180;Yvelines;Ile-de-France
+44,470;Loire-Atlantique;Pays de la Loire
+63,000;Puy-de-Dôme;Auvergne-Rhône-Alpes
+78,730;Yvelines;Ile-de-France
+34,280;Hérault;Languedoc-Roussillon-Midi-Pyrénées
+44,690;Loire-Atlantique;Pays de la Loire
+94,270;Val-de-Marne;Ile-de-France
+45,800;Loiret;Centre-Val de Loire
+1,110;Ain;Auvergne-Rhône-Alpes
+92,800;Hauts-de-Seine;Ile-de-France
+12,300;Aveyron;Languedoc-Roussillon-Midi-Pyrénées
+94,230;Val-de-Marne;Ile-de-France
+56,000;Morbihan;Bretagne
+26,210;Drôme;Auvergne-Rhône-Alpes
+77,640;Seine-et-Marne;Ile-de-France
+64,130;Pyrénées-Atlantiques;Aquitaine-Limousin-Poitou-Charentes
+95,290;Val-d'oise;Ile-de-France
+95,660;Val-d'oise;Ile-de-France
+51,490;Marne;Alsace-Champagne-Ardenne-Lorraine
+3,100;Allier;Auvergne-Rhône-Alpes
+36,260;Indre;Centre-Val de Loire
+59,493;Nord;Nord-Pas-de-Calais-Picardie
+34,970;Hérault;Languedoc-Roussillon-Midi-Pyrénées
+54,610;Meurthe-et-Moselle;Alsace-Champagne-Ardenne-Lorraine
+76,760;Seine-Maritime;Normandie
+70,200;Haute-Saône;Bourgogne-Franche-Comté
+62,129;Pas-de-Calais;Nord-Pas-de-Calais-Picardie
+2,360;Aisne;Nord-Pas-de-Calais-Picardie
+54,400;Meurthe-et-Moselle;Alsace-Champagne-Ardenne-Lorraine
+45,200;Loiret;Centre-Val de Loire
+54,330;Meurthe-et-Moselle;Alsace-Champagne-Ardenne-Lorraine
+1,190;Ain;Auvergne-Rhône-Alpes
+67,250;Bas-Rhin;Alsace-Champagne-Ardenne-Lorraine
+66,190;Pyrénées-Orientales;Languedoc-Roussillon-Midi-Pyrénées
+69,840;Rhône;Auvergne-Rhône-Alpes
+29,200;Finistre;Bretagne
+31,320;Haute-Garonne;Languedoc-Roussillon-Midi-Pyrénées
+8,260;Ardennes;Alsace-Champagne-Ardenne-Lorraine
+91,410;Essonne;Ile-de-France
+78,210;Yvelines;Ile-de-France
+61,300;Orne;Normandie
+91,580;Essonne;Ile-de-France
+44,004;Loire-Atlantique;Pays de la Loire
+69,370;Rhône;Auvergne-Rhône-Alpes
+59,240;Nord;Nord-Pas-de-Calais-Picardie
+1,590;Ain;Auvergne-Rhône-Alpes
+47,310;Lot-et-Garonne;Aquitaine-Limousin-Poitou-Charentes
+8,150;Ardennes;Alsace-Champagne-Ardenne-Lorraine
+38,290;Isre;Auvergne-Rhône-Alpes
+21,310;Côte-d'or;Bourgogne-Franche-Comté
+33,140;Gironde;Aquitaine-Limousin-Poitou-Charentes
+62,430;Pas-de-Calais;Nord-Pas-de-Calais-Picardie
+33,400;Gironde;Aquitaine-Limousin-Poitou-Charentes
+60,260;Oise;Nord-Pas-de-Calais-Picardie
+94,150;Val-de-Marne;Ile-de-France
+62,490;Pas-de-Calais;Nord-Pas-de-Calais-Picardie
+78,590;Yvelines;Ile-de-France
+92,140;Hauts-de-Seine;Ile-de-France
+3,800;Allier;Auvergne-Rhône-Alpes
+38,190;Isre;Auvergne-Rhône-Alpes
+30,230;Gard;Languedoc-Roussillon-Midi-Pyrénées
+62,800;Pas-de-Calais;Nord-Pas-de-Calais-Picardie
+89,330;Yonne;Bourgogne-Franche-Comté
+69,390;Rhône;Auvergne-Rhône-Alpes
+54,120;Meurthe-et-Moselle;Alsace-Champagne-Ardenne-Lorraine
+33,220;Gironde;Aquitaine-Limousin-Poitou-Charentes
+13,610;Bouches-du-Rhône;Provence-Alpes-Côte d'Azur
+77,580;Seine-et-Marne;Ile-de-France
+91,230;Essonne;Ile-de-France
+6,340;Alpes-Maritimes;Provence-Alpes-Côte d'Azur
+54,150;Meurthe-et-Moselle;Alsace-Champagne-Ardenne-Lorraine
+34,800;Hérault;Languedoc-Roussillon-Midi-Pyrénées
+11,000;Aude;Languedoc-Roussillon-Midi-Pyrénées
+59,171;Nord;Nord-Pas-de-Calais-Picardie
+62,000;Pas-de-Calais;Nord-Pas-de-Calais-Picardie
+59,450;Nord;Nord-Pas-de-Calais-Picardie
+7,120;Ardche;Auvergne-Rhône-Alpes
+75,440;Paris;Ile-de-France
+38,430;Isre;Auvergne-Rhône-Alpes
+40,140;Landes;Aquitaine-Limousin-Poitou-Charentes
+63,340;Puy-de-Dôme;Auvergne-Rhône-Alpes
+26,400;Drôme;Auvergne-Rhône-Alpes
+84,290;Vaucluse;Provence-Alpes-Côte d'Azur
+54,300;Meurthe-et-Moselle;Alsace-Champagne-Ardenne-Lorraine
+67,220;Bas-Rhin;Alsace-Champagne-Ardenne-Lorraine
+28,630;Eure-et-Loir;Centre-Val de Loire
+34,820;Hérault;Languedoc-Roussillon-Midi-Pyrénées
+33,120;Gironde;Aquitaine-Limousin-Poitou-Charentes
+71,200;Saône-et-Loire;Bourgogne-Franche-Comté
+78,960;Yvelines;Ile-de-France
+30,730;Gard;Languedoc-Roussillon-Midi-Pyrénées
+43,190;Haute-Loire;Auvergne-Rhône-Alpes
+27,110;Eure;Normandie
+4,370;Alpes-de-Haute-Provence;Provence-Alpes-Côte d'Azur
+38,200;Isre;Auvergne-Rhône-Alpes
+85,700;Vendée;Pays de la Loire
+55,200;Meuse;Alsace-Champagne-Ardenne-Lorraine
+94,410;Val-de-Marne;Ile-de-France
+60,230;Oise;Nord-Pas-de-Calais-Picardie
+64,420;Pyrénées-Atlantiques;Aquitaine-Limousin-Poitou-Charentes
+44,730;Loire-Atlantique;Pays de la Loire
+1,220;Ain;Auvergne-Rhône-Alpes
+78,350;Yvelines;Ile-de-France
+89,800;Yonne;Bourgogne-Franche-Comté
+66,000;Pyrénées-Orientales;Languedoc-Roussillon-Midi-Pyrénées
+38,220;Isre;Auvergne-Rhône-Alpes
+69,480;Rhône;Auvergne-Rhône-Alpes
+67,410;Bas-Rhin;Alsace-Champagne-Ardenne-Lorraine
+69,100;Rhône;Auvergne-Rhône-Alpes
+49,100;Maine-et-Loire;Pays de la Loire
+95,430;Val-d'oise;Ile-de-France
+68,760;Haut-Rhin;Alsace-Champagne-Ardenne-Lorraine
+31,410;Haute-Garonne;Languedoc-Roussillon-Midi-Pyrénées
+78,120;Yvelines;Ile-de-France
+66,300;Pyrénées-Orientales;Languedoc-Roussillon-Midi-Pyrénées
+78,111;Yvelines;Ile-de-France
+51,240;Marne;Alsace-Champagne-Ardenne-Lorraine
+71,370;Saône-et-Loire;Bourgogne-Franche-Comté
+44,700;Loire-Atlantique;Pays de la Loire
+51,160;Marne;Alsace-Champagne-Ardenne-Lorraine
+91,590;Essonne;Ile-de-France
+38,320;Isre;Auvergne-Rhône-Alpes
+31,330;Haute-Garonne;Languedoc-Roussillon-Midi-Pyrénées
+62,149;Pas-de-Calais;Nord-Pas-de-Calais-Picardie
+70,110;Haute-Saône;Bourgogne-Franche-Comté
+69,230;Rhône;Auvergne-Rhône-Alpes
+33,300;Gironde;Aquitaine-Limousin-Poitou-Charentes
+72,340;Sarthe;Pays de la Loire
+31,440;Haute-Garonne;Languedoc-Roussillon-Midi-Pyrénées
+69,280;Rhône;Auvergne-Rhône-Alpes
+59,175;Nord;Nord-Pas-de-Calais-Picardie
+40,180;Landes;Aquitaine-Limousin-Poitou-Charentes
+6,110;Alpes-Maritimes;Provence-Alpes-Côte d'Azur
+42,800;Loire;Auvergne-Rhône-Alpes
+33,610;Gironde;Aquitaine-Limousin-Poitou-Charentes
+38,140;Isre;Auvergne-Rhône-Alpes
+57,100;Moselle;Alsace-Champagne-Ardenne-Lorraine
+31,130;Haute-Garonne;Languedoc-Roussillon-Midi-Pyrénées
+88,220;Vosges;Alsace-Champagne-Ardenne-Lorraine
+91,360;Essonne;Ile-de-France
+78,330;Yvelines;Ile-de-France
+13,105;Bouches-du-Rhône;Provence-Alpes-Côte d'Azur
+74,370;Haute-Savoie;Auvergne-Rhône-Alpes
+39,300;Jura;Bourgogne-Franche-Comté
+30,900;Gard;Languedoc-Roussillon-Midi-Pyrénées
+62,690;Pas-de-Calais;Nord-Pas-de-Calais-Picardie
+59,370;Nord;Nord-Pas-de-Calais-Picardie
+86,000;Vienne;Aquitaine-Limousin-Poitou-Charentes
+13,890;Bouches-du-Rhône;Provence-Alpes-Côte d'Azur
+27,130;Eure;Normandie
+6,330;Alpes-Maritimes;Provence-Alpes-Côte d'Azur
+84,600;Vaucluse;Provence-Alpes-Côte d'Azur
+29,800;Finistre;Bretagne
+54,410;Meurthe-et-Moselle;Alsace-Champagne-Ardenne-Lorraine
+33,390;Gironde;Aquitaine-Limousin-Poitou-Charentes
+21,000;Côte-d'or;Bourgogne-Franche-Comté
+42,480;Loire;Auvergne-Rhône-Alpes
+60,610;Oise;Nord-Pas-de-Calais-Picardie
+78,680;Yvelines;Ile-de-France
+59,220;Nord;Nord-Pas-de-Calais-Picardie
+54,460;Meurthe-et-Moselle;Alsace-Champagne-Ardenne-Lorraine
+91,300;Essonne;Ile-de-France
+51,800;Marne;Alsace-Champagne-Ardenne-Lorraine
+25,700;Doubs;Bourgogne-Franche-Comté
+91,000;Essonne;Ile-de-France
+80,110;Somme;Nord-Pas-de-Calais-Picardie
+15,270;Cantal;Auvergne-Rhône-Alpes
+92,220;Hauts-de-Seine;Ile-de-France
+69,130;Rhône;Auvergne-Rhône-Alpes
+45,110;Loiret;Centre-Val de Loire
+38,240;Isre;Auvergne-Rhône-Alpes
+33,510;Gironde;Aquitaine-Limousin-Poitou-Charentes
+76,116;Seine-Maritime;Normandie
+51,340;Marne;Alsace-Champagne-Ardenne-Lorraine
+50,200;Manche;Normandie
+59,760;Nord;Nord-Pas-de-Calais-Picardie
+37,000;Indre-et-Loire;Centre-Val de Loire
+61,110;Orne;Normandie
+13,370;Bouches-du-Rhône;Provence-Alpes-Côte d'Azur
+10,300;Aube;Alsace-Champagne-Ardenne-Lorraine
+54,700;Meurthe-et-Moselle;Alsace-Champagne-Ardenne-Lorraine
+30,500;Gard;Languedoc-Roussillon-Midi-Pyrénées
+43,350;Haute-Loire;Auvergne-Rhône-Alpes
+26,160;Drôme;Auvergne-Rhône-Alpes
+13,270;Bouches-du-Rhône;Provence-Alpes-Côte d'Azur
+13,260;Bouches-du-Rhône;Provence-Alpes-Côte d'Azur
+11,160;Aude;Languedoc-Roussillon-Midi-Pyrénées
+30,250;Gard;Languedoc-Roussillon-Midi-Pyrénées
+78,980;Yvelines;Ile-de-France
+18,700;Cher;Centre-Val de Loire
+59,553;Nord;Nord-Pas-de-Calais-Picardie
+22,380;Côtes-d'armor;Bretagne
+67,600;Bas-Rhin;Alsace-Champagne-Ardenne-Lorraine
+26,500;Drôme;Auvergne-Rhône-Alpes
+8,450;Ardennes;Alsace-Champagne-Ardenne-Lorraine
+14,150;Calvados;Normandie
+83,390;Var;Provence-Alpes-Côte d'Azur
+44,115;Loire-Atlantique;Pays de la Loire
+72,000;Sarthe;Pays de la Loire
+30,400;Gard;Languedoc-Roussillon-Midi-Pyrénées
+79,300;Deux-Svres;Aquitaine-Limousin-Poitou-Charentes
+59,213;Nord;Nord-Pas-de-Calais-Picardie
+35,240;Ille-et-Vilaine;Bretagne
+64,140;Pyrénées-Atlantiques;Aquitaine-Limousin-Poitou-Charentes
+74,930;Haute-Savoie;Auvergne-Rhône-Alpes
+34,160;Hérault;Languedoc-Roussillon-Midi-Pyrénées
+57,455;Moselle;Alsace-Champagne-Ardenne-Lorraine
+83,670;Var;Provence-Alpes-Côte d'Azur
+38,410;Isre;Auvergne-Rhône-Alpes
+34,450;Hérault;Languedoc-Roussillon-Midi-Pyrénées
+7,500;Ardche;Auvergne-Rhône-Alpes
+26,000;Drôme;Auvergne-Rhône-Alpes
+44,860;Loire-Atlantique;Pays de la Loire
+56,950;Morbihan;Bretagne
+86,310;Vienne;Aquitaine-Limousin-Poitou-Charentes
+49,220;Maine-et-Loire;Pays de la Loire
+19,350;Corrze;Aquitaine-Limousin-Poitou-Charentes
+94,140;Val-de-Marne;Ile-de-France
+67,880;Bas-Rhin;Alsace-Champagne-Ardenne-Lorraine
+91,320;Essonne;Ile-de-France
+1,300;Ain;Auvergne-Rhône-Alpes
+71,000;Saône-et-Loire;Bourgogne-Franche-Comté
+73,220;Savoie;Auvergne-Rhône-Alpes
+34,170;Hérault;Languedoc-Roussillon-Midi-Pyrénées
+56,440;Morbihan;Bretagne
+85,230;Vendée;Pays de la Loire
+83,160;Var;Provence-Alpes-Côte d'Azur
+81,150;Tarn;Languedoc-Roussillon-Midi-Pyrénées
+66,690;Pyrénées-Orientales;Languedoc-Roussillon-Midi-Pyrénées
+92,340;Hauts-de-Seine;Ile-de-France
+56,350;Morbihan;Bretagne
+95,810;Val-d'oise;Ile-de-France
+59,170;Nord;Nord-Pas-de-Calais-Picardie
+13,122;Bouches-du-Rhône;Provence-Alpes-Côte d'Azur
+93,150;Seine-Saint-Denis;Ile-de-France
+78,450;Yvelines;Ile-de-France
+21,490;Côte-d'or;Bourgogne-Franche-Comté
+47,500;Lot-et-Garonne;Aquitaine-Limousin-Poitou-Charentes
+67,150;Bas-Rhin;Alsace-Champagne-Ardenne-Lorraine
+44,350;Loire-Atlantique;Pays de la Loire
+78,250;Yvelines;Ile-de-France
+76,160;Seine-Maritime;Normandie
+91,390;Essonne;Ile-de-France
+67,760;Bas-Rhin;Alsace-Champagne-Ardenne-Lorraine
+54,270;Meurthe-et-Moselle;Alsace-Champagne-Ardenne-Lorraine
+77,120;Seine-et-Marne;Ile-de-France
+26,740;Drôme;Auvergne-Rhône-Alpes
+94,880;Val-de-Marne;Ile-de-France
+62,590;Pas-de-Calais;Nord-Pas-de-Calais-Picardie
+4,290;Alpes-de-Haute-Provence;Provence-Alpes-Côte d'Azur
+25,300;Doubs;Bourgogne-Franche-Comté
+67,202;Bas-Rhin;Alsace-Champagne-Ardenne-Lorraine
+59,267;Nord;Nord-Pas-de-Calais-Picardie
+30,330;Gard;Languedoc-Roussillon-Midi-Pyrénées
+30,540;Gard;Languedoc-Roussillon-Midi-Pyrénées
+52,130;Haute-Marne;Alsace-Champagne-Ardenne-Lorraine
+25,530;Doubs;Bourgogne-Franche-Comté
+77,700;Seine-et-Marne;Ile-de-France
+83,210;Var;Provence-Alpes-Côte d'Azur
+6,320;Alpes-Maritimes;Provence-Alpes-Côte d'Azur
+64,121;Pyrénées-Atlantiques;Aquitaine-Limousin-Poitou-Charentes
+37,380;Indre-et-Loire;Centre-Val de Loire
+13,660;Bouches-du-Rhône;Provence-Alpes-Côte d'Azur
+67,630;Bas-Rhin;Alsace-Champagne-Ardenne-Lorraine
+67,210;Bas-Rhin;Alsace-Champagne-Ardenne-Lorraine
+78,280;Yvelines;Ile-de-France
+42,290;Loire;Auvergne-Rhône-Alpes
+21,320;Côte-d'or;Bourgogne-Franche-Comté
+76,460;Seine-Maritime;Normandie
+26,270;Drôme;Auvergne-Rhône-Alpes
+42,170;Loire;Auvergne-Rhône-Alpes
+74,100;Haute-Savoie;Auvergne-Rhône-Alpes
+31,500;Haute-Garonne;Languedoc-Roussillon-Midi-Pyrénées
+55,000;Meuse;Alsace-Champagne-Ardenne-Lorraine
+44,600;Loire-Atlantique;Pays de la Loire
+35,580;Ille-et-Vilaine;Bretagne
+13,002;Bouches-du-Rhône;Provence-Alpes-Côte d'Azur
+59,330;Nord;Nord-Pas-de-Calais-Picardie
+47,390;Lot-et-Garonne;Aquitaine-Limousin-Poitou-Charentes
+13,190;Bouches-du-Rhône;Provence-Alpes-Côte d'Azur
+44,190;Loire-Atlantique;Pays de la Loire
+2,190;Aisne;Nord-Pas-de-Calais-Picardie
+17,500;Charente-Maritime;Aquitaine-Limousin-Poitou-Charentes
+34,960;Hérault;Languedoc-Roussillon-Midi-Pyrénées
+30,660;Gard;Languedoc-Roussillon-Midi-Pyrénées
+95,440;Val-d'oise;Ile-de-France
+11,590;Aude;Languedoc-Roussillon-Midi-Pyrénées
+60,530;Oise;Nord-Pas-de-Calais-Picardie
+60,310;Oise;Nord-Pas-de-Calais-Picardie
+49,500;Maine-et-Loire;Pays de la Loire
+57,310;Moselle;Alsace-Champagne-Ardenne-Lorraine
+59,280;Nord;Nord-Pas-de-Calais-Picardie
+44,330;Loire-Atlantique;Pays de la Loire
+59,131;Nord;Nord-Pas-de-Calais-Picardie
+24,660;Dordogne;Aquitaine-Limousin-Poitou-Charentes
+37,540;Indre-et-Loire;Centre-Val de Loire
+32,400;Gers;Languedoc-Roussillon-Midi-Pyrénées
+17,620;Charente-Maritime;Aquitaine-Limousin-Poitou-Charentes
+13,460;Bouches-du-Rhône;Provence-Alpes-Côte d'Azur
+74,340;Haute-Savoie;Auvergne-Rhône-Alpes
+74,320;Haute-Savoie;Auvergne-Rhône-Alpes
+12,740;Aveyron;Languedoc-Roussillon-Midi-Pyrénées
+76,780;Seine-Maritime;Normandie
+70,100;Haute-Saône;Bourgogne-Franche-Comté
+23,250;Creuse;Aquitaine-Limousin-Poitou-Charentes
+35,230;Ille-et-Vilaine;Bretagne
+59,251;Nord;Nord-Pas-de-Calais-Picardie
+38,360;Isre;Auvergne-Rhône-Alpes
+41,130;Loir-et-Cher;Centre-Val de Loire
+95,120;Val-d'oise;Ile-de-France
+59,750;Nord;Nord-Pas-de-Calais-Picardie
+13,620;Bouches-du-Rhône;Provence-Alpes-Côte d'Azur
+59,114;Nord;Nord-Pas-de-Calais-Picardie
+66,270;Pyrénées-Orientales;Languedoc-Roussillon-Midi-Pyrénées
+83,740;Var;Provence-Alpes-Côte d'Azur
+56,700;Morbihan;Bretagne
+31,160;Haute-Garonne;Languedoc-Roussillon-Midi-Pyrénées
+95,140;Val-d'oise;Ile-de-France
+62,131;Pas-de-Calais;Nord-Pas-de-Calais-Picardie
+43,370;Haute-Loire;Auvergne-Rhône-Alpes
+78,930;Yvelines;Ile-de-France
+14,800;Calvados;Normandie
+56,860;Morbihan;Bretagne
+91,690;Essonne;Ile-de-France
+14,140;Calvados;Normandie
+76,870;Seine-Maritime;Normandie
+51,110;Marne;Alsace-Champagne-Ardenne-Lorraine
+34,725;Hérault;Languedoc-Roussillon-Midi-Pyrénées
+27,210;Eure;Normandie
+61,100;Orne;Normandie
+38,610;Isre;Auvergne-Rhône-Alpes
+68,100;Haut-Rhin;Alsace-Champagne-Ardenne-Lorraine
+60,410;Oise;Nord-Pas-de-Calais-Picardie
+54,210;Meurthe-et-Moselle;Alsace-Champagne-Ardenne-Lorraine
+81,350;Tarn;Languedoc-Roussillon-Midi-Pyrénées
+35,190;Ille-et-Vilaine;Bretagne
+59,480;Nord;Nord-Pas-de-Calais-Picardie
+67,480;Bas-Rhin;Alsace-Champagne-Ardenne-Lorraine
+30,190;Gard;Languedoc-Roussillon-Midi-Pyrénées
+38,120;Isre;Auvergne-Rhône-Alpes
+67,270;Bas-Rhin;Alsace-Champagne-Ardenne-Lorraine
+33,580;Gironde;Aquitaine-Limousin-Poitou-Charentes
+67,130;Bas-Rhin;Alsace-Champagne-Ardenne-Lorraine
+4,300;Alpes-de-Haute-Provence;Provence-Alpes-Côte d'Azur
+94,380;Val-de-Marne;Ile-de-France
+13,760;Bouches-du-Rhône;Provence-Alpes-Côte d'Azur
+14,111;Calvados;Normandie
+42,320;Loire;Auvergne-Rhône-Alpes
+94,600;Val-de-Marne;Ile-de-France
+68,490;Haut-Rhin;Alsace-Champagne-Ardenne-Lorraine
+78,990;Yvelines;Ile-de-France
+58,120;Nivre;Bourgogne-Franche-Comté
+67,960;Bas-Rhin;Alsace-Champagne-Ardenne-Lorraine
+32,450;Gers;Languedoc-Roussillon-Midi-Pyrénées
+77,310;Seine-et-Marne;Ile-de-France
+68,250;Haut-Rhin;Alsace-Champagne-Ardenne-Lorraine
+74,400;Haute-Savoie;Auvergne-Rhône-Alpes
+68,116;Haut-Rhin;Alsace-Champagne-Ardenne-Lorraine
+66,620;Pyrénées-Orientales;Languedoc-Roussillon-Midi-Pyrénées
+42,470;Loire;Auvergne-Rhône-Alpes
+93,120;Seine-Saint-Denis;Ile-de-France
+93,800;Seine-Saint-Denis;Ile-de-France
+62,380;Pas-de-Calais;Nord-Pas-de-Calais-Picardie
+40,280;Landes;Aquitaine-Limousin-Poitou-Charentes
+59,237;Nord;Nord-Pas-de-Calais-Picardie
+30,410;Gard;Languedoc-Roussillon-Midi-Pyrénées
+59,147;Nord;Nord-Pas-de-Calais-Picardie
+85,280;Vendée;Pays de la Loire
+59,133;Nord;Nord-Pas-de-Calais-Picardie
+29,790;Finistre;Bretagne
+49,320;Maine-et-Loire;Pays de la Loire
+95,690;Val-d'oise;Ile-de-France
+16,100;Charente;Aquitaine-Limousin-Poitou-Charentes
+45,640;Loiret;Centre-Val de Loire
+77,690;Seine-et-Marne;Ile-de-France
+84,160;Vaucluse;Provence-Alpes-Côte d'Azur
+78,460;Yvelines;Ile-de-France
+28,330;Eure-et-Loir;Centre-Val de Loire
+59,216;Nord;Nord-Pas-de-Calais-Picardie
+78,560;Yvelines;Ile-de-France
+59,860;Nord;Nord-Pas-de-Calais-Picardie
+95,490;Val-d'oise;Ile-de-France
+10,126;Aube;Alsace-Champagne-Ardenne-Lorraine
+69,422;Rhône;Auvergne-Rhône-Alpes
+2,110;Aisne;Nord-Pas-de-Calais-Picardie
+25,250;Doubs;Bourgogne-Franche-Comté
+54,360;Meurthe-et-Moselle;Alsace-Champagne-Ardenne-Lorraine
+88,100;Vosges;Alsace-Champagne-Ardenne-Lorraine
+22,150;Côtes-d'armor;Bretagne
+59,169;Nord;Nord-Pas-de-Calais-Picardie
+14,850;Calvados;Normandie
+31,850;Haute-Garonne;Languedoc-Roussillon-Midi-Pyrénées
+14,740;Calvados;Normandie
+87,150;Haute-Vienne;Aquitaine-Limousin-Poitou-Charentes
+85,220;Vendée;Pays de la Loire
+60,153;Oise;Nord-Pas-de-Calais-Picardie
+44,005;Loire-Atlantique;Pays de la Loire
+25,150;Doubs;Bourgogne-Franche-Comté
+60,890;Oise;Nord-Pas-de-Calais-Picardie
+59,950;Nord;Nord-Pas-de-Calais-Picardie
+22,300;Côtes-d'armor;Bretagne
+3,370;Allier;Auvergne-Rhône-Alpes
+1,340;Ain;Auvergne-Rhône-Alpes
+94,290;Val-de-Marne;Ile-de-France
+7,400;Ardche;Auvergne-Rhône-Alpes
+31,140;Haute-Garonne;Languedoc-Roussillon-Midi-Pyrénées
+42,155;Loire;Auvergne-Rhône-Alpes
+35,270;Ille-et-Vilaine;Bretagne
+71,870;Saône-et-Loire;Bourgogne-Franche-Comté
+64,210;Pyrénées-Atlantiques;Aquitaine-Limousin-Poitou-Charentes
+80,640;Somme;Nord-Pas-de-Calais-Picardie
+11,250;Aude;Languedoc-Roussillon-Midi-Pyrénées
+72,610;Sarthe;Pays de la Loire
+93,420;Seine-Saint-Denis;Ile-de-France
+24,750;Dordogne;Aquitaine-Limousin-Poitou-Charentes
+91,650;Essonne;Ile-de-France
+22,370;Côtes-d'armor;Bretagne
+13,280;Bouches-du-Rhône;Provence-Alpes-Côte d'Azur
+85,670;Vendée;Pays de la Loire
+11,370;Aude;Languedoc-Roussillon-Midi-Pyrénées
+81,340;Tarn;Languedoc-Roussillon-Midi-Pyrénées
+59,190;Nord;Nord-Pas-de-Calais-Picardie
+59,226;Nord;Nord-Pas-de-Calais-Picardie
+77,124;Seine-et-Marne;Ile-de-France
+80,190;Somme;Nord-Pas-de-Calais-Picardie
+69,770;Rhône;Auvergne-Rhône-Alpes
+26,001;Drôme;Auvergne-Rhône-Alpes
+6,230;Alpes-Maritimes;Provence-Alpes-Côte d'Azur
+6,690;Alpes-Maritimes;Provence-Alpes-Côte d'Azur
+38,640;Isre;Auvergne-Rhône-Alpes
+59,430;Nord;Nord-Pas-de-Calais-Picardie
+8,460;Ardennes;Alsace-Champagne-Ardenne-Lorraine
+24,400;Dordogne;Aquitaine-Limousin-Poitou-Charentes
+60,190;Oise;Nord-Pas-de-Calais-Picardie
+57,570;Moselle;Alsace-Champagne-Ardenne-Lorraine
+81,000;Tarn;Languedoc-Roussillon-Midi-Pyrénées
+30,980;Gard;Languedoc-Roussillon-Midi-Pyrénées
+63,116;Puy-de-Dôme;Auvergne-Rhône-Alpes
+18,110;Cher;Centre-Val de Loire
+42,110;Loire;Auvergne-Rhône-Alpes
+26,110;Drôme;Auvergne-Rhône-Alpes
+41,260;Loir-et-Cher;Centre-Val de Loire
+22,600;Côtes-d'armor;Bretagne
+64,450;Pyrénées-Atlantiques;Aquitaine-Limousin-Poitou-Charentes
+38,960;Isre;Auvergne-Rhône-Alpes
+89,240;Yonne;Bourgogne-Franche-Comté
+76,700;Seine-Maritime;Normandie
+50,100;Manche;Normandie
+11,110;Aude;Languedoc-Roussillon-Midi-Pyrénées
+17,200;Charente-Maritime;Aquitaine-Limousin-Poitou-Charentes
+80,510;Somme;Nord-Pas-de-Calais-Picardie
+62,218;Pas-de-Calais;Nord-Pas-de-Calais-Picardie
+84,130;Vaucluse;Provence-Alpes-Côte d'Azur
+13,960;Bouches-du-Rhône;Provence-Alpes-Côte d'Azur
+16,110;Charente;Aquitaine-Limousin-Poitou-Charentes
+83,630;Var;Provence-Alpes-Côte d'Azur
+27,270;Eure;Normandie
+1,090;Ain;Auvergne-Rhône-Alpes
+45,310;Loiret;Centre-Val de Loire
+24,620;Dordogne;Aquitaine-Limousin-Poitou-Charentes
+14,270;Calvados;Normandie
+66,390;Pyrénées-Orientales;Languedoc-Roussillon-Midi-Pyrénées
+38,920;Isre;Auvergne-Rhône-Alpes
+47,320;Lot-et-Garonne;Aquitaine-Limousin-Poitou-Charentes
+77,390;Seine-et-Marne;Ile-de-France
+39,100;Jura;Bourgogne-Franche-Comté
+41,600;Loir-et-Cher;Centre-Val de Loire
+77,720;Seine-et-Marne;Ile-de-France
+13,330;Bouches-du-Rhône;Provence-Alpes-Côte d'Azur
+78,955;Yvelines;Ile-de-France
+60,850;Oise;Nord-Pas-de-Calais-Picardie
+86,210;Vienne;Aquitaine-Limousin-Poitou-Charentes
+34,210;Hérault;Languedoc-Roussillon-Midi-Pyrénées
+13,570;Bouches-du-Rhône;Provence-Alpes-Côte d'Azur
+35,235;Ille-et-Vilaine;Bretagne
+46,090;Lot;Languedoc-Roussillon-Midi-Pyrénées
+54,510;Meurthe-et-Moselle;Alsace-Champagne-Ardenne-Lorraine
+17,390;Charente-Maritime;Aquitaine-Limousin-Poitou-Charentes
+80,240;Somme;Nord-Pas-de-Calais-Picardie
+44,680;Loire-Atlantique;Pays de la Loire
+59,551;Nord;Nord-Pas-de-Calais-Picardie
+26,750;Drôme;Auvergne-Rhône-Alpes
+58,200;Nivre;Bourgogne-Franche-Comté
+83,570;Var;Provence-Alpes-Côte d'Azur
+57,970;Moselle;Alsace-Champagne-Ardenne-Lorraine
+11,430;Aude;Languedoc-Roussillon-Midi-Pyrénées
+25,800;Doubs;Bourgogne-Franche-Comté
+42,720;Loire;Auvergne-Rhône-Alpes
+24,130;Dordogne;Aquitaine-Limousin-Poitou-Charentes
+62,137;Pas-de-Calais;Nord-Pas-de-Calais-Picardie
+14,130;Calvados;Normandie
+80,250;Somme;Nord-Pas-de-Calais-Picardie
+26,780;Drôme;Auvergne-Rhône-Alpes
+31,820;Haute-Garonne;Languedoc-Roussillon-Midi-Pyrénées
+59,111;Nord;Nord-Pas-de-Calais-Picardie
+2,690;Aisne;Nord-Pas-de-Calais-Picardie
+58,000;Nivre;Bourgogne-Franche-Comté
+60,460;Oise;Nord-Pas-de-Calais-Picardie
+31,830;Haute-Garonne;Languedoc-Roussillon-Midi-Pyrénées
+26,230;Drôme;Auvergne-Rhône-Alpes
+78,890;Yvelines;Ile-de-France
+8,430;Ardennes;Alsace-Champagne-Ardenne-Lorraine
+59,144;Nord;Nord-Pas-de-Calais-Picardie
+29,170;Finistre;Bretagne
+77,710;Seine-et-Marne;Ile-de-France
+14,640;Calvados;Normandie
+60,200;Oise;Nord-Pas-de-Calais-Picardie
+31,220;Haute-Garonne;Languedoc-Roussillon-Midi-Pyrénées
+13,530;Bouches-du-Rhône;Provence-Alpes-Côte d'Azur
+59,810;Nord;Nord-Pas-de-Calais-Picardie
+4,850;Alpes-de-Haute-Provence;Provence-Alpes-Côte d'Azur
+67,207;Bas-Rhin;Alsace-Champagne-Ardenne-Lorraine
+84,430;Vaucluse;Provence-Alpes-Côte d'Azur
+46,800;Lot;Languedoc-Roussillon-Midi-Pyrénées
+78,121;Yvelines;Ile-de-France
+63,122;Puy-de-Dôme;Auvergne-Rhône-Alpes
+76,370;Seine-Maritime;Normandie
+62,790;Pas-de-Calais;Nord-Pas-de-Calais-Picardie
+71,120;Saône-et-Loire;Bourgogne-Franche-Comté
+45,470;Loiret;Centre-Val de Loire
+25,770;Doubs;Bourgogne-Franche-Comté
+69,437;Rhône;Auvergne-Rhône-Alpes
+40,480;Landes;Aquitaine-Limousin-Poitou-Charentes
+16,140;Charente;Aquitaine-Limousin-Poitou-Charentes
+14,410;Calvados;Normandie
+6,240;Alpes-Maritimes;Provence-Alpes-Côte d'Azur
+64,360;Pyrénées-Atlantiques;Aquitaine-Limousin-Poitou-Charentes
+51,250;Marne;Alsace-Champagne-Ardenne-Lorraine
+59,184;Nord;Nord-Pas-de-Calais-Picardie
+13,710;Bouches-du-Rhône;Provence-Alpes-Côte d'Azur
+10,280;Aube;Alsace-Champagne-Ardenne-Lorraine
+14,700;Calvados;Normandie
+5,400;Hautes-Alpes;Provence-Alpes-Côte d'Azur
+89,220;Yonne;Bourgogne-Franche-Comté
+14,280;Calvados;Normandie
+34,520;Hérault;Languedoc-Roussillon-Midi-Pyrénées
+80,210;Somme;Nord-Pas-de-Calais-Picardie
+84,380;Vaucluse;Provence-Alpes-Côte d'Azur
+90,340;Territoire de Belfort;Bourgogne-Franche-Comté
+57,855;Moselle;Alsace-Champagne-Ardenne-Lorraine
+69,460;Rhône;Auvergne-Rhône-Alpes
+87,200;Haute-Vienne;Aquitaine-Limousin-Poitou-Charentes
+30,650;Gard;Languedoc-Roussillon-Midi-Pyrénées
+63,023;Puy-de-Dôme;Auvergne-Rhône-Alpes
+57,810;Moselle;Alsace-Champagne-Ardenne-Lorraine
+89,290;Yonne;Bourgogne-Franche-Comté
+16,160;Charente;Aquitaine-Limousin-Poitou-Charentes
+90,400;Territoire de Belfort;Bourgogne-Franche-Comté
+77,111;Seine-et-Marne;Ile-de-France
+33,480;Gironde;Aquitaine-Limousin-Poitou-Charentes
+93,284;Seine-Saint-Denis;Ile-de-France
+82,370;Tarn-et-Garonne;Languedoc-Roussillon-Midi-Pyrénées
+34,198;Hérault;Languedoc-Roussillon-Midi-Pyrénées
+44,230;Loire-Atlantique;Pays de la Loire
+2,700;Aisne;Nord-Pas-de-Calais-Picardie
+24,220;Dordogne;Aquitaine-Limousin-Poitou-Charentes
+8,320;Ardennes;Alsace-Champagne-Ardenne-Lorraine
+56,880;Morbihan;Bretagne
+43,700;Haute-Loire;Auvergne-Rhône-Alpes
+63,160;Puy-de-Dôme;Auvergne-Rhône-Alpes
+59,148;Nord;Nord-Pas-de-Calais-Picardie
+44,540;Loire-Atlantique;Pays de la Loire
+84,330;Vaucluse;Provence-Alpes-Côte d'Azur
+56,690;Morbihan;Bretagne
+33,125;Gironde;Aquitaine-Limousin-Poitou-Charentes
+92,175;Hauts-de-Seine;Ile-de-France
+14,170;Calvados;Normandie
+1,140;Ain;Auvergne-Rhône-Alpes
+72,800;Sarthe;Pays de la Loire
+71,420;Saône-et-Loire;Bourgogne-Franche-Comté
+64,700;Pyrénées-Atlantiques;Aquitaine-Limousin-Poitou-Charentes
+51,130;Marne;Alsace-Champagne-Ardenne-Lorraine
+59,113;Nord;Nord-Pas-de-Calais-Picardie
+65,200;Hautes-Pyrénées;Languedoc-Roussillon-Midi-Pyrénées
+22,190;Côtes-d'armor;Bretagne
+45,320;Loiret;Centre-Val de Loire
+59,173;Nord;Nord-Pas-de-Calais-Picardie
+32,350;Gers;Languedoc-Roussillon-Midi-Pyrénées
+2,670;Aisne;Nord-Pas-de-Calais-Picardie
+67,113;Bas-Rhin;Alsace-Champagne-Ardenne-Lorraine
+30,580;Gard;Languedoc-Roussillon-Midi-Pyrénées
+35,250;Ille-et-Vilaine;Bretagne
+21,370;Côte-d'or;Bourgogne-Franche-Comté
+92,999;Hauts-de-Seine;Ile-de-France
+93,201;Seine-Saint-Denis;Ile-de-France
+33,650;Gironde;Aquitaine-Limousin-Poitou-Charentes
+88,390;Vosges;Alsace-Champagne-Ardenne-Lorraine
+27,100;Eure;Normandie
+77,240;Seine-et-Marne;Ile-de-France
+27,420;Eure;Normandie
+77,470;Seine-et-Marne;Ile-de-France
+64,100;Pyrénées-Atlantiques;Aquitaine-Limousin-Poitou-Charentes
+21,560;Côte-d'or;Bourgogne-Franche-Comté
+67,440;Bas-Rhin;Alsace-Champagne-Ardenne-Lorraine
+84,370;Vaucluse;Provence-Alpes-Côte d'Azur
+83,320;Var;Provence-Alpes-Côte d'Azur
+57,415;Moselle;Alsace-Champagne-Ardenne-Lorraine
+31,078;Haute-Garonne;Languedoc-Roussillon-Midi-Pyrénées
+84,740;Vaucluse;Provence-Alpes-Côte d'Azur
+59,138;Nord;Nord-Pas-de-Calais-Picardie
+74,970;Haute-Savoie;Auvergne-Rhône-Alpes
+61,200;Orne;Normandie
+85,310;Vendée;Pays de la Loire
+93,000;Seine-Saint-Denis;Ile-de-France
+22,430;Côtes-d'armor;Bretagne
+77,410;Seine-et-Marne;Ile-de-France
+67,860;Bas-Rhin;Alsace-Champagne-Ardenne-Lorraine
+95,470;Val-d'oise;Ile-de-France
+17,101;Charente-Maritime;Aquitaine-Limousin-Poitou-Charentes
+17,180;Charente-Maritime;Aquitaine-Limousin-Poitou-Charentes
+34,120;Hérault;Languedoc-Roussillon-Midi-Pyrénées
+13,640;Bouches-du-Rhône;Provence-Alpes-Côte d'Azur
+80,440;Somme;Nord-Pas-de-Calais-Picardie
+67,203;Bas-Rhin;Alsace-Champagne-Ardenne-Lorraine
+54,880;Meurthe-et-Moselle;Alsace-Champagne-Ardenne-Lorraine
+31,380;Haute-Garonne;Languedoc-Roussillon-Midi-Pyrénées
+40,200;Landes;Aquitaine-Limousin-Poitou-Charentes
+15,100;Cantal;Auvergne-Rhône-Alpes
+57,740;Moselle;Alsace-Champagne-Ardenne-Lorraine
+55,140;Meuse;Alsace-Champagne-Ardenne-Lorraine
+30,450;Gard;Languedoc-Roussillon-Midi-Pyrénées
+67,490;Bas-Rhin;Alsace-Champagne-Ardenne-Lorraine
+57,390;Moselle;Alsace-Champagne-Ardenne-Lorraine
+80,300;Somme;Nord-Pas-de-Calais-Picardie
+86,130;Vienne;Aquitaine-Limousin-Poitou-Charentes
+54,570;Meurthe-et-Moselle;Alsace-Champagne-Ardenne-Lorraine
+83,270;Var;Provence-Alpes-Côte d'Azur
+69,126;Rhône;Auvergne-Rhône-Alpes
+62,520;Pas-de-Calais;Nord-Pas-de-Calais-Picardie
+63,450;Puy-de-Dôme;Auvergne-Rhône-Alpes
+78,940;Yvelines;Ile-de-France
+32,800;Gers;Languedoc-Roussillon-Midi-Pyrénées
+83,690;Var;Provence-Alpes-Côte d'Azur
+54,890;Meurthe-et-Moselle;Alsace-Champagne-Ardenne-Lorraine
+13,920;Bouches-du-Rhône;Provence-Alpes-Côte d'Azur
+49,450;Maine-et-Loire;Pays de la Loire
+83,520;Var;Provence-Alpes-Côte d'Azur
+71,118;Saône-et-Loire;Bourgogne-Franche-Comté
+53,120;Mayenne;Pays de la Loire
+77,250;Seine-et-Marne;Ile-de-France
+51,480;Marne;Alsace-Champagne-Ardenne-Lorraine
+68,750;Haut-Rhin;Alsace-Champagne-Ardenne-Lorraine
+25,320;Doubs;Bourgogne-Franche-Comté
+68,650;Haut-Rhin;Alsace-Champagne-Ardenne-Lorraine
+22,640;Côtes-d'armor;Bretagne
+32,500;Gers;Languedoc-Roussillon-Midi-Pyrénées
+61,250;Orne;Normandie
+13,730;Bouches-du-Rhône;Provence-Alpes-Côte d'Azur
+62,220;Pas-de-Calais;Nord-Pas-de-Calais-Picardie
+88,470;Vosges;Alsace-Champagne-Ardenne-Lorraine
+52,240;Haute-Marne;Alsace-Champagne-Ardenne-Lorraine
+63,920;Puy-de-Dôme;Auvergne-Rhône-Alpes
+57,530;Moselle;Alsace-Champagne-Ardenne-Lorraine
+12,510;Aveyron;Languedoc-Roussillon-Midi-Pyrénées
+62,118;Pas-de-Calais;Nord-Pas-de-Calais-Picardie
+74,540;Haute-Savoie;Auvergne-Rhône-Alpes
+93,450;Seine-Saint-Denis;Ile-de-France
+46,000;Lot;Languedoc-Roussillon-Midi-Pyrénées
+66,320;Pyrénées-Orientales;Languedoc-Roussillon-Midi-Pyrénées
+91,470;Essonne;Ile-de-France
+29,100;Finistre;Bretagne
+74,140;Haute-Savoie;Auvergne-Rhône-Alpes
+23,290;Creuse;Aquitaine-Limousin-Poitou-Charentes
+55,160;Meuse;Alsace-Champagne-Ardenne-Lorraine
+2,880;Aisne;Nord-Pas-de-Calais-Picardie
+57,860;Moselle;Alsace-Champagne-Ardenne-Lorraine
+90,140;Territoire de Belfort;Bourgogne-Franche-Comté
+69,640;Rhône;Auvergne-Rhône-Alpes
+31,250;Haute-Garonne;Languedoc-Roussillon-Midi-Pyrénées
+8,400;Ardennes;Alsace-Champagne-Ardenne-Lorraine
+68,330;Haut-Rhin;Alsace-Champagne-Ardenne-Lorraine
+19,190;Corrze;Aquitaine-Limousin-Poitou-Charentes
+64,120;Pyrénées-Atlantiques;Aquitaine-Limousin-Poitou-Charentes
+38,180;Isre;Auvergne-Rhône-Alpes
+80,430;Somme;Nord-Pas-de-Calais-Picardie
+56,190;Morbihan;Bretagne
+59,117;Nord;Nord-Pas-de-Calais-Picardie
+33,503;Gironde;Aquitaine-Limousin-Poitou-Charentes
+8,110;Ardennes;Alsace-Champagne-Ardenne-Lorraine
+34,230;Hérault;Languedoc-Roussillon-Midi-Pyrénées
+38,620;Isre;Auvergne-Rhône-Alpes
+59,620;Nord;Nord-Pas-de-Calais-Picardie
+22,470;Côtes-d'armor;Bretagne
+38,130;Isre;Auvergne-Rhône-Alpes
+56,500;Morbihan;Bretagne
+89,470;Yonne;Bourgogne-Franche-Comté
+77,176;Seine-et-Marne;Ile-de-France
+38,110;Isre;Auvergne-Rhône-Alpes
+91,710;Essonne;Ile-de-France
+6,310;Alpes-Maritimes;Provence-Alpes-Côte d'Azur
+95,710;Val-d'oise;Ile-de-France
+19,170;Corrze;Aquitaine-Limousin-Poitou-Charentes
+38,980;Isre;Auvergne-Rhône-Alpes
+61,270;Orne;Normandie
+89,700;Yonne;Bourgogne-Franche-Comté
+73,700;Savoie;Auvergne-Rhône-Alpes
+13,690;Bouches-du-Rhône;Provence-Alpes-Côte d'Azur
+31,780;Haute-Garonne;Languedoc-Roussillon-Midi-Pyrénées
+56,460;Morbihan;Bretagne
+12,850;Aveyron;Languedoc-Roussillon-Midi-Pyrénées
+33,290;Gironde;Aquitaine-Limousin-Poitou-Charentes
+13,650;Bouches-du-Rhône;Provence-Alpes-Côte d'Azur
+36,130;Indre;Centre-Val de Loire
+45,600;Loiret;Centre-Val de Loire
+49,530;Maine-et-Loire;Pays de la Loire
+67,117;Bas-Rhin;Alsace-Champagne-Ardenne-Lorraine
+70,600;Haute-Saône;Bourgogne-Franche-Comté
+62,156;Pas-de-Calais;Nord-Pas-de-Calais-Picardie
+50,590;Manche;Normandie
+34,550;Hérault;Languedoc-Roussillon-Midi-Pyrénées
+30,740;Gard;Languedoc-Roussillon-Midi-Pyrénées
+45,270;Loiret;Centre-Val de Loire
+90,300;Territoire de Belfort;Bourgogne-Franche-Comté
+10,600;Aube;Alsace-Champagne-Ardenne-Lorraine
+44,560;Loire-Atlantique;Pays de la Loire
+38,370;Isre;Auvergne-Rhône-Alpes
+34,830;Hérault;Languedoc-Roussillon-Midi-Pyrénées
+8,800;Ardennes;Alsace-Champagne-Ardenne-Lorraine
+60,650;Oise;Nord-Pas-de-Calais-Picardie
+93,140;Seine-Saint-Denis;Ile-de-France
+80,120;Somme;Nord-Pas-de-Calais-Picardie
+32,420;Gers;Languedoc-Roussillon-Midi-Pyrénées
+46,400;Lot;Languedoc-Roussillon-Midi-Pyrénées
+80,540;Somme;Nord-Pas-de-Calais-Picardie
+16,390;Charente;Aquitaine-Limousin-Poitou-Charentes
+76,560;Seine-Maritime;Normandie
+17,870;Charente-Maritime;Aquitaine-Limousin-Poitou-Charentes
+86,390;Vienne;Aquitaine-Limousin-Poitou-Charentes
+69,690;Rhône;Auvergne-Rhône-Alpes
+9,120;Arige;Languedoc-Roussillon-Midi-Pyrénées
+57,560;Moselle;Alsace-Champagne-Ardenne-Lorraine
+74,800;Haute-Savoie;Auvergne-Rhône-Alpes
+91,640;Essonne;Ile-de-France
+42,370;Loire;Auvergne-Rhône-Alpes
+10,420;Aube;Alsace-Champagne-Ardenne-Lorraine
+34,250;Hérault;Languedoc-Roussillon-Midi-Pyrénées
+58,190;Nivre;Bourgogne-Franche-Comté
+15,590;Cantal;Auvergne-Rhône-Alpes
+51,260;Marne;Alsace-Champagne-Ardenne-Lorraine
+53,190;Mayenne;Pays de la Loire
+2,270;Aisne;Nord-Pas-de-Calais-Picardie
+30,290;Gard;Languedoc-Roussillon-Midi-Pyrénées
+86,190;Vienne;Aquitaine-Limousin-Poitou-Charentes
+29,880;Finistre;Bretagne
+78,550;Yvelines;Ile-de-France
+59,119;Nord;Nord-Pas-de-Calais-Picardie
+69,610;Rhône;Auvergne-Rhône-Alpes
+25,660;Doubs;Bourgogne-Franche-Comté
+17,410;Charente-Maritime;Aquitaine-Limousin-Poitou-Charentes
+9,700;Arige;Languedoc-Roussillon-Midi-Pyrénées
+1,310;Ain;Auvergne-Rhône-Alpes
+21,220;Côte-d'or;Bourgogne-Franche-Comté
+34,480;Hérault;Languedoc-Roussillon-Midi-Pyrénées
+91,530;Essonne;Ile-de-France
+37,390;Indre-et-Loire;Centre-Val de Loire
+91,550;Essonne;Ile-de-France
+76,113;Seine-Maritime;Normandie
+59,350;Nord;Nord-Pas-de-Calais-Picardie
+57,290;Moselle;Alsace-Champagne-Ardenne-Lorraine
+1,370;Ain;Auvergne-Rhône-Alpes
+59,496;Nord;Nord-Pas-de-Calais-Picardie
+1,400;Ain;Auvergne-Rhône-Alpes
+67,670;Bas-Rhin;Alsace-Champagne-Ardenne-Lorraine
+37,100;Indre-et-Loire;Centre-Val de Loire
+66,170;Pyrénées-Orientales;Languedoc-Roussillon-Midi-Pyrénées
+57,850;Moselle;Alsace-Champagne-Ardenne-Lorraine
+92,136;Hauts-de-Seine;Ile-de-France
+41,320;Loir-et-Cher;Centre-Val de Loire
+42,130;Loire;Auvergne-Rhône-Alpes
+33,880;Gironde;Aquitaine-Limousin-Poitou-Charentes
+75,379;Paris;Ile-de-France
+67,650;Bas-Rhin;Alsace-Champagne-Ardenne-Lorraine
+31,015;Haute-Garonne;Languedoc-Roussillon-Midi-Pyrénées
+62,119;Pas-de-Calais;Nord-Pas-de-Calais-Picardie
+57,185;Moselle;Alsace-Champagne-Ardenne-Lorraine
+95,180;Val-d'oise;Ile-de-France
+78,604;Yvelines;Ile-de-France
+33,500;Gironde;Aquitaine-Limousin-Poitou-Charentes
+8,350;Ardennes;Alsace-Champagne-Ardenne-Lorraine
+91,630;Essonne;Ile-de-France
+10,100;Aube;Alsace-Champagne-Ardenne-Lorraine
+1,270;Ain;Auvergne-Rhône-Alpes
+95,700;Val-d'oise;Ile-de-France
+11,600;Aude;Languedoc-Roussillon-Midi-Pyrénées
+62,130;Pas-de-Calais;Nord-Pas-de-Calais-Picardie
+87,260;Haute-Vienne;Aquitaine-Limousin-Poitou-Charentes
+33,950;Gironde;Aquitaine-Limousin-Poitou-Charentes
+35,730;Ille-et-Vilaine;Bretagne
+21,110;Côte-d'or;Bourgogne-Franche-Comté
+75,773;Paris;Ile-de-France
+65,400;Hautes-Pyrénées;Languedoc-Roussillon-Midi-Pyrénées
+67,470;Bas-Rhin;Alsace-Champagne-Ardenne-Lorraine
+35,260;Ille-et-Vilaine;Bretagne
+49,125;Maine-et-Loire;Pays de la Loire
+29,830;Finistre;Bretagne
+77,185;Seine-et-Marne;Ile-de-France
+49,070;Maine-et-Loire;Pays de la Loire
+79,576;Deux-Svres;Aquitaine-Limousin-Poitou-Charentes
+40,090;Landes;Aquitaine-Limousin-Poitou-Charentes
+54,800;Meurthe-et-Moselle;Alsace-Champagne-Ardenne-Lorraine
+13,856;Bouches-du-Rhône;Provence-Alpes-Côte d'Azur
+49,750;Maine-et-Loire;Pays de la Loire
+42,640;Loire;Auvergne-Rhône-Alpes
+67,205;Bas-Rhin;Alsace-Champagne-Ardenne-Lorraine
+2,410;Aisne;Nord-Pas-de-Calais-Picardie
+69,960;Rhône;Auvergne-Rhône-Alpes
+94,651;Val-de-Marne;Ile-de-France
+13,750;Bouches-du-Rhône;Provence-Alpes-Côte d'Azur
+13,980;Bouches-du-Rhône;Provence-Alpes-Côte d'Azur
+69,560;Rhône;Auvergne-Rhône-Alpes
+77,810;Seine-et-Marne;Ile-de-France
+19,140;Corrze;Aquitaine-Limousin-Poitou-Charentes
+93,320;Seine-Saint-Denis;Ile-de-France
+36,500;Indre;Centre-Val de Loire
+50,670;Manche;Normandie
+63,730;Puy-de-Dôme;Auvergne-Rhône-Alpes
+35,650;Ille-et-Vilaine;Bretagne
+38,730;Isre;Auvergne-Rhône-Alpes
+45,340;Loiret;Centre-Val de Loire
+67,810;Bas-Rhin;Alsace-Champagne-Ardenne-Lorraine
+34,850;Hérault;Languedoc-Roussillon-Midi-Pyrénées
+19,240;Corrze;Aquitaine-Limousin-Poitou-Charentes
+5,800;Hautes-Alpes;Provence-Alpes-Côte d'Azur
+17,530;Charente-Maritime;Aquitaine-Limousin-Poitou-Charentes
+88,110;Vosges;Alsace-Champagne-Ardenne-Lorraine
+41,330;Loir-et-Cher;Centre-Val de Loire
+85,250;Vendée;Pays de la Loire
+6,420;Alpes-Maritimes;Provence-Alpes-Côte d'Azur
+39,230;Jura;Bourgogne-Franche-Comté
+6,740;Alpes-Maritimes;Provence-Alpes-Côte d'Azur
+62,930;Pas-de-Calais;Nord-Pas-de-Calais-Picardie
+13,118;Bouches-du-Rhône;Provence-Alpes-Côte d'Azur
+68,160;Haut-Rhin;Alsace-Champagne-Ardenne-Lorraine
+64,310;Pyrénées-Atlantiques;Aquitaine-Limousin-Poitou-Charentes
+68,530;Haut-Rhin;Alsace-Champagne-Ardenne-Lorraine
+68,730;Haut-Rhin;Alsace-Champagne-Ardenne-Lorraine
+34,810;Hérault;Languedoc-Roussillon-Midi-Pyrénées
+85,330;Vendée;Pays de la Loire
+68,580;Haut-Rhin;Alsace-Champagne-Ardenne-Lorraine
+7,430;Ardche;Auvergne-Rhône-Alpes
+92,707;Hauts-de-Seine;Ile-de-France
+2,390;Aisne;Nord-Pas-de-Calais-Picardie
+89,550;Yonne;Bourgogne-Franche-Comté
+92,242;Hauts-de-Seine;Ile-de-France
+71,260;Saône-et-Loire;Bourgogne-Franche-Comté
+1,210;Ain;Auvergne-Rhône-Alpes
+82,240;Tarn-et-Garonne;Languedoc-Roussillon-Midi-Pyrénées
+24,610;Dordogne;Aquitaine-Limousin-Poitou-Charentes
+54,830;Meurthe-et-Moselle;Alsace-Champagne-Ardenne-Lorraine
+42,610;Loire;Auvergne-Rhône-Alpes
+59,123;Nord;Nord-Pas-de-Calais-Picardie
+31,470;Haute-Garonne;Languedoc-Roussillon-Midi-Pyrénées
+77,173;Seine-et-Marne;Ile-de-France
+35,740;Ille-et-Vilaine;Bretagne
+76,930;Seine-Maritime;Normandie
+74,270;Haute-Savoie;Auvergne-Rhône-Alpes
+62,240;Pas-de-Calais;Nord-Pas-de-Calais-Picardie
+13,250;Bouches-du-Rhône;Provence-Alpes-Côte d'Azur
+76,140;Seine-Maritime;Normandie
+35,770;Ille-et-Vilaine;Bretagne
+77,646;Seine-et-Marne;Ile-de-France
+44,110;Loire-Atlantique;Pays de la Loire
+38,400;Isre;Auvergne-Rhône-Alpes
+57,710;Moselle;Alsace-Champagne-Ardenne-Lorraine
+14,123;Calvados;Normandie
+12,270;Aveyron;Languedoc-Roussillon-Midi-Pyrénées
+95,680;Val-d'oise;Ile-de-France
+30,126;Gard;Languedoc-Roussillon-Midi-Pyrénées
+76,260;Seine-Maritime;Normandie
+74,490;Haute-Savoie;Auvergne-Rhône-Alpes
+47,270;Lot-et-Garonne;Aquitaine-Limousin-Poitou-Charentes
+84,530;Vaucluse;Provence-Alpes-Côte d'Azur
+34,630;Hérault;Languedoc-Roussillon-Midi-Pyrénées
+95,571;Val-d'oise;Ile-de-France
+57,320;Moselle;Alsace-Champagne-Ardenne-Lorraine
+62,350;Pas-de-Calais;Nord-Pas-de-Calais-Picardie
+48,400;Lozre;Languedoc-Roussillon-Midi-Pyrénées
+77,190;Seine-et-Marne;Ile-de-France
+3,500;Allier;Auvergne-Rhône-Alpes
+84,510;Vaucluse;Provence-Alpes-Côte d'Azur
+71,360;Saône-et-Loire;Bourgogne-Franche-Comté
+7,200;Ardche;Auvergne-Rhône-Alpes
+24,260;Dordogne;Aquitaine-Limousin-Poitou-Charentes
+35,320;Ille-et-Vilaine;Bretagne
+68,460;Haut-Rhin;Alsace-Champagne-Ardenne-Lorraine
+13,490;Bouches-du-Rhône;Provence-Alpes-Côte d'Azur
+22,360;Côtes-d'armor;Bretagne
+29,810;Finistre;Bretagne
+52,300;Haute-Marne;Alsace-Champagne-Ardenne-Lorraine
+59,263;Nord;Nord-Pas-de-Calais-Picardie
+31,520;Haute-Garonne;Languedoc-Roussillon-Midi-Pyrénées
+76,170;Seine-Maritime;Normandie
+30,132;Gard;Languedoc-Roussillon-Midi-Pyrénées
+16,430;Charente;Aquitaine-Limousin-Poitou-Charentes
+66,680;Pyrénées-Orientales;Languedoc-Roussillon-Midi-Pyrénées
+36,370;Indre;Centre-Val de Loire
+63,380;Puy-de-Dôme;Auvergne-Rhône-Alpes
+40,460;Landes;Aquitaine-Limousin-Poitou-Charentes
+49,520;Maine-et-Loire;Pays de la Loire
+35,460;Ille-et-Vilaine;Bretagne
+22,940;Côtes-d'armor;Bretagne
+13,430;Bouches-du-Rhône;Provence-Alpes-Côte d'Azur
+37,600;Indre-et-Loire;Centre-Val de Loire
+59,188;Nord;Nord-Pas-de-Calais-Picardie
+24,160;Dordogne;Aquitaine-Limousin-Poitou-Charentes
+62,200;Pas-de-Calais;Nord-Pas-de-Calais-Picardie
+66,450;Pyrénées-Orientales;Languedoc-Roussillon-Midi-Pyrénées
+10,210;Aube;Alsace-Champagne-Ardenne-Lorraine
+28,410;Eure-et-Loir;Centre-Val de Loire
+41,300;Loir-et-Cher;Centre-Val de Loire
+54,560;Meurthe-et-Moselle;Alsace-Champagne-Ardenne-Lorraine
+68,390;Haut-Rhin;Alsace-Champagne-Ardenne-Lorraine
+58,110;Nivre;Bourgogne-Franche-Comté
+32,290;Gers;Languedoc-Roussillon-Midi-Pyrénées
+27,240;Eure;Normandie
+83,680;Var;Provence-Alpes-Côte d'Azur
+59,115;Nord;Nord-Pas-de-Calais-Picardie
+7,590;Ardche;Auvergne-Rhône-Alpes
+28,350;Eure-et-Loir;Centre-Val de Loire
+80,400;Somme;Nord-Pas-de-Calais-Picardie
+29,400;Finistre;Bretagne
+17,550;Charente-Maritime;Aquitaine-Limousin-Poitou-Charentes
+10,120;Aube;Alsace-Champagne-Ardenne-Lorraine
+19,360;Corrze;Aquitaine-Limousin-Poitou-Charentes
+73,590;Savoie;Auvergne-Rhône-Alpes
+91,290;Essonne;Ile-de-France
+43,320;Haute-Loire;Auvergne-Rhône-Alpes
+94,310;Val-de-Marne;Ile-de-France
+6,048;Alpes-Maritimes;Provence-Alpes-Côte d'Azur
+28,340;Eure-et-Loir;Centre-Val de Loire
+82,120;Tarn-et-Garonne;Languedoc-Roussillon-Midi-Pyrénées
+91,570;Essonne;Ile-de-France
+30,800;Gard;Languedoc-Roussillon-Midi-Pyrénées
+55,600;Meuse;Alsace-Champagne-Ardenne-Lorraine
+51,700;Marne;Alsace-Champagne-Ardenne-Lorraine
+7,260;Ardche;Auvergne-Rhône-Alpes
+47,450;Lot-et-Garonne;Aquitaine-Limousin-Poitou-Charentes
+59,186;Nord;Nord-Pas-de-Calais-Picardie
+63,400;Puy-de-Dôme;Auvergne-Rhône-Alpes
+14,210;Calvados;Normandie
+54,380;Meurthe-et-Moselle;Alsace-Champagne-Ardenne-Lorraine
+84,390;Vaucluse;Provence-Alpes-Côte d'Azur
+73,300;Savoie;Auvergne-Rhône-Alpes
+58,400;Nivre;Bourgogne-Franche-Comté
+62,830;Pas-de-Calais;Nord-Pas-de-Calais-Picardie
+41,150;Loir-et-Cher;Centre-Val de Loire
+77,970;Seine-et-Marne;Ile-de-France
+95,630;Val-d'oise;Ile-de-France
+69,620;Rhône;Auvergne-Rhône-Alpes
+78,790;Yvelines;Ile-de-France
+22,120;Côtes-d'armor;Bretagne
+64,160;Pyrénées-Atlantiques;Aquitaine-Limousin-Poitou-Charentes
+64,230;Pyrénées-Atlantiques;Aquitaine-Limousin-Poitou-Charentes
+21,530;Côte-d'or;Bourgogne-Franche-Comté
+24,470;Dordogne;Aquitaine-Limousin-Poitou-Charentes
+13,121;Bouches-du-Rhône;Provence-Alpes-Côte d'Azur
+62,360;Pas-de-Calais;Nord-Pas-de-Calais-Picardie
+29,690;Finistre;Bretagne
+77,171;Seine-et-Marne;Ile-de-France
+95,570;Val-d'oise;Ile-de-France
+8,370;Ardennes;Alsace-Champagne-Ardenne-Lorraine
+64,240;Pyrénées-Atlantiques;Aquitaine-Limousin-Poitou-Charentes
+84,230;Vaucluse;Provence-Alpes-Côte d'Azur
+31,790;Haute-Garonne;Languedoc-Roussillon-Midi-Pyrénées
+27,160;Eure;Normandie
+18,380;Cher;Centre-Val de Loire
+84,240;Vaucluse;Provence-Alpes-Côte d'Azur
+84,170;Vaucluse;Provence-Alpes-Côte d'Azur
+27,220;Eure;Normandie
+7,000;Ardche;Auvergne-Rhône-Alpes
+59,286;Nord;Nord-Pas-de-Calais-Picardie
+6,620;Alpes-Maritimes;Provence-Alpes-Côte d'Azur
+13,850;Bouches-du-Rhône;Provence-Alpes-Côte d'Azur
+42,120;Loire;Auvergne-Rhône-Alpes
+88,630;Vosges;Alsace-Champagne-Ardenne-Lorraine
+81,210;Tarn;Languedoc-Roussillon-Midi-Pyrénées
+87,220;Haute-Vienne;Aquitaine-Limousin-Poitou-Charentes
+59,640;Nord;Nord-Pas-de-Calais-Picardie
+12,630;Aveyron;Languedoc-Roussillon-Midi-Pyrénées
+77,160;Seine-et-Marne;Ile-de-France
+69,700;Rhône;Auvergne-Rhône-Alpes
+13,110;Bouches-du-Rhône;Provence-Alpes-Côte d'Azur
+85,340;Vendée;Pays de la Loire
+44,590;Loire-Atlantique;Pays de la Loire
+85,160;Vendée;Pays de la Loire
+18,500;Cher;Centre-Val de Loire
+58,150;Nivre;Bourgogne-Franche-Comté
+6,580;Alpes-Maritimes;Provence-Alpes-Côte d'Azur
+56,920;Morbihan;Bretagne
+39,290;Jura;Bourgogne-Franche-Comté
+49,800;Maine-et-Loire;Pays de la Loire
+67,640;Bas-Rhin;Alsace-Champagne-Ardenne-Lorraine
+10,800;Aube;Alsace-Champagne-Ardenne-Lorraine
+56,450;Morbihan;Bretagne
+44,320;Loire-Atlantique;Pays de la Loire
+71,640;Saône-et-Loire;Bourgogne-Franche-Comté
+35,680;Ille-et-Vilaine;Bretagne
+62,170;Pas-de-Calais;Nord-Pas-de-Calais-Picardie
+78,260;Yvelines;Ile-de-France
+83,350;Var;Provence-Alpes-Côte d'Azur
+88,700;Vosges;Alsace-Champagne-Ardenne-Lorraine
+79,330;Deux-Svres;Aquitaine-Limousin-Poitou-Charentes
+60,600;Oise;Nord-Pas-de-Calais-Picardie
+66,230;Pyrénées-Orientales;Languedoc-Roussillon-Midi-Pyrénées
+50,350;Manche;Normandie
+54,790;Meurthe-et-Moselle;Alsace-Champagne-Ardenne-Lorraine
+66,410;Pyrénées-Orientales;Languedoc-Roussillon-Midi-Pyrénées
+29,241;Finistre;Bretagne
+68,510;Haut-Rhin;Alsace-Champagne-Ardenne-Lorraine
+59,185;Nord;Nord-Pas-de-Calais-Picardie
+49,350;Maine-et-Loire;Pays de la Loire
+27,660;Eure;Normandie
+91,520;Essonne;Ile-de-France
+63,117;Puy-de-Dôme;Auvergne-Rhône-Alpes
+62,138;Pas-de-Calais;Nord-Pas-de-Calais-Picardie
+57,870;Moselle;Alsace-Champagne-Ardenne-Lorraine
+69,744;Rhône;Auvergne-Rhône-Alpes
+93,210;Seine-Saint-Denis;Ile-de-France
+35,420;Ille-et-Vilaine;Bretagne
+44,806;Loire-Atlantique;Pays de la Loire
+2,840;Aisne;Nord-Pas-de-Calais-Picardie
+57,405;Moselle;Alsace-Champagne-Ardenne-Lorraine
+1,440;Ain;Auvergne-Rhône-Alpes
+38,250;Isre;Auvergne-Rhône-Alpes
+33,150;Gironde;Aquitaine-Limousin-Poitou-Charentes
+91,620;Essonne;Ile-de-France
+57,365;Moselle;Alsace-Champagne-Ardenne-Lorraine
+6,450;Alpes-Maritimes;Provence-Alpes-Côte d'Azur
+66,160;Pyrénées-Orientales;Languedoc-Roussillon-Midi-Pyrénées
+25,420;Doubs;Bourgogne-Franche-Comté
+3,300;Allier;Auvergne-Rhône-Alpes
+55,110;Meuse;Alsace-Champagne-Ardenne-Lorraine
+12,450;Aveyron;Languedoc-Roussillon-Midi-Pyrénées
+73,490;Savoie;Auvergne-Rhône-Alpes
+1,320;Ain;Auvergne-Rhône-Alpes
+31,340;Haute-Garonne;Languedoc-Roussillon-Midi-Pyrénées
+42,750;Loire;Auvergne-Rhône-Alpes
+25,260;Doubs;Bourgogne-Franche-Comté
+95,005;Val-d'oise;Ile-de-France
+83,420;Var;Provence-Alpes-Côte d'Azur
+71,670;Saône-et-Loire;Bourgogne-Franche-Comté
+86,270;Vienne;Aquitaine-Limousin-Poitou-Charentes
+2,420;Aisne;Nord-Pas-de-Calais-Picardie
+49,122;Maine-et-Loire;Pays de la Loire
+49,270;Maine-et-Loire;Pays de la Loire
+81,600;Tarn;Languedoc-Roussillon-Midi-Pyrénées
+45,250;Loiret;Centre-Val de Loire
+8,300;Ardennes;Alsace-Champagne-Ardenne-Lorraine
+30,570;Gard;Languedoc-Roussillon-Midi-Pyrénées
+35,132;Ille-et-Vilaine;Bretagne
+88,450;Vosges;Alsace-Champagne-Ardenne-Lorraine
+13,117;Bouches-du-Rhône;Provence-Alpes-Côte d'Azur
+67,690;Bas-Rhin;Alsace-Champagne-Ardenne-Lorraine
+7,340;Ardche;Auvergne-Rhône-Alpes
+28,210;Eure-et-Loir;Centre-Val de Loire
+24,340;Dordogne;Aquitaine-Limousin-Poitou-Charentes
+25,230;Doubs;Bourgogne-Franche-Comté
+52,120;Haute-Marne;Alsace-Champagne-Ardenne-Lorraine
+60,117;Oise;Nord-Pas-de-Calais-Picardie
+13,560;Bouches-du-Rhône;Provence-Alpes-Côte d'Azur
+63,870;Puy-de-Dôme;Auvergne-Rhône-Alpes
+34,530;Hérault;Languedoc-Roussillon-Midi-Pyrénées
+74,160;Haute-Savoie;Auvergne-Rhône-Alpes
+38,420;Isre;Auvergne-Rhône-Alpes
+64,500;Pyrénées-Atlantiques;Aquitaine-Limousin-Poitou-Charentes
+68,170;Haut-Rhin;Alsace-Champagne-Ardenne-Lorraine
+84,250;Vaucluse;Provence-Alpes-Côte d'Azur
+13,115;Bouches-du-Rhône;Provence-Alpes-Côte d'Azur
+13,520;Bouches-du-Rhône;Provence-Alpes-Côte d'Azur
+48,190;Lozre;Languedoc-Roussillon-Midi-Pyrénées
+59,243;Nord;Nord-Pas-de-Calais-Picardie
+91,260;Essonne;Ile-de-France
+22,550;Côtes-d'armor;Bretagne
+3,700;Allier;Auvergne-Rhône-Alpes
+66,480;Pyrénées-Orientales;Languedoc-Roussillon-Midi-Pyrénées
+79,200;Deux-Svres;Aquitaine-Limousin-Poitou-Charentes
+90,110;Territoire de Belfort;Bourgogne-Franche-Comté
+74,330;Haute-Savoie;Auvergne-Rhône-Alpes
+21,640;Côte-d'or;Bourgogne-Franche-Comté
+71,300;Saône-et-Loire;Bourgogne-Franche-Comté
+77,270;Seine-et-Marne;Ile-de-France
+15,210;Cantal;Auvergne-Rhône-Alpes
+13,080;Bouches-du-Rhône;Provence-Alpes-Côte d'Azur
+10,450;Aube;Alsace-Champagne-Ardenne-Lorraine
+56,390;Morbihan;Bretagne
+60,250;Oise;Nord-Pas-de-Calais-Picardie
+33,430;Gironde;Aquitaine-Limousin-Poitou-Charentes
+94,617;Val-de-Marne;Ile-de-France
+14,220;Calvados;Normandie
+63,114;Puy-de-Dôme;Auvergne-Rhône-Alpes
+77,830;Seine-et-Marne;Ile-de-France
+30,160;Gard;Languedoc-Roussillon-Midi-Pyrénées
+89,350;Yonne;Bourgogne-Franche-Comté
+18,200;Cher;Centre-Val de Loire
+59,552;Nord;Nord-Pas-de-Calais-Picardie
+33,160;Gironde;Aquitaine-Limousin-Poitou-Charentes
+62,151;Pas-de-Calais;Nord-Pas-de-Calais-Picardie
+14,320;Calvados;Normandie
+19,250;Corrze;Aquitaine-Limousin-Poitou-Charentes
+60,440;Oise;Nord-Pas-de-Calais-Picardie
+23,430;Creuse;Aquitaine-Limousin-Poitou-Charentes
+59,249;Nord;Nord-Pas-de-Calais-Picardie
+56,610;Morbihan;Bretagne
+85,270;Vendée;Pays de la Loire
+11,120;Aude;Languedoc-Roussillon-Midi-Pyrénées
+59,941;Nord;Nord-Pas-de-Calais-Picardie
+24,230;Dordogne;Aquitaine-Limousin-Poitou-Charentes
+59,127;Nord;Nord-Pas-de-Calais-Picardie
+68,190;Haut-Rhin;Alsace-Champagne-Ardenne-Lorraine
+2,500;Aisne;Nord-Pas-de-Calais-Picardie
+35,409;Ille-et-Vilaine;Bretagne
+22,310;Côtes-d'armor;Bretagne
+18,290;Cher;Centre-Val de Loire
+50,640;Manche;Normandie
+35,600;Ille-et-Vilaine;Bretagne
+6,650;Alpes-Maritimes;Provence-Alpes-Côte d'Azur
+32,360;Gers;Languedoc-Roussillon-Midi-Pyrénées
+89,300;Yonne;Bourgogne-Franche-Comté
+52,310;Haute-Marne;Alsace-Champagne-Ardenne-Lorraine
+37,400;Indre-et-Loire;Centre-Val de Loire
+13,880;Bouches-du-Rhône;Provence-Alpes-Côte d'Azur
+4,160;Alpes-de-Haute-Provence;Provence-Alpes-Côte d'Azur
+12,490;Aveyron;Languedoc-Roussillon-Midi-Pyrénées
+45,420;Loiret;Centre-Val de Loire
+24,250;Dordogne;Aquitaine-Limousin-Poitou-Charentes
+88,360;Vosges;Alsace-Champagne-Ardenne-Lorraine
+59,239;Nord;Nord-Pas-de-Calais-Picardie
+60,700;Oise;Nord-Pas-de-Calais-Picardie
+10,350;Aube;Alsace-Champagne-Ardenne-Lorraine
+9,200;Arige;Languedoc-Roussillon-Midi-Pyrénées
+34,700;Hérault;Languedoc-Roussillon-Midi-Pyrénées
+81,190;Tarn;Languedoc-Roussillon-Midi-Pyrénées
+54,310;Meurthe-et-Moselle;Alsace-Champagne-Ardenne-Lorraine
+80,680;Somme;Nord-Pas-de-Calais-Picardie
+69,870;Rhône;Auvergne-Rhône-Alpes
+29,310;Finistre;Bretagne
+38,070;Isre;Auvergne-Rhône-Alpes
+35,890;Ille-et-Vilaine;Bretagne
+62,420;Pas-de-Calais;Nord-Pas-de-Calais-Picardie
+46,600;Lot;Languedoc-Roussillon-Midi-Pyrénées
+16,500;Charente;Aquitaine-Limousin-Poitou-Charentes
+77,166;Seine-et-Marne;Ile-de-France
+60,150;Oise;Nord-Pas-de-Calais-Picardie
+78,770;Yvelines;Ile-de-France
+50,180;Manche;Normandie
+86,290;Vienne;Aquitaine-Limousin-Poitou-Charentes
+31,170;Haute-Garonne;Languedoc-Roussillon-Midi-Pyrénées
+59,278;Nord;Nord-Pas-de-Calais-Picardie
+17,260;Charente-Maritime;Aquitaine-Limousin-Poitou-Charentes
+29,300;Finistre;Bretagne
+88,270;Vosges;Alsace-Champagne-Ardenne-Lorraine
+16,420;Charente;Aquitaine-Limousin-Poitou-Charentes
+15,800;Cantal;Auvergne-Rhône-Alpes
+82,200;Tarn-et-Garonne;Languedoc-Roussillon-Midi-Pyrénées
+23,600;Creuse;Aquitaine-Limousin-Poitou-Charentes
+32,730;Gers;Languedoc-Roussillon-Midi-Pyrénées
+68,480;Haut-Rhin;Alsace-Champagne-Ardenne-Lorraine
+12,480;Aveyron;Languedoc-Roussillon-Midi-Pyrénées
+1,280;Ain;Auvergne-Rhône-Alpes
+56,170;Morbihan;Bretagne
+57,340;Moselle;Alsace-Champagne-Ardenne-Lorraine
+81,220;Tarn;Languedoc-Roussillon-Midi-Pyrénées
+34,600;Hérault;Languedoc-Roussillon-Midi-Pyrénées
+18,310;Cher;Centre-Val de Loire
+71,130;Saône-et-Loire;Bourgogne-Franche-Comté
+31,110;Haute-Garonne;Languedoc-Roussillon-Midi-Pyrénées
+92,208;Hauts-de-Seine;Ile-de-France
+63,300;Puy-de-Dôme;Auvergne-Rhône-Alpes
+59,604;Nord;Nord-Pas-de-Calais-Picardie
+63,520;Puy-de-Dôme;Auvergne-Rhône-Alpes
+59,770;Nord;Nord-Pas-de-Calais-Picardie
+77,127;Seine-et-Marne;Ile-de-France
+34,350;Hérault;Languedoc-Roussillon-Midi-Pyrénées
+57,230;Moselle;Alsace-Champagne-Ardenne-Lorraine
+31,770;Haute-Garonne;Languedoc-Roussillon-Midi-Pyrénées
+44,150;Loire-Atlantique;Pays de la Loire
+76,960;Seine-Maritime;Normandie
+31,540;Haute-Garonne;Languedoc-Roussillon-Midi-Pyrénées
+78,660;Yvelines;Ile-de-France
+63,130;Puy-de-Dôme;Auvergne-Rhône-Alpes
+57,490;Moselle;Alsace-Champagne-Ardenne-Lorraine
+1,160;Ain;Auvergne-Rhône-Alpes
+59,164;Nord;Nord-Pas-de-Calais-Picardie
+72,220;Sarthe;Pays de la Loire
+62,270;Pas-de-Calais;Nord-Pas-de-Calais-Picardie
+59,126;Nord;Nord-Pas-de-Calais-Picardie
+68,610;Haut-Rhin;Alsace-Champagne-Ardenne-Lorraine
+58,160;Nivre;Bourgogne-Franche-Comté
+17,138;Charente-Maritime;Aquitaine-Limousin-Poitou-Charentes
+10,360;Aube;Alsace-Champagne-Ardenne-Lorraine
+95,840;Val-d'oise;Ile-de-France
+3,360;Allier;Auvergne-Rhône-Alpes
+95,280;Val-d'oise;Ile-de-France
+1,430;Ain;Auvergne-Rhône-Alpes
+68,950;Haut-Rhin;Alsace-Champagne-Ardenne-Lorraine
+5,230;Hautes-Alpes;Provence-Alpes-Côte d'Azur
+38,080;Isre;Auvergne-Rhône-Alpes
+41,120;Loir-et-Cher;Centre-Val de Loire
+25,120;Doubs;Bourgogne-Franche-Comté
+22,480;Côtes-d'armor;Bretagne
+2,720;Aisne;Nord-Pas-de-Calais-Picardie
+14,500;Calvados;Normandie
+91,080;Essonne;Ile-de-France
+35,330;Ille-et-Vilaine;Bretagne
+84,190;Vaucluse;Provence-Alpes-Côte d'Azur
+34,610;Hérault;Languedoc-Roussillon-Midi-Pyrénées
+28,400;Eure-et-Loir;Centre-Val de Loire
+54,630;Meurthe-et-Moselle;Alsace-Champagne-Ardenne-Lorraine
+39,160;Jura;Bourgogne-Franche-Comté
+3,350;Allier;Auvergne-Rhône-Alpes
+88,400;Vosges;Alsace-Champagne-Ardenne-Lorraine
+37,250;Indre-et-Loire;Centre-Val de Loire
+44,840;Loire-Atlantique;Pays de la Loire
+62,127;Pas-de-Calais;Nord-Pas-de-Calais-Picardie
+58,450;Nivre;Bourgogne-Franche-Comté
+73,460;Savoie;Auvergne-Rhône-Alpes
+12,400;Aveyron;Languedoc-Roussillon-Midi-Pyrénées
+94,622;Val-de-Marne;Ile-de-France
+10,440;Aube;Alsace-Champagne-Ardenne-Lorraine
+16,330;Charente;Aquitaine-Limousin-Poitou-Charentes
+77,352;Seine-et-Marne;Ile-de-France
+93,380;Seine-Saint-Denis;Ile-de-France
+49,420;Maine-et-Loire;Pays de la Loire
+38,302;Isre;Auvergne-Rhône-Alpes
+1,960;Ain;Auvergne-Rhône-Alpes
+11,410;Aude;Languedoc-Roussillon-Midi-Pyrénées
+46,300;Lot;Languedoc-Roussillon-Midi-Pyrénées
+48,300;Lozre;Languedoc-Roussillon-Midi-Pyrénées
+27,730;Eure;Normandie
+44,810;Loire-Atlantique;Pays de la Loire
+60,580;Oise;Nord-Pas-de-Calais-Picardie
+60,500;Oise;Nord-Pas-de-Calais-Picardie
+27,700;Eure;Normandie
+33,750;Gironde;Aquitaine-Limousin-Poitou-Charentes
+83,100;Var;Provence-Alpes-Côte d'Azur
+90,100;Territoire de Belfort;Bourgogne-Franche-Comté
+21,380;Côte-d'or;Bourgogne-Franche-Comté
+68,640;Haut-Rhin;Alsace-Champagne-Ardenne-Lorraine
+14,016;Calvados;Normandie
+22,950;Côtes-d'armor;Bretagne
+35,120;Ille-et-Vilaine;Bretagne
+14,440;Calvados;Normandie
+26,107;Drôme;Auvergne-Rhône-Alpes
+40,510;Landes;Aquitaine-Limousin-Poitou-Charentes
+4,500;Alpes-de-Haute-Provence;Provence-Alpes-Côte d'Azur
+31,860;Haute-Garonne;Languedoc-Roussillon-Midi-Pyrénées
+30,127;Gard;Languedoc-Roussillon-Midi-Pyrénées
+7,460;Ardche;Auvergne-Rhône-Alpes
+31,460;Haute-Garonne;Languedoc-Roussillon-Midi-Pyrénées
+87,250;Haute-Vienne;Aquitaine-Limousin-Poitou-Charentes
+12,410;Aveyron;Languedoc-Roussillon-Midi-Pyrénées
+52,150;Haute-Marne;Alsace-Champagne-Ardenne-Lorraine
+30,140;Gard;Languedoc-Roussillon-Midi-Pyrénées
+51,520;Marne;Alsace-Champagne-Ardenne-Lorraine
+13,230;Bouches-du-Rhône;Provence-Alpes-Côte d'Azur
+50,290;Manche;Normandie
+77,610;Seine-et-Marne;Ile-de-France
+24,120;Dordogne;Aquitaine-Limousin-Poitou-Charentes
+92,252;Hauts-de-Seine;Ile-de-France
+2,140;Aisne;Nord-Pas-de-Calais-Picardie
+60,127;Oise;Nord-Pas-de-Calais-Picardie
+39,000;Jura;Bourgogne-Franche-Comté
+69,420;Rhône;Auvergne-Rhône-Alpes
+59,246;Nord;Nord-Pas-de-Calais-Picardie
+81,540;Tarn;Languedoc-Roussillon-Midi-Pyrénées
+88,520;Vosges;Alsace-Champagne-Ardenne-Lorraine
+49,460;Maine-et-Loire;Pays de la Loire
+17,560;Charente-Maritime;Aquitaine-Limousin-Poitou-Charentes
+68,790;Haut-Rhin;Alsace-Champagne-Ardenne-Lorraine
+74,250;Haute-Savoie;Auvergne-Rhône-Alpes
+81,170;Tarn;Languedoc-Roussillon-Midi-Pyrénées
+93,250;Seine-Saint-Denis;Ile-de-France
+59,287;Nord;Nord-Pas-de-Calais-Picardie
+57,915;Moselle;Alsace-Champagne-Ardenne-Lorraine
+1,180;Ain;Auvergne-Rhône-Alpes
+53,960;Mayenne;Pays de la Loire
+45,170;Loiret;Centre-Val de Loire
+85,400;Vendée;Pays de la Loire
+62,123;Pas-de-Calais;Nord-Pas-de-Calais-Picardie
+13,712;Bouches-du-Rhône;Provence-Alpes-Côte d'Azur
+56,360;Morbihan;Bretagne
+33,210;Gironde;Aquitaine-Limousin-Poitou-Charentes
+38,510;Isre;Auvergne-Rhône-Alpes
+76,580;Seine-Maritime;Normandie
+88,250;Vosges;Alsace-Champagne-Ardenne-Lorraine
+80,140;Somme;Nord-Pas-de-Calais-Picardie
+14,160;Calvados;Normandie
+56,640;Morbihan;Bretagne
+1,870;Ain;Auvergne-Rhône-Alpes
+13,103;Bouches-du-Rhône;Provence-Alpes-Côte d'Azur
+82,110;Tarn-et-Garonne;Languedoc-Roussillon-Midi-Pyrénées
+59,820;Nord;Nord-Pas-de-Calais-Picardie
+10,290;Aube;Alsace-Champagne-Ardenne-Lorraine
+63,830;Puy-de-Dôme;Auvergne-Rhône-Alpes
+34,620;Hérault;Languedoc-Roussillon-Midi-Pyrénées
+32,720;Gers;Languedoc-Roussillon-Midi-Pyrénées
+17,132;Charente-Maritime;Aquitaine-Limousin-Poitou-Charentes
+56,340;Morbihan;Bretagne
+24,800;Dordogne;Aquitaine-Limousin-Poitou-Charentes
+74,310;Haute-Savoie;Auvergne-Rhône-Alpes
+13,170;Bouches-du-Rhône;Provence-Alpes-Côte d'Azur
+12,800;Aveyron;Languedoc-Roussillon-Midi-Pyrénées
+1,130;Ain;Auvergne-Rhône-Alpes
+21,700;Côte-d'or;Bourgogne-Franche-Comté
+60,120;Oise;Nord-Pas-de-Calais-Picardie
+8,220;Ardennes;Alsace-Champagne-Ardenne-Lorraine
+43,210;Haute-Loire;Auvergne-Rhône-Alpes
+27,500;Eure;Normandie
+47,550;Lot-et-Garonne;Aquitaine-Limousin-Poitou-Charentes
+83,720;Var;Provence-Alpes-Côte d'Azur
+51,210;Marne;Alsace-Champagne-Ardenne-Lorraine
+22,740;Côtes-d'armor;Bretagne
+31,660;Haute-Garonne;Languedoc-Roussillon-Midi-Pyrénées
+8,700;Ardennes;Alsace-Champagne-Ardenne-Lorraine
+91,430;Essonne;Ile-de-France
+74,420;Haute-Savoie;Auvergne-Rhône-Alpes
+69,350;Rhône;Auvergne-Rhône-Alpes
+4,250;Alpes-de-Haute-Provence;Provence-Alpes-Côte d'Azur
+88,800;Vosges;Alsace-Champagne-Ardenne-Lorraine
+57,940;Moselle;Alsace-Champagne-Ardenne-Lorraine
+16,230;Charente;Aquitaine-Limousin-Poitou-Charentes
+64,190;Pyrénées-Atlantiques;Aquitaine-Limousin-Poitou-Charentes
+30,610;Gard;Languedoc-Roussillon-Midi-Pyrénées
+13,150;Bouches-du-Rhône;Provence-Alpes-Côte d'Azur
+85,440;Vendée;Pays de la Loire
+77,135;Seine-et-Marne;Ile-de-France
+13,440;Bouches-du-Rhône;Provence-Alpes-Côte d'Azur
+59,121;Nord;Nord-Pas-de-Calais-Picardie
+89,510;Yonne;Bourgogne-Franche-Comté
+37,340;Indre-et-Loire;Centre-Val de Loire
+26,620;Drôme;Auvergne-Rhône-Alpes
+5,200;Hautes-Alpes;Provence-Alpes-Côte d'Azur
+51,290;Marne;Alsace-Champagne-Ardenne-Lorraine
+21,410;Côte-d'or;Bourgogne-Franche-Comté
+14,970;Calvados;Normandie
+2,150;Aisne;Nord-Pas-de-Calais-Picardie
+67,730;Bas-Rhin;Alsace-Champagne-Ardenne-Lorraine
+77,174;Seine-et-Marne;Ile-de-France
+23,300;Creuse;Aquitaine-Limousin-Poitou-Charentes
+82,170;Tarn-et-Garonne;Languedoc-Roussillon-Midi-Pyrénées
+31,580;Haute-Garonne;Languedoc-Roussillon-Midi-Pyrénées
+76,380;Seine-Maritime;Normandie
+64,110;Pyrénées-Atlantiques;Aquitaine-Limousin-Poitou-Charentes
+77,167;Seine-et-Marne;Ile-de-France
+51,190;Marne;Alsace-Champagne-Ardenne-Lorraine
+31,750;Haute-Garonne;Languedoc-Roussillon-Midi-Pyrénées
+57,360;Moselle;Alsace-Champagne-Ardenne-Lorraine
+35,410;Ille-et-Vilaine;Bretagne
+38,880;Isre;Auvergne-Rhône-Alpes
+66,660;Pyrénées-Orientales;Languedoc-Roussillon-Midi-Pyrénées
+57,920;Moselle;Alsace-Champagne-Ardenne-Lorraine
+59,124;Nord;Nord-Pas-de-Calais-Picardie
+13,116;Bouches-du-Rhône;Provence-Alpes-Côte d'Azur
+33,133;Gironde;Aquitaine-Limousin-Poitou-Charentes
+26,290;Drôme;Auvergne-Rhône-Alpes
+68,290;Haut-Rhin;Alsace-Champagne-Ardenne-Lorraine
+24,350;Dordogne;Aquitaine-Limousin-Poitou-Charentes
+13,114;Bouches-du-Rhône;Provence-Alpes-Côte d'Azur
+71,480;Saône-et-Loire;Bourgogne-Franche-Comté
+37,200;Indre-et-Loire;Centre-Val de Loire
+30,114;Gard;Languedoc-Roussillon-Midi-Pyrénées
+88,340;Vosges;Alsace-Champagne-Ardenne-Lorraine
+59,112;Nord;Nord-Pas-de-Calais-Picardie
+59,262;Nord;Nord-Pas-de-Calais-Picardie
+5,170;Hautes-Alpes;Provence-Alpes-Côte d'Azur
+54,530;Meurthe-et-Moselle;Alsace-Champagne-Ardenne-Lorraine
+77,178;Seine-et-Marne;Ile-de-France
+37,140;Indre-et-Loire;Centre-Val de Loire
+75,782;Paris;Ile-de-France
+2,630;Aisne;Nord-Pas-de-Calais-Picardie
+38,570;Isre;Auvergne-Rhône-Alpes
+83,460;Var;Provence-Alpes-Côte d'Azur
+6,440;Alpes-Maritimes;Provence-Alpes-Côte d'Azur
+60,110;Oise;Nord-Pas-de-Calais-Picardie
+16,340;Charente;Aquitaine-Limousin-Poitou-Charentes
+67,390;Bas-Rhin;Alsace-Champagne-Ardenne-Lorraine
+68,110;Haut-Rhin;Alsace-Champagne-Ardenne-Lorraine
+38,590;Isre;Auvergne-Rhône-Alpes
+25,500;Doubs;Bourgogne-Franche-Comté
+40,141;Landes;Aquitaine-Limousin-Poitou-Charentes
+66,510;Pyrénées-Orientales;Languedoc-Roussillon-Midi-Pyrénées
+7,330;Ardche;Auvergne-Rhône-Alpes
+17,640;Charente-Maritime;Aquitaine-Limousin-Poitou-Charentes
+62,660;Pas-de-Calais;Nord-Pas-de-Calais-Picardie
+68,701;Haut-Rhin;Alsace-Champagne-Ardenne-Lorraine
+32,810;Gers;Languedoc-Roussillon-Midi-Pyrénées
+22,650;Côtes-d'armor;Bretagne
+59,232;Nord;Nord-Pas-de-Calais-Picardie
+59,261;Nord;Nord-Pas-de-Calais-Picardie
+65,170;Hautes-Pyrénées;Languedoc-Roussillon-Midi-Pyrénées
+38,301;Isre;Auvergne-Rhône-Alpes
+17,480;Charente-Maritime;Aquitaine-Limousin-Poitou-Charentes
+36,320;Indre;Centre-Val de Loire
+59,224;Nord;Nord-Pas-de-Calais-Picardie
+2,800;Aisne;Nord-Pas-de-Calais-Picardie
+66,700;Pyrénées-Orientales;Languedoc-Roussillon-Midi-Pyrénées
+65,310;Hautes-Pyrénées;Languedoc-Roussillon-Midi-Pyrénées
+1,150;Ain;Auvergne-Rhône-Alpes
+41,190;Loir-et-Cher;Centre-Val de Loire
+13,340;Bouches-du-Rhône;Provence-Alpes-Côte d'Azur
+87,370;Haute-Vienne;Aquitaine-Limousin-Poitou-Charentes
+60,129;Oise;Nord-Pas-de-Calais-Picardie
+56,300;Morbihan;Bretagne
+37,530;Indre-et-Loire;Centre-Val de Loire
+51,170;Marne;Alsace-Champagne-Ardenne-Lorraine
+68,150;Haut-Rhin;Alsace-Champagne-Ardenne-Lorraine
+59,870;Nord;Nord-Pas-de-Calais-Picardie
+33,660;Gironde;Aquitaine-Limousin-Poitou-Charentes
+1,290;Ain;Auvergne-Rhône-Alpes
+62,128;Pas-de-Calais;Nord-Pas-de-Calais-Picardie
+1,420;Ain;Auvergne-Rhône-Alpes
+44,117;Loire-Atlantique;Pays de la Loire
+85,150;Vendée;Pays de la Loire
+58,640;Nivre;Bourgogne-Franche-Comté
+64,320;Pyrénées-Atlantiques;Aquitaine-Limousin-Poitou-Charentes
+83,590;Var;Provence-Alpes-Côte d'Azur
+51,360;Marne;Alsace-Champagne-Ardenne-Lorraine
+47,240;Lot-et-Garonne;Aquitaine-Limousin-Poitou-Charentes
+48,160;Lozre;Languedoc-Roussillon-Midi-Pyrénées
+28,230;Eure-et-Loir;Centre-Val de Loire
+29,120;Finistre;Bretagne
+59,273;Nord;Nord-Pas-de-Calais-Picardie
+29,780;Finistre;Bretagne
+42,390;Loire;Auvergne-Rhône-Alpes
+84,700;Vaucluse;Provence-Alpes-Côte d'Azur
+85,190;Vendée;Pays de la Loire
+67,112;Bas-Rhin;Alsace-Champagne-Ardenne-Lorraine
+9,460;Arige;Languedoc-Roussillon-Midi-Pyrénées
+32,100;Gers;Languedoc-Roussillon-Midi-Pyrénées
+14,340;Calvados;Normandie
+83,370;Var;Provence-Alpes-Côte d'Azur
+73,150;Savoie;Auvergne-Rhône-Alpes
+49,240;Maine-et-Loire;Pays de la Loire
+4,180;Alpes-de-Haute-Provence;Provence-Alpes-Côte d'Azur
+60,005;Oise;Nord-Pas-de-Calais-Picardie
+71,490;Saône-et-Loire;Bourgogne-Franche-Comté
+42,620;Loire;Auvergne-Rhône-Alpes
+64,520;Pyrénées-Atlantiques;Aquitaine-Limousin-Poitou-Charentes
+77,520;Seine-et-Marne;Ile-de-France
+86,530;Vienne;Aquitaine-Limousin-Poitou-Charentes
+74,550;Haute-Savoie;Auvergne-Rhône-Alpes
+78,515;Yvelines;Ile-de-France
+46,230;Lot;Languedoc-Roussillon-Midi-Pyrénées
+26,170;Drôme;Auvergne-Rhône-Alpes
+62,231;Pas-de-Calais;Nord-Pas-de-Calais-Picardie
+66,600;Pyrénées-Orientales;Languedoc-Roussillon-Midi-Pyrénées
+71,680;Saône-et-Loire;Bourgogne-Franche-Comté
+54,440;Meurthe-et-Moselle;Alsace-Champagne-Ardenne-Lorraine
+89,430;Yonne;Bourgogne-Franche-Comté
+25,610;Doubs;Bourgogne-Franche-Comté
+6,730;Alpes-Maritimes;Provence-Alpes-Côte d'Azur
+70,150;Haute-Saône;Bourgogne-Franche-Comté
+29,360;Finistre;Bretagne
+1,390;Ain;Auvergne-Rhône-Alpes
+6,380;Alpes-Maritimes;Provence-Alpes-Côte d'Azur
+32,300;Gers;Languedoc-Roussillon-Midi-Pyrénées
+18,600;Cher;Centre-Val de Loire
+74,380;Haute-Savoie;Auvergne-Rhône-Alpes
+57,730;Moselle;Alsace-Champagne-Ardenne-Lorraine
+66,004;Pyrénées-Orientales;Languedoc-Roussillon-Midi-Pyrénées
+54,680;Meurthe-et-Moselle;Alsace-Champagne-Ardenne-Lorraine
+63,930;Puy-de-Dôme;Auvergne-Rhône-Alpes
+29,860;Finistre;Bretagne
+75,375;Paris;Ile-de-France
+82,800;Tarn-et-Garonne;Languedoc-Roussillon-Midi-Pyrénées
+21,170;Côte-d'or;Bourgogne-Franche-Comté
+45,210;Loiret;Centre-Val de Loire
+12,110;Aveyron;Languedoc-Roussillon-Midi-Pyrénées
+42,410;Loire;Auvergne-Rhône-Alpes
+35,870;Ille-et-Vilaine;Bretagne
+74,360;Haute-Savoie;Auvergne-Rhône-Alpes
+39,380;Jura;Bourgogne-Franche-Comté
+33,620;Gironde;Aquitaine-Limousin-Poitou-Charentes
+35,043;Ille-et-Vilaine;Bretagne
+28,500;Eure-et-Loir;Centre-Val de Loire
+35,133;Ille-et-Vilaine;Bretagne
+61,310;Orne;Normandie
+53,140;Mayenne;Pays de la Loire
+60,940;Oise;Nord-Pas-de-Calais-Picardie
+11,200;Aude;Languedoc-Roussillon-Midi-Pyrénées
+26,260;Drôme;Auvergne-Rhône-Alpes
+27,260;Eure;Normandie
+26,330;Drôme;Auvergne-Rhône-Alpes
+62,560;Pas-de-Calais;Nord-Pas-de-Calais-Picardie
+28,700;Eure-et-Loir;Centre-Val de Loire
+80,410;Somme;Nord-Pas-de-Calais-Picardie
+35,220;Ille-et-Vilaine;Bretagne
+5,500;Hautes-Alpes;Provence-Alpes-Côte d'Azur
+54,660;Meurthe-et-Moselle;Alsace-Champagne-Ardenne-Lorraine
+86,320;Vienne;Aquitaine-Limousin-Poitou-Charentes
+62,710;Pas-de-Calais;Nord-Pas-de-Calais-Picardie
+5,600;Hautes-Alpes;Provence-Alpes-Côte d'Azur
+86,450;Vienne;Aquitaine-Limousin-Poitou-Charentes
+73,260;Savoie;Auvergne-Rhône-Alpes
+33,230;Gironde;Aquitaine-Limousin-Poitou-Charentes
+87,570;Haute-Vienne;Aquitaine-Limousin-Poitou-Charentes
+43,750;Haute-Loire;Auvergne-Rhône-Alpes
+62,340;Pas-de-Calais;Nord-Pas-de-Calais-Picardie
+59,199;Nord;Nord-Pas-de-Calais-Picardie
+68,180;Haut-Rhin;Alsace-Champagne-Ardenne-Lorraine
+89,450;Yonne;Bourgogne-Franche-Comté
+21,630;Côte-d'or;Bourgogne-Franche-Comté
+68,740;Haut-Rhin;Alsace-Champagne-Ardenne-Lorraine
+13,740;Bouches-du-Rhône;Provence-Alpes-Côte d'Azur
+62,890;Pas-de-Calais;Nord-Pas-de-Calais-Picardie
+55,310;Meuse;Alsace-Champagne-Ardenne-Lorraine
+33,720;Gironde;Aquitaine-Limousin-Poitou-Charentes
+13,113;Bouches-du-Rhône;Provence-Alpes-Côte d'Azur
+66,210;Pyrénées-Orientales;Languedoc-Roussillon-Midi-Pyrénées
+44,119;Loire-Atlantique;Pays de la Loire
+77,430;Seine-et-Marne;Ile-de-France
+57,470;Moselle;Alsace-Champagne-Ardenne-Lorraine
+62,700;Pas-de-Calais;Nord-Pas-de-Calais-Picardie
+44,570;Loire-Atlantique;Pays de la Loire
+89,110;Yonne;Bourgogne-Franche-Comté
+22,320;Côtes-d'armor;Bretagne
+35,160;Ille-et-Vilaine;Bretagne
+21,160;Côte-d'or;Bourgogne-Franche-Comté
+56,530;Morbihan;Bretagne
+59,221;Nord;Nord-Pas-de-Calais-Picardie
+33,360;Gironde;Aquitaine-Limousin-Poitou-Charentes
+57,690;Moselle;Alsace-Champagne-Ardenne-Lorraine
+67,023;Bas-Rhin;Alsace-Champagne-Ardenne-Lorraine
+26,150;Drôme;Auvergne-Rhône-Alpes
+71,710;Saône-et-Loire;Bourgogne-Franche-Comté
+21,260;Côte-d'or;Bourgogne-Franche-Comté
+57,640;Moselle;Alsace-Champagne-Ardenne-Lorraine
+88,530;Vosges;Alsace-Champagne-Ardenne-Lorraine
+42,360;Loire;Auvergne-Rhône-Alpes
+78,711;Yvelines;Ile-de-France
+30,420;Gard;Languedoc-Roussillon-Midi-Pyrénées
+67,114;Bas-Rhin;Alsace-Champagne-Ardenne-Lorraine
+69,410;Rhône;Auvergne-Rhône-Alpes
+76,650;Seine-Maritime;Normandie
+25,550;Doubs;Bourgogne-Franche-Comté
+84,220;Vaucluse;Provence-Alpes-Côte d'Azur
+35,135;Ille-et-Vilaine;Bretagne
+56,120;Morbihan;Bretagne
+45,130;Loiret;Centre-Val de Loire
+57,170;Moselle;Alsace-Champagne-Ardenne-Lorraine
+54,116;Meurthe-et-Moselle;Alsace-Champagne-Ardenne-Lorraine
+2,210;Aisne;Nord-Pas-de-Calais-Picardie
+63,190;Puy-de-Dôme;Auvergne-Rhône-Alpes
+52,000;Haute-Marne;Alsace-Champagne-Ardenne-Lorraine
+50,000;Manche;Normandie
+35,780;Ille-et-Vilaine;Bretagne
+62,230;Pas-de-Calais;Nord-Pas-de-Calais-Picardie
+66,005;Pyrénées-Orientales;Languedoc-Roussillon-Midi-Pyrénées
+49,440;Maine-et-Loire;Pays de la Loire
+5,300;Hautes-Alpes;Provence-Alpes-Côte d'Azur
+17,540;Charente-Maritime;Aquitaine-Limousin-Poitou-Charentes
+47,700;Lot-et-Garonne;Aquitaine-Limousin-Poitou-Charentes
+46,350;Lot;Languedoc-Roussillon-Midi-Pyrénées
+92,438;Hauts-de-Seine;Ile-de-France
+56,510;Morbihan;Bretagne
+49,310;Maine-et-Loire;Pays de la Loire
+91,770;Essonne;Ile-de-France
+37,500;Indre-et-Loire;Centre-Val de Loire
+33,820;Gironde;Aquitaine-Limousin-Poitou-Charentes
+16,200;Charente;Aquitaine-Limousin-Poitou-Charentes
+61,570;Orne;Normandie
+57,460;Moselle;Alsace-Champagne-Ardenne-Lorraine
+37,700;Indre-et-Loire;Centre-Val de Loire
+54,850;Meurthe-et-Moselle;Alsace-Champagne-Ardenne-Lorraine
+10,270;Aube;Alsace-Champagne-Ardenne-Lorraine
+95,131;Val-d'oise;Ile-de-France
+72,190;Sarthe;Pays de la Loire
+80,650;Somme;Nord-Pas-de-Calais-Picardie
+28,240;Eure-et-Loir;Centre-Val de Loire
+81,660;Tarn;Languedoc-Roussillon-Midi-Pyrénées
+59,530;Nord;Nord-Pas-de-Calais-Picardie
+45,700;Loiret;Centre-Val de Loire
+76,280;Seine-Maritime;Normandie
+8,240;Ardennes;Alsace-Champagne-Ardenne-Lorraine
+62,460;Pas-de-Calais;Nord-Pas-de-Calais-Picardie
+81,380;Tarn;Languedoc-Roussillon-Midi-Pyrénées
+92,211;Hauts-de-Seine;Ile-de-France
+67,501;Bas-Rhin;Alsace-Champagne-Ardenne-Lorraine
+82,400;Tarn-et-Garonne;Languedoc-Roussillon-Midi-Pyrénées
+73,320;Savoie;Auvergne-Rhône-Alpes
+76,750;Seine-Maritime;Normandie
+46,160;Lot;Languedoc-Roussillon-Midi-Pyrénées
+60,690;Oise;Nord-Pas-de-Calais-Picardie
+88,120;Vosges;Alsace-Champagne-Ardenne-Lorraine
+73,500;Savoie;Auvergne-Rhône-Alpes
+62,159;Pas-de-Calais;Nord-Pas-de-Calais-Picardie
+61,800;Orne;Normandie
+84,760;Vaucluse;Provence-Alpes-Côte d'Azur
+35,480;Ille-et-Vilaine;Bretagne
+27,600;Eure;Normandie
+27,940;Eure;Normandie
+95,640;Val-d'oise;Ile-de-France
+12,240;Aveyron;Languedoc-Roussillon-Midi-Pyrénées
+17,250;Charente-Maritime;Aquitaine-Limousin-Poitou-Charentes
+23,340;Creuse;Aquitaine-Limousin-Poitou-Charentes
+30,870;Gard;Languedoc-Roussillon-Midi-Pyrénées
+13,410;Bouches-du-Rhône;Provence-Alpes-Côte d'Azur
+72,310;Sarthe;Pays de la Loire
+54,620;Meurthe-et-Moselle;Alsace-Champagne-Ardenne-Lorraine
+6,590;Alpes-Maritimes;Provence-Alpes-Côte d'Azur
+87,500;Haute-Vienne;Aquitaine-Limousin-Poitou-Charentes
+54,980;Meurthe-et-Moselle;Alsace-Champagne-Ardenne-Lorraine
+80,390;Somme;Nord-Pas-de-Calais-Picardie
+62,210;Pas-de-Calais;Nord-Pas-de-Calais-Picardie
+69,190;Rhône;Auvergne-Rhône-Alpes
+74,570;Haute-Savoie;Auvergne-Rhône-Alpes
+47,400;Lot-et-Garonne;Aquitaine-Limousin-Poitou-Charentes
+46,700;Lot;Languedoc-Roussillon-Midi-Pyrénées
+64,440;Pyrénées-Atlantiques;Aquitaine-Limousin-Poitou-Charentes
+86,960;Vienne;Aquitaine-Limousin-Poitou-Charentes
+52,340;Haute-Marne;Alsace-Champagne-Ardenne-Lorraine
+59,960;Nord;Nord-Pas-de-Calais-Picardie
+69,520;Rhône;Auvergne-Rhône-Alpes
+58,700;Nivre;Bourgogne-Franche-Comté
+17,320;Charente-Maritime;Aquitaine-Limousin-Poitou-Charentes
+70,300;Haute-Saône;Bourgogne-Franche-Comté
+59,470;Nord;Nord-Pas-de-Calais-Picardie
+43,200;Haute-Loire;Auvergne-Rhône-Alpes
+72,330;Sarthe;Pays de la Loire
+26,905;Drôme;Auvergne-Rhône-Alpes
+64,300;Pyrénées-Atlantiques;Aquitaine-Limousin-Poitou-Charentes
+68,040;Haut-Rhin;Alsace-Champagne-Ardenne-Lorraine
+66,110;Pyrénées-Orientales;Languedoc-Roussillon-Midi-Pyrénées
+27,037;Eure;Normandie
+54,140;Meurthe-et-Moselle;Alsace-Champagne-Ardenne-Lorraine
+84,260;Vaucluse;Provence-Alpes-Côte d'Azur
+76,740;Seine-Maritime;Normandie
+42,820;Loire;Auvergne-Rhône-Alpes
+56,570;Morbihan;Bretagne
+80,560;Somme;Nord-Pas-de-Calais-Picardie
+44,130;Loire-Atlantique;Pays de la Loire
+78,117;Yvelines;Ile-de-France
+68,140;Haut-Rhin;Alsace-Champagne-Ardenne-Lorraine
+42,210;Loire;Auvergne-Rhône-Alpes
+13,109;Bouches-du-Rhône;Provence-Alpes-Côte d'Azur
+44,520;Loire-Atlantique;Pays de la Loire
+41,201;Loir-et-Cher;Centre-Val de Loire
+35,750;Ille-et-Vilaine;Bretagne
+83,994;Var;Provence-Alpes-Côte d'Azur
+4,350;Alpes-de-Haute-Provence;Provence-Alpes-Côte d'Azur
+14,390;Calvados;Normandie
+5,110;Hautes-Alpes;Provence-Alpes-Côte d'Azur
+43,290;Haute-Loire;Auvergne-Rhône-Alpes
+30,380;Gard;Languedoc-Roussillon-Midi-Pyrénées
+34,490;Hérault;Languedoc-Roussillon-Midi-Pyrénées
+59,027;Nord;Nord-Pas-de-Calais-Picardie
+19,400;Corrze;Aquitaine-Limousin-Poitou-Charentes
+1,120;Ain;Auvergne-Rhône-Alpes
+62,320;Pas-de-Calais;Nord-Pas-de-Calais-Picardie
+10,170;Aube;Alsace-Champagne-Ardenne-Lorraine
+27,430;Eure;Normandie
+86,220;Vienne;Aquitaine-Limousin-Poitou-Charentes
+57,245;Moselle;Alsace-Champagne-Ardenne-Lorraine
+10,130;Aube;Alsace-Champagne-Ardenne-Lorraine
+76,800;Seine-Maritime;Normandie
+60,730;Oise;Nord-Pas-de-Calais-Picardie
+57,630;Moselle;Alsace-Champagne-Ardenne-Lorraine
+17,220;Charente-Maritime;Aquitaine-Limousin-Poitou-Charentes
+63,220;Puy-de-Dôme;Auvergne-Rhône-Alpes
+76,270;Seine-Maritime;Normandie
+45,120;Loiret;Centre-Val de Loire
+42,430;Loire;Auvergne-Rhône-Alpes
+56,550;Morbihan;Bretagne
+14,550;Calvados;Normandie
+80,170;Somme;Nord-Pas-de-Calais-Picardie
+83,890;Var;Provence-Alpes-Côte d'Azur
+57,720;Moselle;Alsace-Champagne-Ardenne-Lorraine
+14,570;Calvados;Normandie
+63,460;Puy-de-Dôme;Auvergne-Rhône-Alpes
+38,470;Isre;Auvergne-Rhône-Alpes
+7,270;Ardche;Auvergne-Rhône-Alpes
